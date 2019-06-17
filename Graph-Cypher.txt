@@ -1,0 +1,20 @@
+CREATE (MarkZuckerberg:Person {name: 'Mark Zuckerberg'})
+CREATE (Facebook:Company {name: 'Facebook, Inc.', handle: 'FB'})
+CREATE (MarkZuckerberg)-[:WORKS_AT {position: 'CEO'}]->(Facebook)
+CREATE (Facebook)-[:CREATED_BY {date: '2004'}]->(MarkZuckerberg)
+
+CREATE (SteveJobs:Person {name: 'Steve Jobs'})
+CREATE (Apple:Company {name: 'Apple, Inc.', handle: 'AAPL'})
+CREATE (SteveJobs)-[:WORKS_AT {position: 'CEO'}]->(Apple)
+CREATE (Apple)-[:CREATED_BY {date: '1976'}]->(SteveJobs)
+
+CREATE (iPhone2g:Product {name: 'iPhone 2G'})
+// add properties like hardware, software, feature, etc.
+CREATE (iPhone2g)-[:CREATED_BY]->(Apple)
+CREATE (MacWorld2007:Event {name: 'MacWorld 2007'})
+CREATE (iPhone2g)-[:PRESENTED_AT]->(MacWorld2007)
+
+CREATE (SocialGraph:Product {name: 'Social Graph'})
+CREATE (F82011:Event {name:'F8 2011'})
+CREATE (Facebook)<-[:CREATED_BY]-(SocialGraph)-[:PRESENTED_AT]->(F82011)
+CREATE (SocialGraph)-[:PRODUCT_OF]->(Facebook)
