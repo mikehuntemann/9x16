@@ -7,7 +7,7 @@ dual nature of the Internet that Protocol points to: its horizontality (communit
 https://youtu.be/p0ftZgCEZos
 30:30
 Why you can not win by competing with FB or Bitcoin?
-> The only way you can fail is from the inside. It has to fail because of a critical vulnerability that can not be fixed or that people don’t want to fix. It has to fail because of a failure of community, trust or culture. And that is very difficult to do with a technology that has so many participants, who have so many different motivations, different cultures, different languages, different operating systems, different software platforms, all collaborating around one core basic set of ideas. They have all be disappointed for all the different reasons.”
+> "The only way you can fail is from the inside. It has to fail because of a critical vulnerability that can not be fixed or that people don’t want to fix. It has to fail because of a failure of community, trust or culture. And that is very difficult to do with a technology that has so many participants, who have so many different motivations, different cultures, different languages, different operating systems, different software platforms, all collaborating around one core basic set of ideas. They have all be disappointed for all the different reasons.”
 
 
 
@@ -39,3 +39,14 @@ Vertical integration to modularization and back
 p2p
 Missing incentive structure for offering content on torrents + upload capacity was asymmetrical to download
 > changed in the last few years, download and upload a symmetric now 
+
+“You must be shapeless, formless, like water”
+Information architecture to be responsive to final rendering
+
+
+database-centric and data assets, oracle (70s)
+https://youtu.be/o_TH-Y78tt4?t=2566
+46:15 why do we have databases? We want things to persist
+> we had persistence long before we had (relational) databases > unix style directory structures (hierarchical)
+A good architecture maximizes the number of decisions not made!
+> not application dependent, exchange formats (e.g. markdown)
