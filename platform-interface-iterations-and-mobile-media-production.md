@@ -62,6 +62,11 @@ You create a product which establishes a network and then you iterate the increa
 
  facebook is the store of social value which leverages on the scarce asset of attention, human time.
  
+ > vertical media is a result of an ai / data-driven, engagement focused environment
+> metrics of success changed, box office > revenue vs community growth rates 
+> the format of websites became responsive due to mobile visitors, vertical video is deeply centralized (like youtube) because of the hosting + network effects 
+ 
+ 
  
  When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place. So was is the motivation behind it? What metrics make it a good investment for the company? What does the network want?
 > Engagement rates
@@ -69,3 +74,10 @@ You create a product which establishes a network and then you iterate the increa
 > 
 
 See also facebook server instrastructure notes > native video
+
+zuckerberg on adjusting video content 
+meaningful interactions vs viral videos 
+1:11:00 
+https://www.youtube.com/watch?v=Boj9eD0Wug8&feature=youtu.be
+viral videos discreasing meaningful interactions
+viral videos increasing time on site

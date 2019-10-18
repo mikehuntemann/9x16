@@ -39,3 +39,7 @@ Nature prefers simplicity and symmetry
 
 
 plot twist
+
+
+“ByteDance has accumulated a vast amount of content and social media created by people and rich engagement data across our various products. This massive data is fed into our machine learning algorithms, which further refines the quality of users’ content feed and enhances the content experience, which in turn encourages more engagement and generates more data to be fed back into our algorithms. We use this virtuous cycle to optimize every stage of the “content lifecycle”—creation, moderation, curation, recommendation and interaction.”
+https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
