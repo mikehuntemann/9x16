@@ -24,7 +24,7 @@ Chamath quote: free
 "not a facebook problem"
 https://youtu.be/hZY986XSHxM
 
-with payment comes expectations, rights and privilige(voice), we expect things to be free on the internet
+only with payment comes expectations, rights and priviliges (voice), we expect things to be free on the internet > consumer problem
 tradeoff: "free software with ads to make up the difference" > "undefinded grey area between who is the consumer, the customer and how much of a product are you a part of" > payment and subscription
 "there is nothing as free lunch" - @naval
 

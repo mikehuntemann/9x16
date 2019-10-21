@@ -4,20 +4,25 @@
 
 ### Pareto Principle
 > long tail
+> 80/20
+> power law that exists in every market
 
 ### Metcalfes Law
+> v=n^2
+> defines the theoretical value of a network
 
 ### Goldilocks Rule
+> just right, best place for learning, motivation and challenge
 
 ### Zuckerbergs Law
 > joke? the moore's law for social
-> Moore's law is the observation that the number of transistors in a dense integrated circuit doubles about every two years.
+> Mark's law is the observation that the bandwidth of communication in a dense social network doubles about every two years.
 
 ### Vertical Integration
 > unifying function, internalizing
 
 ### Horizontal Integration
-> cooperating function, externalizing
+> cooperating function, externalizing, modulization
 
 
 
