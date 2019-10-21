@@ -45,14 +45,24 @@ Hollywood Film / Movie
 YouTube Video
 Post / Story / Meme
 
+
+
+The instant, in-the-moment or real-time nature of these services are a result of the mobility of the smartphone as main driver. This consquently led to the fragmentation or segmentation of media content, to integrate perfectly into the everyday life and the short timeframes of boredom that want to be iredicated. Smaller content increases the feedback loops until everything becomes an endless process, a continous conversation.
+
+
 Pump and dump = another platform that is going to take off potentially = VC funding
 Therefore the narrative of products that might transition into a profitable business in the future. 
 This led to flipping and merging little apps / companies into the bigger ones. 
 The narrative will change if this market cycle ends and will lead to profitability focused business models. 
+This cycle coincides with the emerging digital economies of crypto-currencies and digital tokens, which will inevitably change the fundamental characteristics and "freeness" of the internet.
+vs Ad-based business models are the only way to make money on the internet.
 
 
-Verticality as a mean of institutional self-preservation
-The commodification of time / attention
+Verticality as a mean of institutional self-preservation, at its core it is just survival. 
+
+The commodification of time and attention.
+
+
 
 Short video formats are going to die or will survive through iterative alterations or memification (participation culture).
 
@@ -68,7 +78,7 @@ The metrics of success have changed. For movies it was the box office, the reven
 The format of websites became responsive due to mobile visitors. 
 
 Vertical media is deeply centralized because of the "hosting problem" and network effects.
- 
+
 All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard. Owning the attention within these communication channels is the new version of property rights.
  
  
