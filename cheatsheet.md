@@ -8,14 +8,14 @@
 > power law that exists in every market
 
 ### Metcalfes Law
-> v=n^2
+> value=n^2
 > defines the theoretical value of a network
+> ecosystems create more value than each component on its own
 
 ### Goldilocks Rule
 > just right, best place for learning, motivation and challenge
 
 ### Zuckerbergs Law
-> joke? the moore's law for social
 > Mark's law is the observation that the bandwidth of communication in a dense social network doubles about every two years.
 
 ### Vertical Integration
@@ -24,7 +24,8 @@
 ### Horizontal Integration
 > cooperating function, externalizing, modulization
 
-
+### Flow
+> workflow, optimal experience, continuity
 
 
 # Fundamental Dualities
