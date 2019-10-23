@@ -2,6 +2,8 @@
 > glossary, powertrain (Antrieb, Triebwerk) 
 > notes to power-laws, network effects, etc.
 
+//hi mike did you notice me. here. 
+
 ### Pareto Principle
 > long tail
 > 80/20
