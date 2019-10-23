@@ -38,8 +38,8 @@
 ### Horizontal Integration
 > cooperating function, externalizing, modulization
 
-### Flow
-> workflow, optimal experience, continuity
+### Flow Optimization
+> workflow, optimal experience, continuity, circulation, throughput, bandwidth, density
 
 
 # Fundamental Dualities

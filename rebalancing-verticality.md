@@ -1,8 +1,8 @@
 # Rebalancing Verticality
 
-Protocol
-P. 18
-dual nature of the Internet that Protocol points to: its horizontality (community networks; TCP/IP) and its verticality (its stratification; DNS). 
+On „monopoly“:
+You can not solve the problem with the same stack of technology that created the „problem“
+
 
 https://youtu.be/p0ftZgCEZos
 30:30
@@ -50,3 +50,7 @@ https://youtu.be/o_TH-Y78tt4?t=2566
 > we had persistence long before we had (relational) databases > unix style directory structures (hierarchical)
 A good architecture maximizes the number of decisions not made!
 > not application dependent, exchange formats (e.g. markdown)
+
+
+Constraints from new encryption based protocols that limit the capabilities of data usage > you can not verify what Facebook is actually doing with data
+

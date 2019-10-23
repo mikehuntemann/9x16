@@ -34,5 +34,16 @@ Facebook was fun, at first. Instagram was fun, at first. Snapchat was fun, at fi
 
 
 
+Re-enactments 
 
+
+Virality is a form of synchronization
+> rhythm
+> repetition
+> habit
+> as a means of survival
+> what wants to survive?
+> the idea, the construct, the pattern, the network
+
+"Nature prefers simplicity and symmetry."
 

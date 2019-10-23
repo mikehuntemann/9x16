@@ -22,4 +22,10 @@ also changes of industry through publishing on soundcloud
 > filesystem abstraction, closed system
 > but bootstrapped from p2p filesharing and ripping cds
 > managing the music files in an application dependent system for specifc music hardware (ipod), then became general purpose (iphone) which inherits the same control mechanisms 
-> closed system with syncing increased trust of the industry to prevent the possibilit of mobile device file-sharing
+> closed system with syncing increased trust of the industry to prevent the possibility of mobile device file-sharing
+
+
+- - - - - - - -
+
+Web 1.0 read (you host your stuff to let others read)
+Web 2.0 read write (you add stuff to a platform that you dont own that "more" people can read)
