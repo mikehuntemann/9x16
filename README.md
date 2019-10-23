@@ -11,4 +11,4 @@
 [#7 MEMES](./memes.md)  
 [#8 REBALANCING](./rebalancing-verticality.md)  
 [#9 CHEATSHEET](./cheatsheet.md)  
-[#10 REFERENCES / RESOURCES]()
+[#10 STORE](store.md)
