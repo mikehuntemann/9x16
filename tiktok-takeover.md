@@ -48,4 +48,8 @@ https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
 Elephant in the brain: Chapter Communication
 Visual communication in vertical mediums > body language / performance
 > other way of expression, richer, more bandwidth
-Hosting a thought
+Hosting a thought > the parasitic nature of the meme
+
+
+the role of sound hits steyerl’s work:
+>“One of the reasons [that sound is so vital for the work] is that usually there is such an array of confusing and very very different sources of material which have almost nothing to do with one another even though I pretend. But the only reason why are people able to somehow pretend they go along with this fiction is because the music somehow provides a pretext for doing so. So it unifies, it creates the narrative basically.” - "What is Contemprary? A conversation with Hito Steyerl" published by MOCA (Feb, 2016)

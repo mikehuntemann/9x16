@@ -31,3 +31,8 @@ be cautious about habits, what you want let in, what you participate in
 > "The things you own end up owning you. But do what you like, man." - Tyler Durden
 
 Facebook was fun, at first. Instagram was fun, at first. Snapchat was fun, at first. TikTok is fun, you know how this might go on..
+
+
+
+
+
