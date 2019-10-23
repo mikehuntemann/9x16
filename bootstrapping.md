@@ -1,4 +1,4 @@
-#Bootstrapping
+# Bootstrapping
 
 Through the lense of bootstrapping you can get a grasp on how technologies somehow lead naturally to the next idea. IMHO, there is a difference between "disrupitve" innovation (implies a paradigm shift on a deeper infrastructural level) and iteration as an alteration of applications build upon the same infrastructural level which tends to be a more efficient version of the status quo.
 
@@ -13,7 +13,7 @@ In the following I will try to outline the different bootstrapping approaches of
 **Amazon AWS (2006)** is bootstrapping from the "general purpose" hardware stack and combined it into one easy-to-use, subscription-based service. Every service had to run on its own servers, not anymore. 
 
 
-**YouTube (2006)** is bootstrapping from video-capable digital cameras, which already were in use but didn't had "free" storage on the internet to be shared publicly and similar media sharing and community platforms like Flickr (2004), which was based on photography.
+**YouTube (2006)** is bootstrapping from video-capable digital cameras, which already were in use but didn't had "free" storage on the internet to be shared publicly and similar media sharing and community platforms like **Flickr (2004)**, which is based on photography.
 (free, public-facing hosting)
 
 
@@ -46,10 +46,14 @@ The internet (ARPANET: 1969) itself is bootstrapping from the telephone lines.
 - - - - - - - - - 
 
 
-###2004 - 2006
+### 2004 - 2006
 > Social / Scale / Storage 
 > Building Hardware Infrastructure
 
 ### 2010 - 2013
 > Mobile Devices / Image Production / AWS Bootstrapping
 > Renting Hardware Infrastructure
+
+- - - - - - - - - 
+
+> "[Bootstrapping] is the process of starting a computer, specifically with regard to starting its software. The process involves a chain of stages, in which at each stage a smaller, simpler program loads and then executes the larger, more complicated program of the next stage. It is in this sense that the computer "pulls itself up by its bootstraps", i.e. it improves itself by its own efforts."

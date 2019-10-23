@@ -1,4 +1,4 @@
-# memes
+# Memes
 > downloads/flow-collection/the-evolving-self-1993
 
 facebook as a meme? more powerful version through bigger network
