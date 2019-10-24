@@ -1,5 +1,11 @@
 # Waves of Infrastructure
-To contexualize the current state of internet platform infrastructure it is useful to understand the different stages and the process of verticality. IMHO, this is most obvious when we look at the distribution of music, due to its relativly small filesize and its general interest: Everybody listens to music, somehow.
+To contexualize the current state of internet platform infrastructure it is useful to understand the different stages and the process of verticality or centralization. 
+
+Web 1.0 read (you host your stuff to let others read)
+Web 2.0 read write (you add stuff to a platform that you dont own that "more" people can read)
+Web 3.0 read write verify
+
+IMHO, this is most obvious when we look at the distribution of music, due to its relativly small filesize and its general interest: Everybody listens to music, somehow.
 
 ### Wave One: P2P Filesharing (distributed)
 > peer-to-peer software to exchange files
@@ -27,5 +33,3 @@ also changes of industry through publishing on soundcloud
 
 - - - - - - - -
 
-Web 1.0 read (you host your stuff to let others read)
-Web 2.0 read write (you add stuff to a platform that you dont own that "more" people can read)
