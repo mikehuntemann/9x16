@@ -55,7 +55,7 @@
 - local vs global
 - private vs public
 - physical vs digital
-- scarcity vs abbundance
+- scarcity vs abundance
 - free vs expensive
 - (intellectual) property vs commons
 - closed source (proprietary) vs open source

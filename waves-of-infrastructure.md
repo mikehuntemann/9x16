@@ -12,7 +12,7 @@ It was content - mostly text and photos – that was hosted by one person or gro
 // reputation, relevance & personalization
 
 ### Distributed Web
-In the last few years a different movement started to grow again: the idea about linked data, the **Web 3.0**. This paradigm adds the capability of verifiablity to the reading and writing procedures, which I will explain in the last chapter "Rebalancing Verticality".
+In the last few years a different movement started to grow again: the idea about linked data, the **Web 3.0**. This paradigm adds the capability of verifiablity (trust) to the reading and writing procedures, which I will explain in the last chapter "Rebalancing Verticality".
 
 - - - - - - -
 
