@@ -27,6 +27,10 @@ IMHO, this process becomes most obvious when we look at the history and distribu
 > another problem: always-on, only available when other participants are only, synchronicity
 > file management is completely in the hands of the users 
 
+
+Back in the days, peer-to-peer filesharing had the missing incentive structure for offering the content on torrents which led to a marketplace on the basis of althruism, therefore paving the way for the "free-rider problem". This mixed togother with a limited upload capacity which was asymmetrical to the download as well as the regulatory framework that suppressed the usage by the narration of piracy ("You wouldn't steal a car!") and threats of potential legal action. 
+
+
 ### Apple, Trust and the Music Industry
 > filesystem abstraction, closed system
 > but bootstrapped from p2p filesharing and ripping cds
