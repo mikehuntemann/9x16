@@ -70,21 +70,25 @@ Many apps were focusing on cross-platform social media content production and sh
 The keyword here is timeline or newsfeed share ability. Images that have to integrate and live within the structures of these “content management systems”(?) / containers / stable formats / medium. 
 
 
-### The Basics
+### The Basics (2008-2009)
 
-> On-Device Photo Editing
-> Text Messaging / Status Updating
+- Chat / Text Messaging / Status Updating
+- Push-Notifications
+- On-Device Photo Editing
 
 
 ### The Square Picture (2010)
 
-“Most recently we’re seeing the rise of medium-specific networks whether they be around music (Spotify), text (Twitter) or images (Instagram). As time goes on, I think we’re likely to see concentrated verticals of social networks around different media.” - Kevin Systrom, CEO of Instagram (Nov, 2012)
+> “Most recently we’re seeing the rise of medium-specific networks whether they be around music (Spotify), text (Twitter) or images (Instagram). As time goes on, I think we’re likely to see concentrated verticals of social networks around different media.” - Kevin Systrom, CEO of Instagram (Nov, 2012)
 
 4:3 screen, square + interface
-> ipod music app > cover + interface
+- ipod music app: cover + interface
 
 
 ### The Square Video (2011)
+
+instagram clone that can be integrated into twitter, 6 seconds
+adoption 
 
 
 ### The Vertical Picture (2011)
@@ -100,16 +104,16 @@ youtube as reference platform
 amateure videos, no editing, quickly shot, spontanious, fun
 
 
-### The Vertical Canvas (Stories)
+### The Vertical Canvas \[Stories] (2013)
 image + video + interaction in sequences
 "on-platform editing"
 
 
-### The Vertical Live Video
+### The Vertical Video (2014)
+musically, problem of feed integration, branding > cropping 
 
-
-### The Vertical Video
-
+### The Vertical Live Video (2015)
+periscope, meerkat, facebook live, instagram live
 
 ### Vertical Media / Viral Media 
 
@@ -135,16 +139,17 @@ Verticality as a mean of institutional self-preservation, at its core it is just
 ### Videos, Perception, Flow 
 
 When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
-> "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling 
-> fighting the meme / viral video > meaningful interaction vs reinforcing engagement
-> viral videos increasing time on site
-> zuckerberg on adjusting video content, 1:11:00 
+
+- "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling 
+- fighting the meme / viral video > meaningful interaction vs reinforcing engagement
+- viral videos increasing time on site
+- zuckerberg on adjusting video content, 1:11:00 
 https://www.youtube.com/watch?v=Boj9eD0Wug8&feature=youtu.be
-> video is not skim-able, you have to watch it for longer than a post or a picture, videos resonate more with our limbic system, less abstracted, more personal, more bandwidth, implicit information: body language, voice
+- video is not skim-able, you have to watch it for longer than a post or a picture, videos resonate more with our limbic system, less abstracted, more personal, more bandwidth, implicit information: body language, voice
 
 Short video formats are going to die or will survive through iterative alterations or memification ("participation" culture).
 
-fluidity as a medium (apple)
+- fluidity as a medium (apple)
 
 
 
