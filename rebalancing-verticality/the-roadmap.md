@@ -1,36 +1,3 @@
-# Rebalancing Verticality
-
-We won't get rid of verticals, but we can change their capacities, reduce their extend of influence.
-
-### The Hosting Problem
-
-The corporate database, the data silo and the single point of access and failure is the invention of Oracle in the 1970s. They were marketing the protection of the companies data as valuable assets. 
-Since then, the previously  
-
-database-centric and data assets, oracle (70s)
-https://youtu.be/o_TH-Y78tt4?t=2566
-46:15 why do we have databases? We want things to persist
-> we had persistence long before we had (relational) databases > unix style directory structures (hierarchical)
-A good architecture maximizes the number of decisions not made!
-> not application dependent, exchange formats (e.g. markdown)
-http used location based addressing > domain to ip 
-centralized location = single point of failure
-404 Error - Not found
-**IPFS (2015)**
-content addressing = stable
-“You must be shapeless, formless, like water”
-Information architecture to be responsive to final rendering
-we see notions of this in the movement and adoption of responsive websites as well as media content productions for several social media networks.
-
-
-hosting & identity need to be application / platform independent
-> need for digital money aka bitcoin
-> further atomization of content
-> markets / economic incentives to provide decentralized / autonomous infrastructure
-
-
-- - - - - - - -
-
 ### The Roadmap from Centralized to Decentralized  
 
 Why you can not win by competing directly with Facebook or Bitcoin?
@@ -54,28 +21,4 @@ Today it is not possible to verify what the Facebooks and the Googles are actual
 Or in this case, you can not solve the problems with the same stack of technologies that created them. When the flaws (privacy, surveillance, anti-trust, etc.) of today's internet are that fundamental, we won't solve them by iteration ("self-regulation" by companies) or legislation (regulation by nation states). The flaws are all symptoms of the underlying structure. So the shift has to come from the bottom up, integrated and adopted step by step, bit by bit, byte by byte.
 
 And if everything is naturally a cylce, then all empires must fall eventually, because history is repeating itself. They are waves.
-
-
-- - - - - - - - - - - 
-
- 
-
-Chamath quote: free 
-1:55
-"not a facebook problem"
-https://youtu.be/hZY986XSHxM
-
-only with payment comes expectations, rights and priviliges (voice), we expect things to be free on the internet > consumer problem
-tradeoff: "free software with ads to make up the difference" > "undefinded grey area between who is the consumer, the customer and how much of a product are you a part of" > payment and subscription
-"there is nothing as free lunch" - @naval
-
-Balaji Srinivasan
-Cyclic nature
-unbundling and bundling
-Packets (verticals) will be split, and then reconfigured (new vertical)
-40:00 mp3 unbundled albums and bundled them into a Playlist 
-Vertical integration to modularization and back
-
-
-
 
