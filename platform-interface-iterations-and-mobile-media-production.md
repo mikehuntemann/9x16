@@ -1,34 +1,30 @@
-# Platform Interface Iterations and Mobile Media Production
+# Fragments
+
+## Platforms, Applications, Interface Iterations, Mobile Media Production and Network Distribution
 
 > “You have to look on things in sequences, it's called path dependancy. The order matters.” - Nassim Taleb
-
 - Notes to installation, connecting the dots
 - timeline vs knowledge graph
 - mapping the space, handling complexity and parallel processes
 
 
-### General Trends within the Industry
 
-- Frameworks & developer tools + unified device make it easier create apps on the iPhone + userbase tends to pay more (verticality, efficency, usability)
-- Increasing the processing capacities of mobile devices (moore's law) 
-- Increasing image quality of mobile devices (second / third order moore's law) 
-- Increasing upload / download bandwidth via cellular network (async > sync)
-- Increasing bandwidth of communication (compression > expansion)
-- Increasing userbase of social media platforms (scale)
-- Low cost android smartphones + apps to get mass-adoption (scale)
+### Production Cycles & Time Compression
+// Externalize this paragraph?
 
-### Compression 
-Time to create, produce and release (entertaining) video content
+Time to create, produce and release video content
 filmmaker vs content creator
 
-Movie / Documentary
-YouTube Video
-Post / Story / Meme
+- Analog Film Production (Slow Feedback Process + Medium Scarcity) > High Risk / Limited in Distribution
+- Digital Film Production (Faster Feedback Process (Watch and Reshoot) + Storage Abundance) > TV Pilot for Testing (Risk Management)
+- YouTube Video Production (Even Faster Feedback Process (Shoot, Release, Community) + Hosting Abundanace
+- Post / Story / Meme Production (Immediate Feedback Process (All-In-One: Shoot, Release, Community, Hosting))
 
 
 ### Legacy Desktop Platforms
+// Integrate "What does the network want" chapter?
 
-- slow time-to-publish for image production > digital cameras to desktop (to editing) to browser upload
+- slow time-to-publish (TTP) for image production > digital cameras to desktop (to editing) to browser upload
 
 
 #### YouTube as Default for iOS
@@ -51,6 +47,16 @@ buying networks: instagram + whatsapp
 (WhatsApp had 450 million monthly active users and 315 million daily active users @IPO)
 That are a lot of unique phone numbers.
 
+
+### General Trends within the Industry
+
+- Frameworks & developer tools + unified device make it easier create apps on the iPhone + userbase tends to pay more (verticality, efficency, usability)
+- Increasing the processing capacities of mobile devices (moore's law) 
+- Increasing image quality of mobile devices (second / third order moore's law) 
+- Increasing upload / download bandwidth via cellular network (data plans + speed)
+- Increasing bandwidth of communication (compression > expansion)
+- Increasing userbase of social media platforms (scale)
+- Low cost android smartphones + apps to get mass-adoption (scale)
  
 ### iPhone
 
@@ -59,10 +65,8 @@ While there was a lot of potential for developers to make money with apps, most 
 
 In 2011, apple introduced its first SoC the Apple A4 which was used in the iPad and the iPhone 4. The increases in processing power while maintaining very efficient allowed the use cases for HD video and image processing. In combination with good camera quality, the iPhone 4 was presented as an all-in-one (vertical) solution for media production.
 
-> introduction of facetime, why are we not facetiming by now?
 
-
-### Two Dominant Feeds, External Production Tools
+### Two Dominant Feeds, External Image Production Tools
 
 vc funding, competitors, apps that integrate / build bridges
 
