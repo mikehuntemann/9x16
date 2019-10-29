@@ -3,10 +3,9 @@
 
 ## Framing the Frame
 
-### Where do I come from? (Intro)
+### Hello World (Intro)
 ### Related Research / Projects / Motivation (General)
-### How to do Research in a dynamic, fast pace, complex, multi-media environment? (General)
-### What is "9x16"? "Timeless Media"? (Specific)
+### What is "9x16"? (General)
 
 
 ## Waves of Infrastructure
