@@ -17,3 +17,4 @@ the pendulum swings
 - closed source (proprietary) vs open source
 - convergence vs divergence
 - state vs market
+- short-term vs long-term

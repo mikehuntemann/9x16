@@ -25,3 +25,5 @@
 
 #### "Timeless Media"?
 
+you can not predict the future and know what you are going to learn
+how to be as long as possible open to any kind of output or "product"?

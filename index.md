@@ -1,3 +1,5 @@
+// COPY README WHEN DONE !
+
 # 9x16: Verticality and the Paradigm of Mobile Video
 ### Index
 
@@ -20,16 +22,17 @@
 
 ## Network-Attached Media
 
-### Intro (bidirectional) and Comparison to Network-Attached Storage (unidirectional)
-### Image Production Cycles, Time Compression and Feedback Systems
-### Legacy Desktop Platforms
-### "Native" Format or Stable Medium
-### ...
+### Image Production Cycles, Time Compression and Feedback Systems (General)
+### Legacy Desktop Platforms (Specific)
+### Trends within the Industry (General)
+### What does the Network want? (General?)
+### The Initial Stable Medium (Specific)(?)
+### TikTok Takeover (Specific)
 
 
 ## Rebalancing Verticality
 
-### The Hosting Problem
+### The Hosting Problem (General)
 ### The Roadmap from Centralized to Decentralized
 ### ...
 

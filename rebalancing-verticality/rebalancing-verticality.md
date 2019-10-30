@@ -2,6 +2,7 @@
 
 We won't get rid of verticals, but we can change their capacities, reduce their extend of influence.
 
+and why tiktok may be excluded > too software / network specific and fast paced? > why even archive?
 
 - - - - - - - - - - - 
 
