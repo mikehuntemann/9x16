@@ -24,14 +24,14 @@ The browser was the only tool needed and download links could be shared easily.
 > file management is still in the hands of the user
 
 
-### Wave Three: Apple, Trust and the Music Industry (centralized)
+### Wave Two-to-Three: Apple, Trust and the Music Industry (centralized)
 > filesystem abstraction, closed system
 > but bootstrapped from p2p file-sharing and ripping cds
 > managing the music files in an application dependent system for specific music hardware (iPod), then became general purpose (iPhone) which inherits the same control mechanisms
 > closed system with syncing increased trust of the industry to prevent the possibility of mobile device file-sharing
 
 
-### Wave Four: Streaming Services & Platforms (vertical)
+### Wave Three: Streaming Services & Platforms (vertical)
 streaming services made file-sharing almost unnecessary for mainstream music, "all in one place", easy to navigate, no individual payments for a song, easy to mange, personal playlists
 > file management through platform
 also changes of industry through publishing on Soundcloud

@@ -22,8 +22,15 @@
 - Analog map + digital archive?
 - …
 
+![This is a photo](../assets/photo-1.png)
+
+![This is another photo](../assets/photo-2.png)
 
 ### "Timeless Media"?
 
 you can not predict the future and know what you are going to learn
 how to be as long as possible open to any kind of output or "product"?
+
+![This is a photo](../assets/photo-1.png)
+
+![This is a vertical photo](../assets/photo-3.png)

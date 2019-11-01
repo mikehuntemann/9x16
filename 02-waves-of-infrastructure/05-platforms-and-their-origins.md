@@ -35,4 +35,4 @@ The **Internet (1969)** itself is bootstrapping from the telephone lines. This i
 **Snapchat (2011)** and **WhatsApp (2009)** are both bootstrapping from the smartphone's contacts to function as "close-friends" network. Snapchat especially focuses, like instagram, on the iPhones photo production and editing capabilities.
 
 
-**TikTok (2017)** as well as **Musical.ly (2014)** are bootstrapping from viral videos that are a side effect of all previous "general purpose" social media platforms. In addition, they both profit from already centralized music platforms such as **Spotify (2006)** which made music royalty payments easier.
+**TikTok (2017)** as well as **Musical.ly (2014)** are bootstrapping from viral videos that are a side effect of all previous "general purpose" social media platforms. In addition, they both profit from already centralized music platforms such as **Spotify (2006)** and **Soundcloud (2007)** which made music royalty payments easier.
