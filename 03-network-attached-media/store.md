@@ -10,7 +10,7 @@
 
 
 
- 
+
 ### iPhone
 
 With the emergence of the iPhone and its App Store users and developers have the ability to extend the capabilities of the device and sell products directly to the end consumer.
@@ -24,7 +24,7 @@ In 2011, apple introduced its first SoC the Apple A4 which was used in the iPad 
 vc funding, competitors, apps that integrate / build bridges
 
 Many apps were focusing on cross-platform social media content production and sharing (via facebook connect, etc.) which manifested itself in the production of square-format media formats, starting with images first and expanding their capabilities to video later. Instagram with its tight integration of facebooks social graph it was easy to sign in and also very easy to share back to facebook. Vine, which was structurally a clone of instagram, focused on short 6-second video loops. This triggered instagram to adapt to the new video format and the square video format was a few months later available for their user base.
-The keyword here is timeline or newsfeed share ability. Images that have to integrate and live within the structures of these “content management systems”(?) / containers / stable formats / medium. 
+The keyword here is timeline or newsfeed share ability. Images that have to integrate and live within the structures of these “content management systems”(?) / containers / stable formats / medium.
 
 
 ### The Basics (2008-2009)
@@ -45,7 +45,7 @@ The keyword here is timeline or newsfeed share ability. Images that have to inte
 ### The Square Video (2011)
 
 instagram clone that can be integrated into twitter, 6 seconds
-adoption 
+adoption
 
 
 ### The Vertical Picture (2011)
@@ -67,12 +67,12 @@ image + video + interaction in sequences
 
 
 ### The Vertical Video (2014)
-musically, problem of feed integration, branding > cropping 
+musically, problem of feed integration, branding > cropping
 
 ### The Vertical Live Video (2015)
 periscope, meerkat, facebook live, instagram live
 
-### Vertical Media / Viral Media 
+### Vertical Media / Viral Media
 
 The instant, in-the-moment or real-time nature of these services are a result of the mobility of the smartphone as main driver. This consquently led to the fragmentation or segmentation of media content, to integrate perfectly into the everyday life and the short timeframes of boredom that want to be iredicated. Smaller content increases the feedback loops until everything becomes an endless process, a continous conversation.
 
@@ -80,27 +80,27 @@ Vertical media is a result of an data- and performance-driven, AI curated, engag
 
 The commodification of time and attention.
 
-The metrics of success have changed. For movies it was the box office, the revenue it would generate after release. Today, success is a matter of community growth rates. 
+The metrics of success have changed. For movies it was the box office, the revenue it would generate after release. Today, success is a matter of community growth rates.
 
 Vertical media is deeply centralized because of the "hosting problem" and network effects.
 
 All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard. Owning the attention (within and through these communication channels) is the new version of property.
 
-Verticality as a mean of institutional self-preservation, at its core it is just survival. 
+Verticality as a mean of institutional self-preservation, at its core it is just survival.
 
 "(Mobile Device + Video + UI/UX) x Network Size x AI = Vertical Media"  
 
 "(Always On + Image Flow + Interaction Flow) x Reach x Amplification / Modulation = Flow as Lock-in Mechanism / Prison for the Mind"
 
 
-### Videos, Perception, Flow 
+### Videos, Perception, Flow
 
 When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
 
-- "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling 
+- "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling
 - fighting the meme / viral video > meaningful interaction vs reinforcing engagement
 - viral videos increasing time on site
-- zuckerberg on adjusting video content, 1:11:00 
+- zuckerberg on adjusting video content, 1:11:00
 https://www.youtube.com/watch?v=Boj9eD0Wug8&feature=youtu.be
 - video is not skim-able, you have to watch it for longer than a post or a picture, videos resonate more with our limbic system, less abstracted, more personal, more bandwidth, implicit information: body language, voice
 
@@ -110,21 +110,21 @@ Short video formats are going to die or will survive through iterative alteratio
 
 
 
-- - - - - - - - 
+- - - - - - - -
 
 
 ### VC Funding
 
 Pump and dump = another platform that is going to take off potentially = VC funding
-Therefore the narrative of products that might transition into a profitable business in the future. 
-This led to flipping and merging little apps / companies into the bigger ones. 
-The narrative will change if this market cycle ends and will lead to profitability focused business models. 
+Therefore the narrative of products that might transition into a profitable business in the future.
+This led to flipping and merging little apps / companies into the bigger ones.
+The narrative will change if this market cycle ends and will lead to profitability focused business models.
 This cycle coincides with the emerging digital economies of crypto-currencies and digital tokens, which will inevitably change the fundamental characteristics and "freeness" of the internet.
 vs Ad-based business models are the only way to make money on the internet.
 
 
 ### Going Vertical / Becoming an Ecosystem / Platform Economies
-You create a product which establishes a network and then you iterate the increase bandwidth within the network to increase the value of each component and participant within it. 
+You create a product which establishes a network and then you iterate the increase bandwidth within the network to increase the value of each component and participant within it.
 
 “Value is psychological; price is determined by the market.”
 Early Retirement Extreme / Economic p.212
@@ -134,10 +134,9 @@ If something like Bitcoin is described as a monetary store of value, then Facebo
 
 
 
-- - - - - - - - 
+- - - - - - - -
 
 
 See also facebook server instrastructure notes > native video
 pivot to video (algo change)
 "social" video f8 2017?
-

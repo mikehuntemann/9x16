@@ -1,4 +1,4 @@
-### Bootstrapping (Context)
+## Bootstrapping (Context)
 
 This pattern is what i call *bootstrapping*: building on top of already known ideas and structures to build more complex structures. You don't have to invent the basic Lego brick each time you want to build something, once it is there, you can just stack them into all kinds of forms.
 But these modular frameworks limit your possibilities of building as well as thinking. In the moment you submit to the idea of the Lego framework you are bound to the underlying principles and resolution of how to build things: frameworks suppress ideas that are not compatible this existing modules. The same principle works for software and hardware.

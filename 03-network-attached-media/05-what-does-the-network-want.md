@@ -1,9 +1,6 @@
-# What does the network want? (General)
+## What does the network want? (General)
 
-
-##Youtube
-
-### 10 Fundamentals
+### Youtube: 10 Fundamentals
 Network-attached video (NAC) does not want to be a one-hit-wonder. NAC wants to be repetitive, continuous and branded (recognizable, identifiable). It wants to be concise, in time but also in time to understand, so it favors the easy idea.
 Through the network comes interactivity, which leads to a faster feedback loop (producer > community > producer) and a change in language. Direct communication is the ideal form of narration. Speaking directly into the camera, and therefore to the audience. You are also speaking to a specific community, a group of people with a collective interest in something, so be sure that you create content that specifically targets this audience. Your audience wants to see you in a predictable and for you sustainable timeframe, so make sure that you lower your production value to a minimum. To attract new viewers you can always talk about popular topics ("evergreens") or create content with a sense of usefulness ("how-to's").
 Another way to a bigger audience is to make collaborations with already popular content creators which share a mutual community-based interest.

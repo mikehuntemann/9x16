@@ -1,4 +1,4 @@
-### The Hosting Problem
+## The Hosting Problem
 
 The corporate database, the data silo and the single point of access and failure is the invention of Oracle in the 1970s. They were marketing the protection of the companies data as valuable assets.
 Since then, the previously  

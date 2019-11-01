@@ -1,4 +1,4 @@
-### The Initial Stable Medium (Specific) (?)
+## The Initial Stable Medium (Specific) (?)
 
 - Facebook: "Profile" Page
 - Twitter: "Tweet", 140 char text

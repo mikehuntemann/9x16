@@ -1,4 +1,4 @@
-## Network-Attached Media
+# Network-Attached Media
 
 - intro
 - bidirectional relationships, genre, prediction vs expectation

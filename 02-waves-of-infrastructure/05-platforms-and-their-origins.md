@@ -1,4 +1,4 @@
-### Platforms and their Origins (Specific)
+## Platforms and their Origins (Specific)
 
 In the following I will try to outline the different bootstrapping approaches of the companies and internet platforms that more or less surround us on a daily basis.
 

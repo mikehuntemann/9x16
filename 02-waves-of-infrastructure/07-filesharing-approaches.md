@@ -1,4 +1,4 @@
-### Filesharing Approaches, Music Distribition, Content Management (Specific)
+## Filesharing Approaches, Music Distribition, Content Management (Specific)
 - Case-study for "Frameless Media"
 - as general pattern without the influence of "visual interoperability"  
 
@@ -6,7 +6,7 @@ But to explain first why we had inevitably experience this extreme form of platf
 
 IMHO, this process becomes most obvious when we look at the history and distribution of music, due to its relatively small file size, cost and general interest, as well as the speed in which the music industry got disrupted by internet technologies.
 
-#### Wave One: P2P File-sharing (distributed)
+### Wave One: P2P File-sharing (distributed)
 > as part of the early web 2.0
 > peer-to-peer software to exchange files
 > bandwidth: upload / download asymmetry
@@ -18,20 +18,20 @@ Back in the days, peer-to-peer file-sharing had the missing incentive structure 
 
 
 
-#### Wave Two: File-sharing Services (decentralized)
+### Wave Two: File-sharing Services (decentralized)
 decentralized services "solved" the problems / bypassed the downsides / made trade-offs, so that there only had to be a one-time upload from the user with its limited upload bandwidth and then the service would handle all the download traffic, often limiting the amounts of downloads or the speed of bandwidth with freemium business models to pay for the servers.
 The browser was the only tool needed and download links could be shared easily.  
 > file management is still in the hands of the user
 
 
-#### Wave Three: Apple, Trust and the Music Industry (centralized)
+### Wave Three: Apple, Trust and the Music Industry (centralized)
 > filesystem abstraction, closed system
 > but bootstrapped from p2p file-sharing and ripping cds
 > managing the music files in an application dependent system for specific music hardware (iPod), then became general purpose (iPhone) which inherits the same control mechanisms
 > closed system with syncing increased trust of the industry to prevent the possibility of mobile device file-sharing
 
 
-#### Wave Four: Streaming Services & Platforms (vertical)
+### Wave Four: Streaming Services & Platforms (vertical)
 streaming services made file-sharing almost unnecessary for mainstream music, "all in one place", easy to navigate, no individual payments for a song, easy to mange, personal playlists
 > file management through platform
 also changes of industry through publishing on Soundcloud

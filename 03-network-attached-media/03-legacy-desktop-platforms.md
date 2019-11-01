@@ -1,14 +1,14 @@
-### Legacy Desktop Platforms
+## Legacy Desktop Platforms
 // Integrate "What does the network want" chapter?
 
 
 
-#### Specific Purpose to General Purpose Transitions
+### Specific Purpose to General Purpose Transitions
 
-#### Dominant Newsfeeds (General Purpose, Accumulators)
+### Dominant Newsfeeds (General Purpose, Accumulators)
 "silent media" > text, photo, gif
 
-#### Facebook as Social Base-layer
+### Facebook as Social Base-layer
 
 > “We want to build a system which is as deeply as possible integrated into every major device and things that people want to use.” - Zuckerberg (YCombinator, Sep, 2012)
 
@@ -25,7 +25,7 @@ That are a lot of unique phone numbers.
 
 
 
-#### YouTube as Default for iOS
+### YouTube as Default for iOS
 
 - easy integration due to device rotation
 - easy to consume but not good enough for production

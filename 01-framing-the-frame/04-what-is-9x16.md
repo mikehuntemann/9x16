@@ -1,9 +1,9 @@
-### What is "9x16"?
+## What is "9x16"?
 
-#### How to do Research in a dynamic, fast pace, complex, multi-media environment? (General)
+### How to do Research in a dynamic, fast pace, complex, multi-media environment? (General)
 
 
-#### Messy Process, Well Documented
+### Messy Process, Well Documented
 
 - Cambridge Analytica research
 - List of sources
@@ -23,7 +23,7 @@
 - …
 
 
-#### "Timeless Media"?
+### "Timeless Media"?
 
 you can not predict the future and know what you are going to learn
 how to be as long as possible open to any kind of output or "product"?

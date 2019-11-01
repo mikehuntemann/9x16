@@ -1,4 +1,4 @@
-### TikTok Takeover
+## TikTok Takeover
 - Notes to video work, meme-able content
 
 - better than language
@@ -64,7 +64,7 @@ the role of sound in Steyerl’s work:
 >“One of the reasons [that sound is so vital for the work] is that usually there is such an array of confusing and very very different sources of material which have almost nothing to do with one another even though I pretend. But the only reason why are people able to somehow pretend they go along with this fiction is because the music somehow provides a pretext for doing so. So it unifies, it creates the narrative basically.” - "What is Contemporary? A conversation with Hito Steyerl" published by MOCA (Feb, 2016)
 
 
-#### Memes
+### Memes
 > downloads/flow-collection/the-evolving-self-1993
 
 facebook as a meme? more powerful version through bigger network

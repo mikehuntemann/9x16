@@ -1,10 +1,10 @@
-## Framing the Frame
+# Framing the Frame
 
 What problem are you addressing:
 Inspirations / previous projects:
 Trending topics in the media, and how waves of media emerge (via a tulip bubble)
 (Do you still care?) How do media propagate, why did the attention dissipate so fast?
-Technologies of every day life that integrate well with our habits (morning routine videos) 
+Technologies of every day life that integrate well with our habits (morning routine videos)
 
 peaks in the media are getting closer together.
 Just as fast as how different content formats are also emerging and disappearing (seems like this is something specific to new media)

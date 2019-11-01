@@ -1,4 +1,4 @@
-### Image Production Cycles, Time Compression and Feedback Systems
+## Image Production Cycles, Time Compression and Feedback Systems
 
 Time to create, produce and release video content
 

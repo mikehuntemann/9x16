@@ -1,4 +1,4 @@
-### Fundamental Dualities
+## Fundamental Dualities
 the pendulum swings
 
 - bundle vs unbundle

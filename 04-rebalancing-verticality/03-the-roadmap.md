@@ -1,4 +1,4 @@
-### The Roadmap from Centralized to Decentralized  
+## The Roadmap from Centralized to Decentralized  
 
 Why you can not win by competing directly with Facebook or Bitcoin?
 > "The only way you can fail is from the inside. It has to fail because of a critical vulnerability that can not be fixed or that people don’t want to fix. It has to fail because of a failure of community, trust or culture. And that is very difficult to do with a technology that has so many participants, who have so many different motivations, different cultures, different languages, different operating systems, different software platforms, all collaborating around one core basic set of ideas. They have all be disappointed for all the different reasons.” – Andreas M. Antonopoulos

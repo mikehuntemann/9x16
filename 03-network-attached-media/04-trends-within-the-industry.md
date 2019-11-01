@@ -1,4 +1,4 @@
-### Trends within the Industry (General)
+## Trends within the Industry (General)
 
 - Frameworks & developer tools + unified device make it easier create apps on the iPhone + user-base tends to pay more (verticality, efficiency, usability)
 - Increasing the processing capacities of mobile devices (Moore's law)

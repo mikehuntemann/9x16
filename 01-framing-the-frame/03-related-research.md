@@ -1,11 +1,11 @@
-### Related Research, Projects and Motivation
+## Related Research, Projects and Motivation
 
-#### Real-Time Propaganda
+### Real-Time Propaganda
 
-#### Privacy-Arena
+### Privacy-Arena
 
-#### #AlgorithmicWarfare
+### #AlgorithmicWarfare
 
-#### Early Birds
+### Early Birds
 
-#### DMI Amsterdam
+### DMI Amsterdam
