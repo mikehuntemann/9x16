@@ -10,9 +10,9 @@ This means that institutions and companies today will always replicate themselve
 
 Or as Michael Hammer explains it in "Reengineering the Corporation (1993)": Product innovation needs also an innovation in the process of creating them. And the invention of Bitcoin leads by example:
 
->"A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system." - Satoshi Nakamoto 
+>"A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system." - Satoshi Nakamoto
 
-Instead of giving companies the ability to become a central authority we can create protocols that restrict the same companies the ownership of "data-assets" that should ultimately belong to the sovereign individual and therefore minimizes the trust you have to give a company as a "user" and maximize trust, stability and persistance into the underlying protocol itself.
+Instead of giving companies the ability to become a central authority we can create protocols that restrict the same companies the ownership of "data-assets" that should ultimately belong to the sovereign individual and therefore minimizes the trust you have to give a company as a "user" and maximize trust, stability and persistence into the underlying protocol itself.
 
 Today it is not possible to verify what the Facebooks and the Googles are actually doing with the data in their systems. In the future, there will be as a result of this new paradigm of encryption-based protocols.
 
@@ -20,5 +20,4 @@ Today it is not possible to verify what the Facebooks and the Googles are actual
 
 Or in this case, you can not solve the problems with the same stack of technologies that created them. When the flaws (privacy, surveillance, anti-trust, etc.) of today's internet are that fundamental, we won't solve them by iteration ("self-regulation" by companies) or legislation (regulation by nation states). The flaws are all symptoms of the underlying structure. So the shift has to come from the bottom up, integrated and adopted step by step, bit by bit, byte by byte.
 
-And if everything is naturally a cylce, then all empires must fall eventually, because history is repeating itself. They are waves.
-
+And if everything is naturally a cycle, then all empires must fall eventually, because history is repeating itself. They are waves.

@@ -1,5 +1,5 @@
 ### Cheat Sheet
-- glossary, powertrain (Antrieb, Triebwerk) 
+- glossary, powertrain (Antrieb, Triebwerk)
 - notes to power-laws, network effects, etc.
 
 
@@ -37,7 +37,7 @@ in reference to Native Always Wins
 - unifying function, internalizing
 
 #### Horizontal Integration
-- cooperating function, externalizing, modulization
+- cooperating function, externalizing, modularization
 
 #### Flow Optimization
 - workflow, optimal experience, continuity, circulation, throughput, bandwidth, density

@@ -5,7 +5,7 @@ the pendulum swings
 - vertical vs horizontal
 - dns vs tcp/ip
 - social layer vs machine layer
-- hierarchies vs hyperlinks (networks) 
+- hierarchies vs hyperlinks (networks)
 - centralized vs decentralized
 - specific purpose vs general purpose
 - local vs global

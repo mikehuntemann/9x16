@@ -12,12 +12,12 @@
 
 ## Waves of Infrastructure
 
-### Matrix Construct (Intro) 
-### Bootstrapping (Context) 
+### Matrix Construct (Intro)
+### Bootstrapping (Context)
 ### The Web (Waves)
 ### Platforms and their Origins (Specific)
 ### Patterns and Shifts in Tech (General)
-### Filesharing Approaches, Music Distribition, Content Management (Specific)
+### File-sharing Approaches, Music Distribution, Content Management (Specific)
 
 
 ## Network-Attached Media
@@ -42,4 +42,3 @@
 ### Cheatsheet
 ### Fundamental Dualities
 ### ...
-

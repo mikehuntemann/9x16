@@ -1,6 +1,6 @@
 ### The Initial Stable Medium (Specific) (?)
 
-- Facebook: "Profil" Page
+- Facebook: "Profile" Page
 - Twitter: "Tweet", 140 char text
 - Instagram: Square Photo
 - Snapchat: Vertical Photo

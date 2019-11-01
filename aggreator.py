@@ -40,6 +40,7 @@ os.system(command)
 print("done export!")
 
 # TODO:
+# ignore files without XX- formatting > "store.md", etc.
 # open exports/collection.md
 # remove all "------------------------------------------------------------------------"
 # export final pdf file

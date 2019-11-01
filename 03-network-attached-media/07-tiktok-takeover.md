@@ -1,21 +1,21 @@
 ### TikTok Takeover
-- Notes to video work, memable content
+- Notes to video work, meme-able content
 
 - better than language
 - Democratization of mobile video production
 - music as the baseline
 
-TikTok musically bootstrapping out of viral, platform branded content within “general purpose” networks > facebook, twitter, reddit 
+TikTok musically bootstrapping out of viral, platform branded content within “general purpose” networks > facebook, twitter, reddit
 
-- bootstrapping from virality and music verticality 
-- dont judge (2015) vs karma is a bitch (2018)
+- bootstrapping from virality and music verticality
+- don't judge (2015) vs karma is a bitch (2018)
 - who owns the meme?
 - cooperation vs competition
 
-- Geneology, Ideas, Patterns, Time
+- Genealogy, Ideas, Patterns, Time
 - genre, variation and anti-genre
 	- expectation, surprise and disruption
- 
+
 - challenge vs meme?
 - "normis"
 
@@ -33,10 +33,10 @@ Virality is a form of synchronization
 Abundant tools of production, scarce meme (?)
  > collective experience / participation > brand exposure within meme (hard to predict)
 
-compliation as a platform
+compilation as a platform
 
 
-"Nature prefers simplicity and symmetry" 
+"Nature prefers simplicity and symmetry"
 
 general editing patterns:
 one-take
@@ -44,7 +44,7 @@ plot-twisting (binary states) directed by "drop"
 more complex sequences directed by rhythm
 
 general evolutionary patterns:
-genre / "gerne-iteration" / anti-gerne
+genre / "genre-iteration" / anti-genre
 conform or copy / enhance or reimagine / fight
 expected / surprised / broken
 
@@ -60,8 +60,8 @@ Visual communication in vertical mediums > body language / performance
 Hosting a thought > the parasitic nature of the meme
 
 
-the role of sound hits steyerl’s work:
->“One of the reasons [that sound is so vital for the work] is that usually there is such an array of confusing and very very different sources of material which have almost nothing to do with one another even though I pretend. But the only reason why are people able to somehow pretend they go along with this fiction is because the music somehow provides a pretext for doing so. So it unifies, it creates the narrative basically.” - "What is Contemprary? A conversation with Hito Steyerl" published by MOCA (Feb, 2016)
+the role of sound in Steyerl’s work:
+>“One of the reasons [that sound is so vital for the work] is that usually there is such an array of confusing and very very different sources of material which have almost nothing to do with one another even though I pretend. But the only reason why are people able to somehow pretend they go along with this fiction is because the music somehow provides a pretext for doing so. So it unifies, it creates the narrative basically.” - "What is Contemporary? A conversation with Hito Steyerl" published by MOCA (Feb, 2016)
 
 
 #### Memes
@@ -79,9 +79,9 @@ p.122
 
 "mimetic alleles"
 
-"Let us remember that enhancing survival, in evolutionary terms, means increasing the nuer of one's own offsing relative to that of other memers of one's group." > memes don't do that
+"Let us remember that enhancing survival, in evolutionary terms, means increasing the number of one's own offspring relative to that of other members of one's group." > memes don't do that
 
-"memes force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money. In this sense weapons clearly fonform to the definition of a parasitic species." p.126
+"memes force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money. In this sense weapons clearly form to the definition of a parasitic species." p.126
 
 > "a fertile medium of growth" human brain and the network
 
@@ -91,7 +91,7 @@ p.122
 
 new innovations become demanding and people lose control over it, they started this thing, others will iterate upon.
 
-> "Every product of technolgy takes up space in the mind, and requires some investment of attention that could have been used for some other purpose. Therefore it is vital to make sure that memes are truly symbiotic - that they contribute to our well-being, rather than become parasitic." p. 128
+> "Every product of technology takes up space in the mind, and requires some investment of attention that could have been used for some other purpose. Therefore it is vital to make sure that memes are truly symbiotic - that they contribute to our well-being, rather than become parasitic." p. 128
 
 be cautious about habits, what you want let in, what you participate in  
 > "The things you own end up owning you. But do what you like, man." - Tyler Durden
@@ -100,7 +100,7 @@ Facebook was fun, at first. Instagram was fun, at first. Snapchat was fun, at fi
 
 
 
-Re-enactments 
+Re-enactments
 
 
 Virality is a form of synchronization
@@ -112,4 +112,3 @@ Virality is a form of synchronization
 > the idea, the construct, the pattern, the network
 
 "Nature prefers simplicity and symmetry."
-
