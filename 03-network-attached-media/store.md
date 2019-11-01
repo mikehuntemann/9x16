@@ -110,7 +110,6 @@ Short video formats are going to die or will survive through iterative alteratio
 
 
 
-- - - - - - - -
 
 
 ### VC Funding
@@ -134,7 +133,6 @@ If something like Bitcoin is described as a monetary store of value, then Facebo
 
 
 
-- - - - - - - -
 
 
 See also facebook server instrastructure notes > native video

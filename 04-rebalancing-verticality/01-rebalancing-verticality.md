@@ -4,9 +4,8 @@ We won't get rid of verticals, but we can change their capacities, reduce their 
 
 and why TikTok may be excluded > too software / network-specific and fast paced? > why even archive?
 
-- - - - - - - - - - -
 
- 
+
 
 Chamath quote: free
 1:55
