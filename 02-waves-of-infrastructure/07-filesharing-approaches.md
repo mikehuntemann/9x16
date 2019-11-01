@@ -1,10 +1,9 @@
-## Filesharing Approaches, Music Distribition, Content Management (Specific)
-- Case-study for "Frameless Media"
-- as general pattern without the influence of "visual interoperability"  
+## File-sharing Approaches, Music Distribution, Content Management (Specific)
+Before we are going into the specifics of mobile image production, I first want to make the case for the "natural states" of technological developments. This can be seen as a small case-study of "frameless media" which can help us to identify a general patterns of distribution without the influence of "visual interoperability". IMHO, this process becomes becomes even more clear due to the relatively small file size, cost and general interest of music, as well as the speed in which the music industry got disrupted by internet technologies.
 
-But to explain first why we had inevitably experience this extreme form of platformization I want to sketch out the underlying mechanics and limitations of the infrastructure that powers the internet and where management and control is located and what trade-offs where made by the "users" over time.
+This will lead to an explanation why we inevitably had to experience this extreme form of verticality. I now want to sketch out the underlying mechanics and limitations of the three waves of infrastructural shifts that power, manage and control instances of the internet and what trade-offs where made by the users over time.
 
-IMHO, this process becomes most obvious when we look at the history and distribution of music, due to its relatively small file size, cost and general interest, as well as the speed in which the music industry got disrupted by internet technologies.
+
 
 ### Wave One: P2P File-sharing (distributed)
 > as part of the early web 2.0
