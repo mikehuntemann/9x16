@@ -14,7 +14,7 @@ This will lead to an explanation why we inevitably had to experience this extrem
 - bandwidth: upload / download asymmetry
 - another problem: always-on, only available when other participants are only, synchronicity
 - file management is completely in the hands of the users
-
+- protocol as transport layer, distributing the files with different approaches, but not influencing the production of the music itself
 
 
 ### Protocols and applications (1999-2008)
@@ -36,25 +36,48 @@ This will lead to an explanation why we inevitably had to experience this extrem
 
 ![Three Waves](../assets/file-sharing.png)
 
-Peer-to-Peer file-sharing had the missing incentive structure for offering the content on torrents which led to a marketplace on the basis of altruism, therefore paving the way for the "free-rider problem". The problem describes the state of a market which becomes dysfunctional due to lack of transactional value or free access to products.
-In combination with a limited upload capacity which was asymmetrical to the download (56k, ISDN, ADSL), which can be seen as a Web 1.0 read-only artifact, reserved more bandwidth for download within the physical connection, which technically further incentives to "just use" services or to be a "end-user", a client instead of a server itself. In addition to all the technical limitations, the location-based regulatory framework  suppressed the usage of file-sharing by the narration of piracy ("You wouldn't steal a car!") and threats of potential legal action.
+Peer-to-Peer file-sharing had the missing incentive structure for offering the content permanently or 24h a day which led to a marketplace on the basis of altruism, therefore paving the way for the "free-rider problem". The problem describes the state of a market which becomes dysfunctional due to lack of transactional value or free access to products where the users end up by only taking and not contributing back.
+In combination with a limited upload capacity which was asymmetrical to the download (56k, ISDN, ADSL), which can be seen as a Web 1.0 read-only artifact, reserved more bandwidth for download within the physical connection, which technically further incentives to "just use" services or to be a "end-user", a client instead of a server itself. In addition to all the technical limitations, the location-based regulatory framework  suppressed the usage of file-sharing by the narration of piracy (especially in terms of movies: "You wouldn't steal a car!") and threats of potential legal action.
 
 
 ### Wave Two: File-sharing Services (decentralized)
-decentralized services "solved" the problems / bypassed the downsides / made trade-offs, so that there only had to be a one-time upload from the user with its limited upload bandwidth and then the service would handle all the download traffic, often limiting the amounts of downloads or the speed of bandwidth with freemium business models to pay for the servers.
-The browser was the only tool needed and download links could be shared easily.  
-> file management is still in the hands of the user
+Decentralized services (here used as "multiplicity of platforms with the same function") displaced the problems of on-demand availability through the network-attached storage, provided by the service operators. Now, files for distribution only had to be uploaded once from the user who was still limited by the internet providers upload capacity. The user transfers the responsibility and the management of availability (always-on or promise) to the service who would handle all the download traffic from all downloading users.
+
+- immediate download, unlimited bandwidth, multiple downloads simultaneous
+continuing paused downloads
+"one-click file hosting"
+
+- Rapidshare (May, 2002)
+- YouSendIt (Early 2004)
+- Megaupload (Mar, 2005)
+- Mediafire ("Unlimited Upload", Jun 2006)
+- GigaSize ("1,5GB Uploads", Aug 2006)
+- FilesTube ("Search for Uploaded Files", Jun 2007)
+- Zippyshare ("500MB Uploads", 2006 / Sep 2007*)
+- Hotfile ("400MB Uploads", Mar 2009)
+- Fileserve (Apr 2010*)
+
+
+This led to provides limiting the amounts of possible downloads or the speed of bandwidth for their freemium business models, where the premium users would pay for the costs of hosting.
+The browser was the only tool needed and download links could be shared easily in forums, chats or could be found with Google search queries.
+After downloading the file, the management of the music library is still in the hands of the user and had to be done manually most of the time.
 
 
 ### Wave Two-to-Three: Apple, Trust and the Music Industry (centralized)
-> filesystem abstraction, closed system
-> but bootstrapped from p2p file-sharing and ripping cds
-> managing the music files in an application dependent system for specific music hardware (iPod), then became general purpose (iPhone) which inherits the same control mechanisms
-> closed system with syncing increased trust of the industry to prevent the possibility of mobile device file-sharing
+- filesystem abstraction, closed system
+- but bootstrapped from p2p file-sharing and ripping cds
+- managing the music files in an application dependent system for specific music hardware (iPod), then became general purpose (iPhone) which inherits the same control mechanisms
+- closed system with syncing increased trust of the industry to prevent the possibility of mobile device file-sharing
+- company shifts from general purpose hardware to media distribution as a service + media specific handheld hardware to media and application distribution as a service + general purpose handheld hardware
+
+// Note: Add iPod + iPhone to 'Platforms and their Origins' or just in this paragraph explained?
 
 
 ### Wave Three: Streaming Services & Platforms (vertical)
 streaming services made file-sharing almost unnecessary for mainstream music, "all in one place", easy to navigate, no individual payments for a song, easy to mange, personal playlists
-> file management through platform
+- file management through platform
 also changes of industry through publishing on Soundcloud
-> artists want their music to be "free" and used to generate network effects to indirect earn money through other forms of products (events, premium content, etc.)
+- artists want their music to be "free" and used to generate network effects to indirect earn money through other forms of products (events, premium content, etc.)
+
+
+- Grooveshark ()?
