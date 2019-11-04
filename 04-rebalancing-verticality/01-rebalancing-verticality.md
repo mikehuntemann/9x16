@@ -5,7 +5,7 @@ We won't get rid of verticals, but we can change their capacities, reduce their 
 and why TikTok may be excluded > too software / network-specific and fast paced? > why even archive?
 
 
-
+The innovation has now come from the most basic infrastructures, and it is going to be developed on open source platforms or operating systems first, because it is the most appropriate layer for integration in combination with the browser. (?)
 
 Chamath quote: free
 1:55
@@ -22,3 +22,8 @@ unbundling and bundling
 Packets (verticals) will be split, and then reconfigured (new vertical)
 40:00 mp3 unbundled albums and bundled them into a Playlist
 Vertical integration to modularization and back
+
+
+peer-to-peer is inevitable because it will be the most cost-efficient variant of information exchange:
+p2p: costs = (filesize / customer) x cost-per-byte
+CDNs: costs = filesize x customer x cost-per-byte   

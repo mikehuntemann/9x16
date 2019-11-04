@@ -112,3 +112,7 @@ Virality is a form of synchronization
 > the idea, the construct, the pattern, the network
 
 "Nature prefers simplicity and symmetry."
+
+
+tiktok as some sort of aftermath of the p2p file-sharing era
+same patterns different context
