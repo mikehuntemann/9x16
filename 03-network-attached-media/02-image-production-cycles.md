@@ -1,5 +1,9 @@
 ## Image Production Cycles, Time Compression and Feedback Systems
 
+> “The most basic decision-making skill is adapting to the tempo of your environment, and setting your own pace within it. It is significantly harder to become a pace-setter or pace-disruptor: somebody who can actually influence the tempo of the environment.”
+– Venkatesh Rao (Tempo)
+
+
 What I am observing is an increase in the speed of communication and a focus on the now. Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.
 There is more content created then ever. (add some numbers here) you won't have the time to consume it or further, act on it.
 So when everyone is incentivized to create, what is news and what is really news-worthy? only time will tell, and this effect is called the "Lindy" and Lindy follows the Pareto distribution.
@@ -19,7 +23,6 @@ and where we can see for example a shift from filmmakers to content creators.
 
 Here, I want to propose and make a distinction between the different modes of production and consumption:
 
-time-preferences, survival, longevity > relevance
 
 ### Analog Film Production
 (Slow Feedback Process + Medium Scarcity) > High Risk / Limited in Distribution
