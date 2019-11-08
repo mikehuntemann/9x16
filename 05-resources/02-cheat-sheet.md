@@ -27,11 +27,17 @@ in reference to Native Always Wins
 "the mirroring hypothesis":
 > "product developed by the loosely-coupled organization is significantly more modular than the product from the tightly-coupled organization"
 
+### Kuhn's Paradigm Shift (1962)
+> Paradigm shifts arise when the dominant paradigm under which normal science operates is rendered incompatible with new phenomena, facilitating the adoption of a new theory or paradigm.
+
 ### Technology Adoption Life Cycle (1957)
 - Adoption Curve, normal distribution, psychographics
 - innovators, early adopters, early majority, late majority, laggards
 - the diffusion process
 
+### Machine-Distance (2019)
+describes the "length" between technical functions and the person who interacts with it.
+Researcher > Developer > Administrator (also Manager) > Power-User > End-User
 
 ### Vertical Integration
 - unifying function, internalizing
