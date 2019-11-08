@@ -1,4 +1,5 @@
 ## The Initial Stable Medium (Specific) (?)
+// Delete chapter?
 
 - Facebook: "Profile" Page
 - Twitter: "Tweet", 140 char text

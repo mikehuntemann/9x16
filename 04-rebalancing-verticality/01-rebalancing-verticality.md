@@ -1,6 +1,7 @@
 # Rebalancing Verticality
 
 We won't get rid of verticals, but we can change their capacities, reduce their extend of influence.
+extend the entity-based machine layer, reduce the extend of platform-owned identities. The hierarchies will still exist, but to a lower degree. hyperlinks subvert hierarchies! identity as to be build application-specific now, "account", "user" of each service.
 
 and why TikTok may be excluded > too software / network-specific and fast paced? > why even archive?
 

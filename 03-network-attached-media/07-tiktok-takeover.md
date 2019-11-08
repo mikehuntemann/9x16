@@ -1,4 +1,5 @@
 ## TikTok Takeover
+
 - Notes to video work, meme-able content
 
 - better than language
@@ -114,6 +115,7 @@ Virality is a form of synchronization
 
 "Nature prefers simplicity and symmetry."
 
+the loss of "artistic control" > marketing: art director to organic, meme-based user-generated content
 
 tiktok as some sort of aftermath of the p2p file-sharing era
 same patterns different context
