@@ -89,7 +89,8 @@ p.122
 
 > "At first, all such relationships between human host and parasitic meme must be symbiotic: The host reproduces the drug because he enjoys it. And he believes that it is he who chooses the drug, and therefore it is he who is in control. Only later does the true nature of the relationship become clear: the human is no more in control of the drug than the trees are in control of the humans whose existence the trees made possible in the first place." p.128
 
-new innovations become demanding and people lose control over it, they started this thing, others will iterate upon.
+new innovations become demanding and people lose control over it, they started this thing, others will iterate upon once the ideas is outside.
+– the loss of "artistic control", DRM
 
 > "Every product of technology takes up space in the mind, and requires some investment of attention that could have been used for some other purpose. Therefore it is vital to make sure that memes are truly symbiotic - that they contribute to our well-being, rather than become parasitic." p. 128
 

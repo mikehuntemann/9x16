@@ -23,3 +23,12 @@ hosting & identity need to be application / platform independent
 > need for digital money aka bitcoin
 > further atomization of content
 > markets / economic incentives to provide decentralized / autonomous infrastructure
+
+email is very stable because there is not one company in charge. you can be an access point, due to hosing and domain registration, but except from that, it is one of the most stable mediums we have seen for now.
+
+
+
+> “In complex systems, what you see is – sometimes there is an underlying structure that is very simple. So there is a complex reality but a simple underlying structure and this is what a power law can grasp.” - Plan B (“Responses to the S2F Model”, Stephan Livera Podcast)
+
+Too many problems that can't be solved now, and not by activism on its own.
+it is voice vs exit. My take is to understand the "physics", or the mechanisms below to look at the infrastructure that creates these symptoms and not trying to solve the symptoms we are confronted with on a daily basis.  

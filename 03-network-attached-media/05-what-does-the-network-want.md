@@ -21,3 +21,7 @@ For my works in the past, I used Youtube as a database, an archive where a lot o
 ### Is YouTube already a legacy service?
 > increased speed of production  
 > screen-recordings w/ voiceovers to reduce time-to-publish
+
+
+time-preferences, survival, longevity > relevance
+value in the body of work, archive is the store of value , not the content itself > habituation and ephemeral content
