@@ -16,7 +16,7 @@
 With the emergence of the iPhone and its App Store users and developers have the ability to extend the capabilities of the device and sell products directly to the end consumer.
 While there was a lot of potential for developers to make money with apps, most social media focused apps came for free, expecting to make money in the future with a growing user base.
 
-In 2011, apple introduced its first SoC the Apple A4 which was used in the iPad and the iPhone 4. The increases in processing power while maintaining very efficient allowed the use cases for HD video and image processing. In combination with good camera quality, the iPhone 4 was presented as an all-in-one (vertical) solution for media production.
+In 2011, Apple introduced its first System-on-a-Chip (SoC) the Apple A4 which was used in the iPad and the iPhone 4. The increases in processing power while maintaining very efficient allowed the use cases for HD video and image processing. In combination with good camera quality, the iPhone 4 was presented as an all-in-one (vertical) solution for media production.
 
 
 
@@ -67,9 +67,9 @@ periscope, meerkat, facebook live, instagram live
 
 ### Vertical Media / Viral Media
 
-The instant, in-the-moment or real-time nature of these services are a result of the mobility of the smartphone as main driver. This consquently led to the fragmentation or segmentation of media content, to integrate perfectly into the everyday life and the short timeframes of boredom that want to be iredicated. Smaller content increases the feedback loops until everything becomes an endless process, a continous conversation.
+The instant, in-the-moment or real-time nature of these services are a result of the mobility of the smartphone as main driver. This consequently led to the fragmentation or segmentation of media content, to integrate perfectly into the everyday life and the short timeframes of boredom that want to be eradicated. Smaller content increases the feedback loops until everything becomes an endless process, a continuous conversation.
 
-Vertical media is a result of an data- and performance-driven, AI curated, engagement focused environment. This way, the preferences of the network actively incentives "prosumers" / users to a specific mode of production.  
+Vertical media is a result of a data- and performance-driven, AI curated, engagement focused environment. This way, the preferences of the network actively incentives "prosumers" / users to a specific mode of production.  
 
 The commodification of time and attention.
 
@@ -77,7 +77,7 @@ The metrics of success have changed. For movies it was the box office, the reven
 
 Vertical media is deeply centralized because of the "hosting problem" and network effects.
 
-All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard. Owning the attention (within and through these communication channels) is the new version of property.
+All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard. Owning the attention (within and through these communication channels) is the new version of property rights.
 
 Verticality as a mean of institutional self-preservation, at its core it is just survival.
 
@@ -86,20 +86,6 @@ Verticality as a mean of institutional self-preservation, at its core it is just
 "(Always On + Image Flow + Interaction Flow) x Reach x Amplification / Modulation = Flow as Lock-in Mechanism / Prison for the Mind"
 
 
-### Videos, Perception, Flow
-
-When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
-
-- "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling
-- fighting the meme / viral video > meaningful interaction vs reinforcing engagement
-- viral videos increasing time on site
-- zuckerberg on adjusting video content, 1:11:00
-https://www.youtube.com/watch?v=Boj9eD0Wug8&feature=youtu.be
-- video is not skim-able, you have to watch it for longer than a post or a picture, videos resonate more with our limbic system, less abstracted, more personal, more bandwidth, implicit information: body language, voice
-
-Short video formats are going to die or will survive through iterative alterations or memification ("participation" culture).
-
-- fluidity as a medium (apple)
 
 
 
