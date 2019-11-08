@@ -5,22 +5,33 @@
 
 ### Messy Process, Well Documented
 
-- Cambridge Analytica research
-- List of sources
-- How to research?
-- Researching research tools
-- Building research tool?
-- Screen research
-- Desktop documentary?
-- „Verticality and the Paradigm of Mobile Video“
--  More sources, screen recordings and screenshots
-- Notion app + Post-its + timeline
-- Relational databases
-- Mark Lombardi
-- Cards and threads
-- Installation test
-- Analog map + digital archive?
-- …
+Cambridge Analytica,
+list of sources,
+how to research,
+researching research tools,
+building research tools,
+screen research,
+desktop documentary,
+verticality,
+paradigm shifts,
+more sources,
+more screen recordings,
+more screenshots,
+notion app,
+post-its,
+timeline,
+networks,
+relational databases,
+Mark Lombardi,
+cards and threads,
+atomizing content,
+building sequences,
+installation test,
+analog maps,
+digital archives,
+exchange formats,
+reference systems,
+the hosting problem.
 
 ### "Timeless Media"?
 
