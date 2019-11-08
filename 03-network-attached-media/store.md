@@ -19,13 +19,6 @@ While there was a lot of potential for developers to make money with apps, most 
 In 2011, apple introduced its first SoC the Apple A4 which was used in the iPad and the iPhone 4. The increases in processing power while maintaining very efficient allowed the use cases for HD video and image processing. In combination with good camera quality, the iPhone 4 was presented as an all-in-one (vertical) solution for media production.
 
 
-### Two Dominant Feeds, External Image Production Tools
-
-vc funding, competitors, apps that integrate / build bridges
-
-Many apps were focusing on cross-platform social media content production and sharing (via facebook connect, etc.) which manifested itself in the production of square-format media formats, starting with images first and expanding their capabilities to video later. Instagram with its tight integration of facebooks social graph it was easy to sign in and also very easy to share back to facebook. Vine, which was structurally a clone of instagram, focused on short 6-second video loops. This triggered instagram to adapt to the new video format and the square video format was a few months later available for their user base.
-The keyword here is timeline or newsfeed share ability. Images that have to integrate and live within the structures of these “content management systems”(?) / containers / stable formats / medium.
-
 
 ### The Basics (2008-2009)
 

@@ -1,14 +1,9 @@
 ## Legacy Desktop Platforms
-// Integrate "What does the network want" chapter?
-
-
-
-### Specific Purpose to General Purpose Transitions
 
 ### Dominant Newsfeeds (General Purpose, Accumulators)
-"silent media" > text, photo, gif
+"silent media" > text, photo, gif, hyperlink
 
-### Facebook as Social Base-layer
+#### Facebook as Social Base-layer
 
 > “We want to build a system which is as deeply as possible integrated into every major device and things that people want to use.” - Zuckerberg (YCombinator, Sep, 2012)
 
@@ -23,9 +18,18 @@ buying networks: Instagram + WhatsApp
 That are a lot of unique phone numbers.
 
 
+#### Inclusion: External Image Production Tools
+
+vc funding, competitors, apps that integrate / build bridges
+
+Many apps were focusing on cross-platform social media content production and sharing (via facebook connect, etc.) which manifested itself in the production of square-format media formats, starting with images first and expanding their capabilities to video later. Instagram with its tight integration of facebooks social graph it was easy to sign in and also very easy to share back to facebook. Vine, which was structurally a clone of instagram, focused on short 6-second video loops. This triggered instagram to adapt to the new video format and the square video format was a few months later available for their user base.
+The keyword here is timeline or newsfeed share ability. Images that have to integrate and live within the structures of these “content management systems”(?) / containers / stable formats / medium.
 
 
-### YouTube as Default for iOS
+
+### Dominant Video Hoster: Youtube
+
+#### YouTube as Default for iOS
 
 - easy integration due to device rotation
 - easy to consume but not good enough for production
