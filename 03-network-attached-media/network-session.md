@@ -28,24 +28,32 @@ community will be the core of video that it affects the content in itself. new c
 Based on their metrics, Facebook senses that "communal watching" amplifies the experience of watching video content, shared videos from friends are watched 40% longer, live videos together with friends result in longer watch times and have in general up to 6x the engagement.
 
 So one could say that you watch videos because your friends have watched it, you watch longer because you watch it with your friends, and in the end you chat more about it, because you are talking to you friends.
-As a conclusion it seems that for time efficency reasons you shouldn't have friends on the internet.
+As a conclusion it seems that for time efficency reasons you shouldn't have friends on the internet. Or as Wendy Chun stated: "Friends are a leaky technology." 
 
-
-> "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually  directly engaging because the fans make the stories for you."
-– [Fidji Simo][3]
-
-So the content only has to act as a catalyst for engagement, which is creating the platform lock-in, because everything is only happening in this one place. But why do we have to have the discussions within Facebook? I think the audience doesn't really care so much about that. But Facebook does: your reaction can be measured, quantified and you don't get interrupted by other stuff that isn't on Facebook (e.g. the real world).
-
+So how different is YouTube without having a network of friends attached?
 
 2 years earlier, youtube releases the 10 youtube fundamentals
 > insert text here
 
 
-### what happens when the distribution system changes?
+back to facebook:
 
+> "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually  directly engaging because the fans make the stories for you."
+– [Fidji Simo][3]
+
+their basis seems similar! 
+
+The content only seems to act as a catalyst for engagement, which is creating the platform lock-in, because everything is only happening in this one place. But why do we have to have the discussions within Facebook? I think the audience doesn't really care so much about that. But Facebook does: your behavior and reactions can be measured, quantified and you don't get interrupted by other stuff that isn't on Facebook (e.g. the real world, life in gerneral or Facebook competitors).
+
+
+
+
+But what happens when distribution systems change?
+
+### Limits to Openness
 building communities, pay-to-reach, gatekeeper creates, manages and modulates the connections within the feed. the Pages "organic reach" acts as bandwidth limitation (which you can 1:1 translate from the principles of the "freemium" filehosting services), definitions of what is "relevant content" changes (values, trajectory, "mission“)
 
-
+### Pivot to Video
 So Facebook incentivized producers and creators to "pivot to video" just by tweaking the algorithm to distribute this format more prominently (video as predominant form of communication) by suppressing other forms.
 
 when videos are getting performance-based, the produces get feedback on their "fitness". this heavily relies on the algorithmic distribution system that filters the content. This is the "curation problem", scarce screen space and time, abundant content.
@@ -60,9 +68,15 @@ in addition to that, the metric for "views" itself was flawed. after an update, 
 
 3 sec (Facebook) vs 30 sec (YouTube) as a measurement of one view.
 
+The proposed model of  
+**Machine Distance**  
+Research > Developer > Admin > Power-User > End-User  
+transforms into:  
+**Power / Control Layers**  
+Platform (Network) > Developers / Distribution Algorithm > Production and Community Management Tools > Content Creator > Consumer / Audience
 
 
-pivot to meaningful
+### Pivot to Meaningful
 
 > "One of our big focus areas for 2018 is making sure the time we all spend on Facebook is time well spent." - [Zuckerberg][6]
 
@@ -145,6 +159,8 @@ threat of de-platformation
 subscriptions like Patreon separate payments from videos, network performance weights less (but is a "niche").  
 
 
+And within the research I still see the need for tools like facebook, but not from facebook or on facebook. But the same is true for twitter and others.
+
 All content will somehow be business-facing, with the creation of an business to influencer platform. As a service for businesses, targeting specific audiences. (as the old paradigm of "artistic control")
 
 
@@ -155,5 +171,5 @@ All content is measured against the underlying social graph, the heart and engin
 [2]:https://youtu.be/RPqVq9A4o_4?t=1829
 [3]:https://youtu.be/fb6QfpIsXJc?t=876
 [4]:https://youtu.be/fb6QfpIsXJc?t=142
-[5]:https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/#
+[5]:https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together
 [6]:https://www.facebook.com/zuck/posts/10104413015393571
