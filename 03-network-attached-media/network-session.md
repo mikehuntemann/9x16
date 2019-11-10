@@ -1,8 +1,32 @@
 what does the network want? session
 
+The internet has another fundamental problem: monetization. Most social media platforms that survived the initial start-up and venture capital phase have an ad-centric business model. The inital narration is always: scale the community, then introduce ads to generate revenue and support (full-time) content creators to continue and create a media business. 
+The ad business model is conntected to the "time-on-site" metric. The more time you spend on the platform, the more ads you will see, the more money will be generated in the background.
+But this gives the network a "perverse incentive" that can cause (un)intentional consequences.
+But in terms of the business model and "user-engagement" I think the companies see it as a natural fit or process of merging marketing metrics, brand affiliations and content production, so I would say it is intentional. And why wouldn't they? They are just "sensing" what the creators and the users want and iterate upon that.
 
-"time-on-site" connected to ad business model 
-habitutation, crisis is good for engegement, addiction, amplifies and rewards impulsive behavior
+This combination leads to habituation (or addiction), by recurring visits to the platform and to certain creators that integrate the companies (and therefore the algorithms) incentives into their media production.
+
+With this came the emergence of the "social video" or "community-driven videos", as Facebook calls it.
+
+> "the experience of watching a video on facebook should be inextricable  from sharing or discussing it" > live video with streams of comments, seamless integration of chatting with friends (you can also invite) and discuss further in messenger, public conversation or private, with friends
+
+> "ultimately, our goal is to make the video experience on facebook more social and to build more intention and habit around video"
+what does it mean for publishers and creators with facebook audiences?
+community will be the core of video that it affects the content in itself. new content formats and best practices are emerging in this world of community-driven video 
+
+shared videos from friends are watched 40% longer, live videos with friends result in longer watch times, "communal watching" amplifies the experience of watching resulting in more emotional responses
+
+
+So Facebook incentivized producers and creators to "pivot to video" just by tweeking the algorithm to distribute this format more prominently by supressing other forms.
+
+  when videos are getting performance-based, the produces get feedback on their "fitness". this heavily relies on the algorithmic distribution system that filters the content. This is the "curration problem", scarce screen space and time, abundant content.
+
+
+
+
+
+
 
 facebook wants to integrate everything
 "organic reach" as bandwidth limitation, "relevant content"
@@ -34,7 +58,7 @@ live video (fb) results in 6x engagement
   what gets seen, gets replicated or distributed (amplification)
   
   
-  when videos are getting performance-based, the produces get feedback on their "fitness". this heavily relies on the algorithmic distribution system that filters the content. This is the "curration problem", scarce screen space and time, abundand content.
+
   
   
   
@@ -51,15 +75,11 @@ newsfeed is for discovery "just browsing", it is passive and unintetional
 "shows that give us something to talk about"
 "videos are a shared experience" > tv shows
 
-shared videos are watched 40% longer, live videos with friends result in longer watch times, "communal watching" amplifies the experience of watching resulting in more emotional responses
+
 
 videos build around a group of common interest > fanbase of HBO series
 
-> "the experience of watching a video on facebook should be inextricable  from sharing or discussing it" > live video with streams of comments, seamless integration of chatting with friends (you can also invite) and discuss further in messenger, public conversation or private, with friends
 
-> "ultimately, our goal is to make the video experience on facebook more social and to build more intention and habit around video"
-what does it mean for publishers and creators with facebook audiences?
-community will be the core of video that it affects the content in itself. new content formats and best practices are emerging in this world of community-driven video 
 
 
 https://www.youtube.com/watch?v=fb6QfpIsXJc
