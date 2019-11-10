@@ -1,15 +1,18 @@
 what does the network want? session
 
-The internet has another fundamental problem: monetization. Most social media platforms that survived the initial start-up and venture capital phase have an ad-centric business model. The inital narration is always: scale the community, then introduce ads to generate revenue and support (full-time) content creators to continue and create a media business. 
+The internet has another fundamental problem: monetization. Most social media platforms that survived the initial start-up and venture capital phase have an ad-centric business model or were merged into one. The inital narration is always: scale the community, then introduce ads to generate revenue and support (full-time) content creators to continue and create a media business. 
 The ad business model is conntected to the "time-on-site" metric. The more time you spend on the platform, the more ads you will see, the more money will be generated in the background.
-But this gives the network a "perverse incentive" that can cause (un)intentional consequences.
-But in terms of the business model and "user-engagement" I think the companies see it as a natural fit or process of merging marketing metrics, brand affiliations and content production, so I would say it is intentional. And why wouldn't they? They are just "sensing" what the creators and the users want and iterate upon that.
+But this gives the network a "perverse incentive" that can cause unintentional consequences.
+But in terms of the business model and "user-engagement" I think the companies see it as a natural fit or process of merging marketing metrics, brand affiliations and content production, so I would say it is intentional. And why wouldn't they? They are just "sensing" what the creators and the users want and iterate upon that. This is what Chamath Palihapitiya calls ["not a Facebook problem"][1] a consumer problem, because users ["have grown addicted to things that are free (...) it's just no expectation [to pay for things on the internet]."
 
-This combination leads to habituation (or addiction), by recurring visits to the platform and to certain creators that integrate the companies (and therefore the algorithms) incentives into their media production.
+This fundamental framework leads to habituation (or in its extreme form to addiction), by recurring visits to the platform and to certain creators that integrate the companies (and therefore the algorithms) incentives into their media production, which enforces the expectations of the audience.
 
 With this came the emergence of the "social video" or "community-driven videos", as Facebook calls it.
 
-> "the experience of watching a video on facebook should be inextricable  from sharing or discussing it" > live video with streams of comments, seamless integration of chatting with friends (you can also invite) and discuss further in messenger, public conversation or private, with friends
+> "We are trying to imagine way to make the experience of watching a video on facebook inextricable from the experience of sharing or discussing it." – [The Future of Video on Facebook][2]
+
+live video with streams of comments, seamless integration of chatting with friends (you can also invite) and discuss further in messenger, public conversation or private, with friends" 
+
 
 > "ultimately, our goal is to make the video experience on facebook more social and to build more intention and habit around video"
 what does it mean for publishers and creators with facebook audiences?
@@ -84,8 +87,9 @@ videos build around a group of common interest > fanbase of HBO series
 
 https://www.youtube.com/watch?v=fb6QfpIsXJc
 Facebook Vice President of Product Fidji Simo 
-we fundamentally belive, that video doesn't have to be a passive experience
-polls, challenges
+"(...) we fundamentally belive that video doesn't have to be a passive experience. In fact, we think that video is becoming way more engaging in the years to come as many formats of content can be reinvented for an experience where the audience can participate with the content."
+https://youtu.be/fb6QfpIsXJc?t=142
+creating pollings, challenges, etc as interactive tools / products
 
 
 igtv as a result for creator feedback that the 15 sec cap is a problem
@@ -102,7 +106,8 @@ facebook watch is focusing on habitual viewing experience that brings you back a
 
 content as catalyst of community discussion without the creator, fans talking to eachother 
 
-> "the key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and we are clearly rewarding content that brings people back, which creates this loyalty." > "then nurture your community with live as the best tool (...) and the groups extent the presents of the creator without actually engaging because the fans make the stories for you."
+> "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually  directly engaging because the fans make the stories for you."
+– [The Future of Video on Facebook and Instagram with Ami McClure][3]
 
 
 big audience = revenue share of ad breaks
@@ -111,3 +116,10 @@ branded content = plaform to get brand and creators connected via target audienc
 
 
 Cost per thousand impressions (CPM)
+
+creator monitization is linked to network complience
+
+
+[1]:https://youtu.be/hZY986XSHxM?t=111
+[2]:https://youtu.be/RPqVq9A4o_4?t=1829
+[3]:https://youtu.be/fb6QfpIsXJc?t=876
