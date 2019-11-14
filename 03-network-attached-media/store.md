@@ -117,3 +117,94 @@ If something like Bitcoin is described as a monetary store of value, then Facebo
 See also facebook server instrastructure notes > native video
 pivot to video (algo change)
 "social" video f8 2017?
+
+
+
+
+## Additional Notes and References (Post-It Wall)
+
+
+Habitual Media
+“The value of information depends on timing.” P.118
+
+Information as Formation
+“Inform to Form”
+
+“Freedom makes control possible, necessary and yet never enough.”
+> + protocol reference, because it is so free, we can have these verticals (http)
+“Banality of content supposedly equals stability of platform” - Ethan zuckerman
+
+“Big data focuses on the amplification of consumer behavior, not interested in radical habit changes, just amplifies existing ones.”
+> chamath, you measure some shit, …
+
+“Signals that are not repeated or repeatable die.”
+
+
+Tempo
+Dealing with constant change
+Adapting by separating change into a background of predictable rhythms and foreground of unusual rhythms and non-rhythmic
+> focus on the anomalies!
+
+
+We see the result of three types of flow optimization:
+In the data systems, within the services and infrastructure
+In media types that flow in the network and the workflow they are produced
+In the human habit of  navigating/ watching or producing
+
+> Fluidity as a medium
+> seamlessness, frictionless
+> the violence of order and management
+
+
+Hooked
+The Hook
+>“An experience designed to connect a solution to the user’s problem with enough frequency to form a habit.”
+>“If used for good, habit design can enhance lives in entertaining and even healthful routines. If used for evil, habits can quickly turn into wasteful addictions.”
+
+
+When “Change is the only constant”, why habit?
+these systems amplify our need to be consistent with past behavior, and reenforce certain behaviors by prediction.
+> compression itself: Prediction of movement (within a sequence of images) to compress most efficiently
+So, if we are being compressed, how do we expand or de-compress again?
+> self-disruption, do what you fear instead of what you think people will like
+> take more risks, create more friction (in your process), introduce more randomness, become long-term orientated, what can provide value in the future and not now?
+
+External triggers become internalized, no need for an external activation function to get us back into the loop.
+
+
+“Everyday Life is mostly repetitive and unconscious.” > that’s why we can talk about these platforms as technologies of everyday life.
+
+The flow of production does not allow friction at any point.
+
+
+https://youtu.be/5bJi7k-y1Lo
+Zuckerberg on Pivot to Native at Techcrunch 2012
+>“First there are more users, right, obviously. The second is that per person who is using facebook on mobile there is more engagement and they are spending more time. And third is that per amount of time people spend on mobile we think we can make a lot more money than we do on desktop, too.”
+
+
+https://www.recode.net/2017/6/22/15849966/transcript-instagram-ceo-kevin-systrom-facebook-photo-video-recode-decode
+Did Instagram copy Snapchat? - Kevin Systom on the Recode Podcast
+>“But I tool that from [Reed Hastings (CEO of Netflix)] and I was like, sleep is a competitor, maybe reading is a competitor. Yes, once you get to a certain size I guess you’re competing for time and attention, and the question is, is your use-case looking at photos the most compelling one?”
+
+Jack Dorsey in US Congress Hearing (Sep, 2018)
+>“I believe we need to question the fundamental incentives that are in our products today. (…) Every time someone opens up our app, we are implicitly incentivizing them to do something or not to do something. And that extends all the way to our business and those answers we get (…) are going to create massive shifts in how twitter operates and also in our industry.”
+
+>[The problems of Twitter or others in the industry are] many, many, many, many layers deeper than these surface symptoms that we often find ourselves discussing.”
+
+F8 Instagram changes Like Count (Adam Mosseri, New Head of Instagram)
+>“Because we don’t want instagram to feel like a competition and we want to make it a less pressurized environment.”
+
+
+
+https://www.youtube.com/watch?v=ak0HE8Y_UJY
+Habit Summit - Addiction by Design (Natasha Dow Schull)
+
+Video Gambling
+Rapid, solitary, continuous
+“Real” social interactions interfere with “the zone” seen in machine-based gambling
+to get into the zone is to get into a rhythm
+Time-on-device, hypnotic flow of action
+Abstraction of value > social value indicator
+“The play should not take longer than three and a half seconds per game.” - Gambling Industry Representative
+“Escape Gambling”
+“Positive reenforcement (activation function) hides losses (time, money). (False wins)

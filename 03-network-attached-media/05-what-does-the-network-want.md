@@ -209,7 +209,8 @@ algorithm changes for content discovery or newsfeeds also happen regularly on fa
 
 ### context, environment, expectations
 
-### Videos, Perception, Flow
+### Flow-Opimization:Data, Perception, Production
+How Flow and Habit are liked:
 
 When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
 
@@ -225,7 +226,7 @@ Short video formats are going to die or will survive through iterative alteratio
 - fluidity as a medium (apple)
 
 
-### video hosting is expensive (bandwidth + storage)
+### video hosting is expensive (bandwidth + cpu-time)
 
 ### Is YouTube already a legacy service?
 > acts as archive for the fast-paced productions within other networks

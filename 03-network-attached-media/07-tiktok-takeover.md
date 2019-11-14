@@ -119,3 +119,58 @@ the loss of "artistic control" > marketing: art director to organic, meme-based 
 
 tiktok as some sort of aftermath of the p2p file-sharing era
 same patterns different context
+
+
+
+### The Selfish Gene: Meme Chapter
+
+The Selfish Gene Explained
+https://www.youtube.com/watch?v=j9p2F2oa0_k
+
+“Genes are immortal in the sense that the coded information they contain is reproduced, is replicated significantly. [Throughout multiple generations] that there are genes which are identical to what they were tens of millions of years ago. Not the DNA, of course that’s not that turns over in a very short  space of time but the coded information is potentially immortal. (…) The genes who are good at building bodies, good at controlling processes of embryology to make bodies that have what it takes to preserve those genes and pass them on. A body is a survival machine and that is by far the most powerful way of interpreting what an individual organism is.     
+
+
+
+“Cultural transmission is analogous to genetic transmission in that, although basically conservative, it can give rise to a form of evolution.”
+
+“By comparing the songs of fathers and sons, Jenkins showed that song patterns were not inherited genetically. Each young male was likely to adopt songs from his territorial neighbours by imitation, in an analogous way to human language. (…) But occasionally Jenkins was privileged to witness the 'invention' of a new song, which occurred by a mistake in the imitation of an old one.”
+“Jenkins refers to the origins of new songs as 'cultural mutations’.”
+
+“[Cultural production] all evolve in historical time in a way that looks like highly speeded up genetic evolution, but has really nothing to do with genetic evolution.”
+
+
+“a noun that conveys the idea of a unit of cultural transmission, or a unit of imitation. 'Mimeme' comes from a suitable Greek root, but I want a monosyllable that sounds a bit like 'gene'. I hope my classicist friends will forgive me if I abbreviate mimeme to meme.”
+p.192
+
+“When you plant a fertile meme in my mind you literally parasitize my brain, turning it into a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell.”
+
+The meme has a “psychological appeal” > “resonates” with our mind
+
+“Whenever conditions arise in which a new kind of replicator can make copies of itself, the new replicators mill lend to take over, and start a new kind of evolution of their own.”
+“Imitation, in the broad sense, is how memes can replicate.“
+
+“If the meme is a scientific idea, its spread will depend on how acceptable it is to the population of individual scientists; a rough measure of its survival value could be obtained by counting the number of times it is referred to in successive years in scientific journals.”
+
+“Some memes, like some genes, achieve brilliant short-term success in spreading rapidly, but do not last long in the meme pool.”
+
+Every time a scientist hears an idea and passes it on to somebody else, he is likely to change it somewhat.  (…) Yet I have not repeated them in his own words. I have twisted them round for my own purposes, changing the emphasis, blending them with ideas of my own and of other people.
+(…) It looks as though meme trans- mission is subject to continuous mutation, and also to blending.
+
+“I have said a tune is one meme, but what about a symphony: how many memes is that? Is each movement one meme, each recognizable phrase of melody, each bar, each chord, or what? (…)
+There I divided the 'gene complex' into large and small genetic units, and units within units.”
+
+“The computers in which memes live are human brains.“
+“The human brain, and the body that it controls, cannot do more than one or a few things at once. If a meme is to dominate the attention of a human brain, it must do so at the expense of 'rival' memes. Other commodities for which memes compete are radio and television time, billboard space, newspaper column-inches, and library shelf-space.”
+
+“We should not seek immortality in reproduction.
+But if you contribute to the world's culture, if you have a good idea, compose a tune, invent a sparking plug, write a poem, it may live on, intact, long after your genes have dissolved in the common pool.”
+
+“What we have not previously considered is that a cultural trait may have evolved in the way that it has, simply because it is advantageous to itself.”
+
+“All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.”
+
+ “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.”
+
+“We have the power to defy the selfish genes of our birth and, if necessary, the selfish memes of our indoctrination.”
+
+“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
