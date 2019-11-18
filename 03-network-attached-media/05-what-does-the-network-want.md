@@ -176,8 +176,9 @@ So what makes tiktok so different from the pre-existing networks?
 [2]:https://youtu.be/RPqVq9A4o_4?t=1829
 [3]:https://youtu.be/fb6QfpIsXJc?t=876
 [4]:https://youtu.be/fb6QfpIsXJc?t=142
-[5]:https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together
-[6]:https://www.facebook.com/zuck/posts/10104413015393571
+[5]:https://web.archive.org/web/20191030231904/https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/
+[6]:https://web.archive.org/web/20191005033943/https://www.facebook.com/zuck/posts/10104413015393571
+
 
 
 

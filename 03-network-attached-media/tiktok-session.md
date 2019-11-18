@@ -48,3 +48,6 @@ What twitter is for expressing and iterating [not cognitive but similar] ideas, 
 The transformational shot / moment
 the speech intro or intro statement, inspirational quote
 bad ass characters 
+[1]: https://web.archive.org/web/20191116161829/https://www.cnet.com/news/tiktok-hits-1-5-billion-downloads-report-says/
+[2]: https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity
+[3]: https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
