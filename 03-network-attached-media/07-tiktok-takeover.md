@@ -1,176 +1,109 @@
-## TikTok Takeover Notes
+// Write it for you! What do you want to solidify?
 
-- Notes to video work, meme-able content
+##TikTok Takeover
 
-- better than language
-- Democratization of mobile video production
-- music as the baseline
+TikTok is a weird creature.
+Before being merged together, TikTok was a 1:1 clone of Musically (2014) which was meant to perform and record lip-sync videos within the mobile device. It integrated music samples from their service which no other app was capabale of at that time. The app took of with the #dontjudgechallenge which appeared 2015 as a reaction to a YouTube video "You are disgusting", which then became viral on several social media sites. The three most used apps for this challenge were Vine, Flipagram and Musically itself. Vine could only solve the mobile-only image editing while having only recorded audio from the phones microphone, Flipagram let you compose videos to the music library you had on your phone and Musically provided their music library to the user-base to which you could perform, making the selection of songs more available and frictionless.
 
-TikTok musically bootstrapping out of viral, platform branded content within “general purpose” networks > facebook, twitter, reddit
+After Musically solved the [initial problem](4) of cropped videos – they were 9x16 natively, but the shared platforms were back then still focusing on the 1:1, square format, they repositioned their branding to the center after each clip – which got them #1 in the app store shortly after.
+A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilites, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific music. TikTok works as a Meme-Machine. And it is better than language. 
 
-- bootstrapping from virality and music verticality
-- don't judge (2015) vs karma is a bitch (2018)
-- who owns the meme?
-- cooperation vs competition
+With over [1.5B downloads](1) today, TikTok reaches an international audience, mobilizing masses to contribute to ongoing challenges. In terms of the performance-based characteristics, TikTok seems as the "end-game" to what is the most engaging, most entertaining and easiest to (re-)produce app on the market today.
 
-- Genealogy, Ideas, Patterns, Time
-- genre, variation and anti-genre
-	- expectation, surprise and disruption
+An interesting shift can be seen within the app. Compared to Facebook and Instagram, were all the content is highly identity- or brand-based, TikTok makes the Challenges itself to the epicenter. It is an event, a happening, trying to get you active and participate. (In this sense, it is maybe more related to Twitter than anything else.) With that, each of the content creators become the transport layer of an idea, which seem to create either a copy of existing patterns, iterations upon existing content or a pattern breaking anti-gerne, which resists to conform to the users expectation or micro viewing habit (for each challenge or "branch" of challenges). 
 
-- challenge vs meme?
-- "normis"
+The musical rhythm becomes the recipie and driving force for the recording and editing process.
+The memes are music-driven. (the music itself or parts of it are also memes) It sets the mood and directs the pace. In my research I found that this music can be identified as "plot twist" music, separating the 15 second soundtrack often into two phases: problem / solution, before / after or other "binary states" or sequences.
 
-Virality is a form of synchronization
-- "micro-singularities"
+a supprise element, playing with the expectations of previously seen footage, this type of media creates the necessity of creating even funnier versions and alterations. 
 
-- rhythm
-- repetition
-- habit
-- as a means of survival
-- what wants to survive?
-- the idea, the construct, the pattern, the network
+The music supports this plot twisting even by their initial structure itself, for example by an uplifting build into a bass-drop or by further editing the music by heavily overused bass-amplifiers or other editing techniques. sometimes both in combination to more extreme versions. Those kind of sound are often user uploads originating from soundcloud or bass-boosted versions from youtube. If that is the case, the users name is referenced as the "origianl" uploader of the song. In other cases, the platform-provided sound features the original musician and title at the bottom.
 
 
-Abundant tools of production, scarce meme (?)
- > collective experience / participation > brand exposure within meme (hard to predict)
+**general editing patterns**
+- one-take
+- plot-twisting (binary states) directed by "drop"
+- more complex sequences directed by rhythm
 
-compilation as a platform
-
-
-"Nature prefers simplicity and symmetry"
-
-general editing patterns:
-one-take
-plot-twisting (binary states) directed by "drop"
-more complex sequences directed by rhythm
-
-general evolutionary patterns:
-genre / "genre-iteration" / anti-genre
-conform or copy / enhance or reimagine / fight
-expected / surprised / broken
+**general evolutionary patterns**
+- genre / "genre-iteration" / anti-genre
+- conform or copy / enhance or reimagine / fight
+- expected / surprised / broken
 
 plus media internal reactions
-
-“ByteDance has accumulated a vast amount of content and social media created by people and rich engagement data across our various products. This massive data is fed into our machine learning algorithms, which further refines the quality of users’ content feed and enhances the content experience, which in turn encourages more engagement and generates more data to be fed back into our algorithms. We use this virtuous cycle to optimize every stage of the “content lifecycle”—creation, moderation, curation, recommendation and interaction.”
-https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
+same source different reactions, "chains reactions", asynchronous-produced group performances!
 
 
-Elephant in the brain: Chapter Communication
-Visual communication in vertical mediums > body language / performance
-> other way of expression, richer, more bandwidth
-Hosting a thought > the parasitic nature of the meme
+All assets that are used (music and filters) are transparent and available in the interface, giving each user the same possibilities of creation. This can be seen as an evolution and increased capability of the instagram filters which were encoded into the image as such, hiding its references.  
+
+With this "openness", we can see "micro-creativity" at it's best. An atomized, democratized way of producing, bundled with a platform-specific referencing system that 
 
 
-the role of sound in Steyerl’s work:
->“One of the reasons [that sound is so vital for the work] is that usually there is such an array of confusing and very very different sources of material which have almost nothing to do with one another even though I pretend. But the only reason why are people able to somehow pretend they go along with this fiction is because the music somehow provides a pretext for doing so. So it unifies, it creates the narrative basically.” - "What is Contemporary? A conversation with Hito Steyerl" published by MOCA (Feb, 2016)
-
-
-### Memes
-> downloads/flow-collection/the-evolving-self-1993
-
-facebook as a meme? more powerful version through bigger network
-
-the meme does not help the creator with survival, only its own survival.
-you are only the transmission layer, you perform an idea, it is about the idea - its iterations - and not about you.
-"(...) a meme is any permanent pattern of matter or information produced by an act of human intentionality. (...)
-Memes come into being when the human nervous system reacts to an experience, and codes it in a form that can be communicated to others." p.120
-
-"Memes require only our minds to feed on, and they will replicate images of themselves in consciousness. A catchy tune I hear on the radio may colonize my mind for several days, surviving there thanks to the psychic energy I devote to it."
-p.122
-
-"mimetic alleles"
-
-"Let us remember that enhancing survival, in evolutionary terms, means increasing the number of one's own offspring relative to that of other members of one's group." > memes don't do that
-
-"memes force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money. In this sense weapons clearly form to the definition of a parasitic species." p.126
-
-> "a fertile medium of growth" human brain and the network
+In my case-study i investigated the #karmaisabitchchallenge that got viral within the chinese version of tiktok in early 2018, which then got cross-platform viral and internationally known after more and more people picked it up and reported on it.  
 
 
 
-> "At first, all such relationships between human host and parasitic meme must be symbiotic: The host reproduces the drug because he enjoys it. And he believes that it is he who chooses the drug, and therefore it is he who is in control. Only later does the true nature of the relationship become clear: the human is no more in control of the drug than the trees are in control of the humans whose existence the trees made possible in the first place." p.128
+- Virality: The You as Transport Layer and the Survival of the Idea itself.
+- "Original" vs "Immitation" vs "Iteration" 
 
-new innovations become demanding and people lose control over it, they started this thing, others will iterate upon once the ideas is outside.
-– the loss of "artistic control", DRM
+- Reference System
+- "Sharing" Assets
+- Media-Internal Referencing / Reactions + Multi-Reactions
 
-> "Every product of technology takes up space in the mind, and requires some investment of attention that could have been used for some other purpose. Therefore it is vital to make sure that memes are truly symbiotic - that they contribute to our well-being, rather than become parasitic." p. 128
-
-be cautious about habits, what you want let in, what you participate in  
-> "The things you own end up owning you. But do what you like, man." - Tyler Durden
-
-Facebook was fun, at first. Instagram was fun, at first. Snapchat was fun, at first. TikTok is fun, you know how this might go on..
+in-media reactions + references / "media-chaining"
+group identity, peer-production
 
 
+TikTok is not trying to be meaningful, instead it is highly playful. A emotionally-driven, collective experience – on the smartphone. 
 
-Re-enactments
-
-
-Virality is a form of synchronization
-> rhythm
-> repetition
-> habit
-> as a means of survival
-> what wants to survive?
-> the idea, the construct, the pattern, the network
-
-"Nature prefers simplicity and symmetry."
-
-the loss of "artistic control" > marketing: art director to organic, meme-based user-generated content
-
-tiktok as some sort of aftermath of the p2p file-sharing era
-same patterns different context
+What Twitter is for expressing and iterating [not cognitive but similar] ideas, TikTok is for expressing and iterating on performances and expectations in short, 15 second timeframes.
 
 
+The transformational shot / moment
+the speech intro or intro statement, inspirational quote
+badass characters, iconic 
+cultural icon as authentic proxy of a culture, artifact that emerges within a culture 
 
-### The Selfish Gene: Meme Chapter
+Looking at the processes happening it TikTok can make you question the concept of "intellectual property". Noone owns the meme, it is the result of an organic cultural process that creates multiple artifact, which may only differ in popularity. It has a live on its own.
 
-The Selfish Gene Explained
-https://www.youtube.com/watch?v=j9p2F2oa0_k
+Those emerging viral happenings are a temporary form of sychronization, or so-called ["micro-singularities"](2). They a rhythm-based, in repetative production processes in relation to the content creators production and viewing habits. So what is the purpose? The survival of the information itself, the idea, the pattern, and through that the network in which it appears or spreads. The meme can act as the fuel and amplifier of user generated content. It is decentralized in its nature and therefore hard to control. And the oposite is (not true, but close) it is supported by the engagement and performance sensing AI systems. 
+TikTok (as well as any other AI-driven social media platform) monitors and responds to the unfolding creations and interactions, managing the "content lifecyle". Interestingly, this also implies / indicates the repetative nature of the content.
 
-“Genes are immortal in the sense that the coded information they contain is reproduced, is replicated significantly. [Throughout multiple generations] that there are genes which are identical to what they were tens of millions of years ago. Not the DNA, of course that’s not that turns over in a very short space of time but the coded information is potentially immortal. (…) The genes who are good at building bodies, good at controlling processes of embryology to make bodies that have what it takes to preserve those genes and pass them on. A body is a survival machine and that is by far the most powerful way of interpreting what an individual organism is.     
+video content on tiktok is machine readable with AI systems, so another indicator that directs manovich's "video is software"! 
 
-
-
-“Cultural transmission is analogous to genetic transmission in that, although basically conservative, it can give rise to a form of evolution.”
-
-“By comparing the songs of fathers and sons, Jenkins showed that song patterns were not inherited genetically. Each young male was likely to adopt songs from his territorial neighbours by imitation, in an analogous way to human language. (…) But occasionally Jenkins was privileged to witness the 'invention' of a new song, which occurred by a mistake in the imitation of an old one.”
-“Jenkins refers to the origins of new songs as 'cultural mutations’.”
-
-“[Cultural production] all evolve in historical time in a way that looks like highly speeded up genetic evolution, but has really nothing to do with genetic evolution.”
+AI senses what resonsates the most with our limbic system. We do it unconciously, without being able why it "kicks" us. The meme itself also has a “psychological appeal”. This is now the fundamental problem of "information asymmetry", were technolgy becomes "more conscious" of behavior patterns than the users themselves.
 
 
-“a noun that conveys the idea of a unit of cultural transmission, or a unit of imitation. 'Mimeme' comes from a suitable Greek root, but I want a monosyllable that sounds a bit like 'gene'. I hope my classicist friends will forgive me if I abbreviate mimeme to meme.”
-p.192
+> "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – The Evolving Self (1993), Mihaly Csikszentmihalyi, Memes vs Genes, p. 126
 
-“When you plant a fertile meme in my mind you literally parasitize my brain, turning it into a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell.”
+Memes need "a fertile medium of growth" but also symbiotic relationship with the host, which is a necessary in the beginning, otherwise we would not integrate them. This relates for mimetic media itself but also for technology and knowledge creation in general.
 
-The meme has a “psychological appeal” > “resonates” with our mind
 
-“Whenever conditions arise in which a new kind of replicator can make copies of itself, the new replicators mill lend to take over, and start a new kind of evolution of their own.”
-“Imitation, in the broad sense, is how memes can replicate.“
+with this organic replication, we see a loss of "artistic control". Production becomes decentralized and therefore unpredictable. 
+marketing: art director to organic, meme-based user-generated content
 
-“If the meme is a scientific idea, its spread will depend on how acceptable it is to the population of individual scientists; a rough measure of its survival value could be obtained by counting the number of times it is referred to in successive years in scientific journals.”
+Nevertheless, this network will and inevidably has to integrate advertising and initiate "commercialized challenges" because this service is also stuck in the ad-business model paradigm. 
 
-“Some memes, like some genes, achieve brilliant short-term success in spreading rapidly, but do not last long in the meme pool.”
 
-Every time a scientist hears an idea and passes it on to somebody else, he is likely to change it somewhat.  (…) Yet I have not repeated them in his own words. I have twisted them round for my own purposes, changing the emphasis, blending them with ideas of my own and of other people.
-(…) It looks as though meme trans- mission is subject to continuous mutation, and also to blending.
+> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – The Selfish Gene (1976)
 
-“I have said a tune is one meme, but what about a symphony: how many memes is that? Is each movement one meme, each recognizable phrase of melody, each bar, each chord, or what? (…)
-There I divided the 'gene complex' into large and small genetic units, and units within units.”
+habit + UX > as little thought as possible to be able to immitate  
 
-“The computers in which memes live are human brains.“
-“The human brain, and the body that it controls, cannot do more than one or a few things at once. If a meme is to dominate the attention of a human brain, it must do so at the expense of 'rival' memes. Other commodities for which memes compete are radio and television time, billboard space, newspaper column-inches, and library shelf-space.”
 
-“We should not seek immortality in reproduction.
-But if you contribute to the world's culture, if you have a good idea, compose a tune, invent a sparking plug, write a poem, it may live on, intact, long after your genes have dissolved in the common pool.”
+tiktok as ultimate vertical media
+"(Mobile Device + Video + UI/UX) x Network Size x AI = Vertical Media"  
 
-“What we have not previously considered is that a cultural trait may have evolved in the way that it has, simply because it is advantageous to itself.”
+"(Always On + Image Flow + Interaction Flow) x Reach x Amplification / Modulation = Flow as Lock-in Mechanism / Prison for the Mind" > this is the parasite.
 
-“All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.”
 
- “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.”
+so what does this all mean for "new media"?
+> “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.” - The Selfish Gene (1976)
+if we can look what might remain valuable in the future, we can escape the now-ness of these platforms and aim for a bigger purpose or goal.
+> "“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
 
-“We have the power to defy the selfish genes of our birth and, if necessary, the selfish memes of our indoctrination.”
 
-“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
+[1]: https://web.archive.org/web/20191116161829/https://www.cnet.com/news/tiktok-hits-1-5-billion-downloads-report-says/
+[2]: https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity
+[3]: https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
+[4]: https://web.archive.org/web/20171107015536/https://www.businessinsider.com/what-is-musically-2016-5?international=true&r=US&IR=T
+
