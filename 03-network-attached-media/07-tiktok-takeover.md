@@ -1,4 +1,4 @@
-## TikTok Takeover
+## TikTok Takeover Notes
 
 - Notes to video work, meme-able content
 
@@ -127,7 +127,7 @@ same patterns different context
 The Selfish Gene Explained
 https://www.youtube.com/watch?v=j9p2F2oa0_k
 
-“Genes are immortal in the sense that the coded information they contain is reproduced, is replicated significantly. [Throughout multiple generations] that there are genes which are identical to what they were tens of millions of years ago. Not the DNA, of course that’s not that turns over in a very short  space of time but the coded information is potentially immortal. (…) The genes who are good at building bodies, good at controlling processes of embryology to make bodies that have what it takes to preserve those genes and pass them on. A body is a survival machine and that is by far the most powerful way of interpreting what an individual organism is.     
+“Genes are immortal in the sense that the coded information they contain is reproduced, is replicated significantly. [Throughout multiple generations] that there are genes which are identical to what they were tens of millions of years ago. Not the DNA, of course that’s not that turns over in a very short space of time but the coded information is potentially immortal. (…) The genes who are good at building bodies, good at controlling processes of embryology to make bodies that have what it takes to preserve those genes and pass them on. A body is a survival machine and that is by far the most powerful way of interpreting what an individual organism is.     
 
 
 

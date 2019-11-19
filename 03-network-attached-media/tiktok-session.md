@@ -1,11 +1,11 @@
 // Write it for you! What do you want to solidify?
 
-#TikTok Takeover
+##TikTok Takeover
 
 TikTok is a weird creature.
 Before being merged together, TikTok was a 1:1 clone of Musically (2014) which was meant to perform and record lip-sync videos within the mobile device. It integrated music samples from their service which no other app was capabale of at that time. The app took of with the #dontjudgechallenge which appeared 2015 as a reaction to a YouTube video "You are disgusting", which then became viral on several social media sites. The three most used apps for this challenge were Vine, Flipagram and Musically itself. Vine could only solve the mobile-only image editing while having only recorded audio from the phones microphone, Flipagram let you compose videos to the music library you had on your phone and Musically provided their music library to the user-base to which you could perform, making the selection of songs more available and frictionless.
 
-After Musically solved the initial problem of cropped videos – they were 9x16 natively, but the shared platforms were back then still focusing on the 1:1, square format, they repositioned their branding to the center after each clip – which got them #1 in the app store shortly after.
+After Musically solved the [initial problem](4) of cropped videos – they were 9x16 natively, but the shared platforms were back then still focusing on the 1:1, square format, they repositioned their branding to the center after each clip – which got them #1 in the app store shortly after.
 A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilites, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific music. TikTok works as a Meme-Machine. And it is better than language. 
 
 With over [1.5B downloads](1) today, TikTok reaches an international audience, mobilizing masses to contribute to ongoing challenges. In terms of the performance-based characteristics, TikTok seems as the "end-game" to what is the most engaging, most entertaining and easiest to (re-)produce app on the market today.
@@ -71,7 +71,7 @@ TikTok (as well as any other AI-driven social media platform) monitors and respo
 
 video content on tiktok is machine readable with AI systems, so another indicator that directs manovich's "video is software"! 
 
-AI senses what resonsates the most (with our limbic system). We do it unconciously, without being able why it "kicks" us. This is now the fundamental problem of "information asymmetry", were technolgy becomes "more conscious" of behavior patterns than the users themselves.
+AI senses what resonsates the most with our limbic system. We do it unconciously, without being able why it "kicks" us. The meme itself also has a “psychological appeal”. This is now the fundamental problem of "information asymmetry", were technolgy becomes "more conscious" of behavior patterns than the users themselves.
 
 
 > "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – The Evolving Self (1993), Mihaly Csikszentmihalyi, Memes vs Genes, p. 126
@@ -80,9 +80,29 @@ Memes need "a fertile medium of growth" but also symbiotic relationship with the
 
 
 with this organic replication, we see a loss of "artistic control". Production becomes decentralized and therefore unpredictable. 
-Nevertheless, this network will and inevidably has to integrate advertising and "bought challenges" because this service is also stuck in the ad-business model paradigm. 
+marketing: art director to organic, meme-based user-generated content
+
+Nevertheless, this network will and inevidably has to integrate advertising and initiate "commercialized challenges" because this service is also stuck in the ad-business model paradigm. 
+
+
+> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – The Selfish Gene (1976)
+
+habit + UX > as little thought as possible to be able to immitate  
+
+
+tiktok as ultimate vertical media
+"(Mobile Device + Video + UI/UX) x Network Size x AI = Vertical Media"  
+
+"(Always On + Image Flow + Interaction Flow) x Reach x Amplification / Modulation = Flow as Lock-in Mechanism / Prison for the Mind" > this is the parasite.
+
+
+so what does this all mean for "new media"?
+> “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.” - The Selfish Gene (1976)
+if we can look what might remain valuable in the future, we can escape the now-ness of these platforms and aim for a bigger purpose or goal.
+> "“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
 
 
 [1]: https://web.archive.org/web/20191116161829/https://www.cnet.com/news/tiktok-hits-1-5-billion-downloads-report-says/
 [2]: https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity
 [3]: https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/
+[4]: https://web.archive.org/web/20171107015536/https://www.businessinsider.com/what-is-musically-2016-5?international=true&r=US&IR=T

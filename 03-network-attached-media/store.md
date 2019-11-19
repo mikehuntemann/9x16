@@ -77,7 +77,10 @@ The metrics of success have changed. For movies it was the box office, the reven
 
 Vertical media is deeply centralized because of the "hosting problem" and network effects.
 
-All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard. Owning the attention (within and through these communication channels) is the new version of property rights.
+All media wants - sooner or later - to gain from network effects, everyone wants their work the be seen and their voice to be heard.
+> "marketing" ideas, machine distance gap
+
+ Owning the attention (within and through these communication channels) is the new version of property rights.
 
 Verticality as a mean of institutional self-preservation, at its core it is just survival.
 
