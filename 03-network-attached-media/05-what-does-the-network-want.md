@@ -29,7 +29,7 @@ community will be the core of video that it affects the content in itself. new c
 Based on their metrics, Facebook senses that "communal watching" amplifies the experience of watching video content, shared videos from friends are watched 40% longer, live videos together with friends result in longer watch times and have in general up to 6x the engagement.
 
 So one could say that you watch videos because your friends have watched it, you watch longer because you watch it with your friends, and in the end you chat more about it, because you are talking to you friends.
-As a conclusion it seems that for time efficency reasons you shouldn't have friends on the internet. Or as Wendy Chun stated: "Friends are a leaky technology."
+As a conclusion it seems that for time efficiency reasons you shouldn't have friends on the internet. Or as Wendy Chun stated: "Friends are a leaky technology."
 
 So how different is YouTube without having a network of friends attached?
 
@@ -44,7 +44,7 @@ back to facebook:
 
 their basis seems similar!
 
-The content only seems to act as a catalyst for engagement, which is creating the platform lock-in, because everything is only happening in this one place. But why do we have to have the discussions within Facebook? I think the audience doesn't really care so much about that. But Facebook does: your behavior and reactions can be measured, quantified and you don't get interrupted by other stuff that isn't on Facebook (e.g. the real world, life in gerneral or Facebook competitors).
+The content only seems to act as a catalyst for engagement, which is creating the platform lock-in, because everything is only happening in this one place. But why do we have to have the discussions within Facebook? I think the audience doesn't really care so much about that. But Facebook does: your behavior and reactions can be measured, quantified and you don't get interrupted by other stuff that isn't on Facebook (e.g. the real world, life in general or Facebook competitors).
 
 
 
@@ -52,7 +52,7 @@ The content only seems to act as a catalyst for engagement, which is creating th
 But what happens when distribution systems change?
 
 ### Limits to Openness
-building communities, pay-to-reach, gatekeeper creates, manages and modulates the connections within the feed. the Pages "organic reach" acts as bandwidth limitation (which you can 1:1 translate from the principles of the "freemium" filehosting services), definitions of what is "relevant content" changes (values, trajectory, "mission“)
+building communities, pay-to-reach, gatekeeper creates, manages and modulates the connections within the feed. the Pages "organic reach" acts as bandwidth limitation (which you can 1:1 translate from the principles of the "freemium" file-hosting services), definitions of what is "relevant content" changes (values, trajectory, "mission“)
 
 ### Pivot to Video
 So Facebook incentivized producers and creators to "pivot to video" just by tweaking the algorithm to distribute this format more prominently (video as predominant form of communication) by suppressing other forms.
@@ -156,7 +156,7 @@ once the network is established, you want to increase the flow within it. workfl
 
 
 creator monetization is linked to "network compliance"
-threat of de-platformation
+threat of de-platformization
 subscriptions like Patreon separate payments from videos, network performance weights less (but is a "niche").  
 
 
@@ -164,13 +164,13 @@ And within the research I still see the need for tools like facebook, but not fr
 
 All content will somehow be business-facing, with the creation of an business to influencer platform. As a service for businesses, targeting specific audiences. (as the old paradigm of "artistic control")
 
-Facebook became, after a long period of time, an enhanced, socialized and production-wise verticalized version of youtube, with the same business model and the same priniples for content creation as a means of community management. In parallel to that, Netflix is also doing the same, but they risk-manage their own productions by predictions through their feedback-loop with the otherwise passive audience.  
+Facebook became, after a long period of time, an enhanced, socialized and production-wise verticalized version of youtube, with the same business model and the same principles for content creation as a means of community management. In parallel to that, Netflix is also doing the same, but they risk-manage their own productions by predictions through their feedback-loop with the otherwise passive audience.  
 
 All content is measured against the underlying social graph (or relational databases), the heart and engine of Facebook (or each other platform), that makes this targeting and measurements possible in the first place.
 
 so how do networks behave that don't have Facebooks' social graph at its core?
 
-So what makes tiktok so different from the pre-existing networks?
+So what makes TikTok so different from the pre-existing networks?
 
 
 
@@ -209,7 +209,7 @@ algorithm changes for content discovery or newsfeeds also happen regularly on fa
 
 ### context, environment, expectations
 
-### Flow-Opimization:Data, Perception, Production
+### Flow-Opimization: Data, Perception, Production
 How Flow and Habit are liked:
 
 When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
@@ -217,7 +217,7 @@ When social media networks extend their capabilities to video, this is an expens
 - "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling
 - fighting the meme / viral video > meaningful interaction vs reinforcing engagement
 - viral videos increasing time on site
-- zuckerberg on adjusting video content, 1:11:00
+- Zuckerberg on adjusting video content, 1:11:00
 https://www.youtube.com/watch?v=Boj9eD0Wug8&feature=youtu.be
 - video is not skim-able, you have to watch it for longer than a post or a picture, videos resonate more with our limbic system, less abstracted, more personal, more bandwidth, implicit information: body language, voice
 
