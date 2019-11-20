@@ -2,12 +2,6 @@
 
 ### Overview
 
-- Framing the Frame
-  - Hello World (Intro)
-  - Related Research / Projects / Motivation (General)
-  - What is "9x16"? (General)
-
-
 - Waves of Infrastructure
   - Matrix Construct (Intro)
   - Bootstrapping (Context)
@@ -19,10 +13,8 @@
 
 - Network-Attached Media
   - Image Production Cycles, Time Compression and Feedback Systems (General)
-  - Legacy Desktop Platforms (Specific)
-  - Trends within the Industry (General)
+  - Forces in Mobile Tech (General)
   - What does the Network want? (General?)
-  - The Initial Stable Medium (Specific)(?)
   - TikTok Takeover (Specific)
 
 
@@ -30,6 +22,8 @@
   - The Hosting Problem (General)
   - The Roadmap from Centralized to Decentralized
 
+- Framing the Frame
+  - Doing "9x16"? (General)
 
 - Resources
   - Cheatsheet
