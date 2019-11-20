@@ -18,17 +18,16 @@
 - just the right amount, best place for learning, motivation and challenge
 
 ### Zuckerberg's Law (2012)
-> "Zuckerbergs's law is the observation that the bandwidth of communication in a social network doubles about every two years."
+Zuckerbergs's law is the observation that the bandwidth of communication in a social network doubles about every year.
 
 ### Conway's Law (1967)
-in reference to Native Always Wins
 > “Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization’s communication structure.”
 
-"the mirroring hypothesis":
+### "The Mirroring Hypothesis"
 > "product developed by the loosely-coupled organization is significantly more modular than the product from the tightly-coupled organization"
 
 ### Kuhn's Paradigm Shift (1962)
-> Paradigm shifts arise when the dominant paradigm under which normal science operates is rendered incompatible with new phenomena, facilitating the adoption of a new theory or paradigm.
+> "Paradigm shifts arise when the dominant paradigm under which normal science operates is rendered incompatible with new phenomena, facilitating the adoption of a new theory or paradigm."
 
 ### Technology Adoption Life Cycle (1957)
 - Adoption Curve, normal distribution, psychographics
@@ -36,8 +35,8 @@ in reference to Native Always Wins
 - the diffusion process
 
 ### Machine-Distance (2019)
-describes the "length" between technical functions and the person who interacts with it.
-Researcher > Developer > Administrator (also Manager) > Power-User > End-User
+The "length" between an abstract, technical function and the person who interacts with it.
+Researcher > Developer > Administrator > Power-User > End-User
 
 ### Vertical Integration
 - unifying function, internalizing
@@ -47,3 +46,5 @@ Researcher > Developer > Administrator (also Manager) > Power-User > End-User
 
 ### Flow Optimization
 - workflow, optimal experience, continuity, circulation, throughput, bandwidth, density
+
+### Interplanetary Filesystem (IPFS)
