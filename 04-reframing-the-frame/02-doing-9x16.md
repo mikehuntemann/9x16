@@ -15,27 +15,6 @@ how to be as long as possible open to any kind of output or "product"?
 This work is a process, a series of experiments, an expedition.
 A dense documentation and reflection of my personal experience how I work with the Internet.
 
-What happened, out of pure necessity, I got (partly) analog.
-I documented everything in blocks of assets in form of knowledge and references on post-its and cards. The interfaces and applications are not good enough!
-
-### Init
-In April 2018 I made an early Twitter experiment and deconstructed articles into tweet-sized blocks.
-
-So I started the “xResearch” blog on my website in august 2018, summarizing my daily findings and thoughts on my practice and approaches. It is mostly about the complexity problem, information overload and how I try to handle it.
-Back then, I thought my graduation project would be some sort of research tool for managing and archiving web-based data. But there were alway problems of keeping the references while taking notes and transcribing videos. I quit writing “publicly” after two weeks.
-throughout the next 6 weeks, I tracked what every topic, every video, that crossed my screen long enough to see, what I am actually looking for.
-I compressed them into the major themes and topics as well as into “personal” and “institutional” categories. Bottomline is, I am somehow obsessed with databases and knowledge management.
-
-The main problem was and still is interoperability.
-
-I read "the craft of research" and closed the book at the sentence "don't use the internet." No answers here.
-
-How to „write“ documents? How to „document“ the process?
-
-Notion is great but it is for the end user or teams. But what if you would help to archive the web (as long as you need it) for others while you use it?
-
-I thought the initial “research tool” was on the application layer, but actually it is one layer below, how files are structured and stored, prepared and edited. The “actual tool” is the self-describing structure itself which is then application independent and can be used by “open-tools”
-
 
 ### Messy Process, Well Documented
 
@@ -67,6 +46,34 @@ digital archives,
 exchange formats,
 reference systems,
 the hosting problem.
+
+
+
+
+### Init
+In April 2018 I made an early Twitter experiment and deconstructed articles into tweet-sized blocks.
+
+So I started the “xResearch” blog on my website in august 2018, summarizing my daily research interests and thoughts on my practice and approaches. It is mostly about the complexity problem, information overload and how I try to handle it personally.
+Back then, I thought my graduation project would be some sort of research tool for managing and archiving web-based data. But there were always the problems of keeping up with the references while taking notes and transcribing videos. I quit writing “publicly” after two weeks.
+Throughout the next 6 weeks, I tracked every topic, every video, that would cross my screen, what I am intuitively "drifting" towards.
+I compressed them into the major themes and topics as well as into “personal”, "technical", "methodical" and “institutional” categories. The bottomline is, I am somehow obsessed with databases, knowledge management, archiving and documenting.
+
+
+The main problem was and still is interoperability.
+
+I read "The Craft of Research" and closed the book after the sentence "don't use the internet." No answers here.
+
+How to „write“ documents? How to „document“ the process?
+
+Notion is great but it is for the end user or teams. But what if you would help to archive the web (as long as you need it) for others while you use it?
+
+What happened, out of pure necessity, I got (partly) analog.
+I documented everything in blocks of assets in form of knowledge and references on post-its and cards. The interfaces and applications are not good enough!
+
+
+
+
+
 
 ### "Timeless Media"?
 
@@ -103,9 +110,10 @@ We architect, compose (creating the construct) and then we design within that fr
 
 
 
-### From Visual Referencing to Functional Referencing
+### Desktop Documentaries and "Visual Referencing"
 
-„Video in a software Environment“
+
+"Video in a software Environment“
 
 Nick Briz also from Chicago
 Apple computers (2013)
@@ -121,17 +129,21 @@ Good artists copy, great artists steal“
 
 
 Kevin b. Lee
-Transformers the premake (2014)
+Transformers the Premake (2014)
 „Visual referencing“
-He makes one important distinct:
+He makes one important distinction:
 YouTube footage and the QuickTime Player as reference of local files he captured himself
 
+Chicago "School of thought"
 Phil Morton
 COPY-IT-RIGHT encouraged people to make faithful copies, caring for and distributing the work as widely as possible.
 
 
-„Final Export“ which references the project files > links back to building blocks
-Source code > binaries
+
+
+
+### The Move to the Ocean
+Road to Functional Referencing
 
 > "Visualization, searchability, findability—these and many other new “media-independent techniques” (i.e. concepts implemented to work across many data types)"
 – Lev Manovich (Software Takes Command (2013), p. 119)
@@ -142,6 +154,12 @@ Source code > binaries
 > "Because all the new qualities of “digital media” are not situated “inside” the media objects. Rather, they all exist “outside”—as commands and techniques of media viewers, authoring software, animation, compositing, and editing software, game engine software, wiki software, and all other software 'species.'"
 – Lev Manovich (Software Takes Command (2013), p. 149)
 
+
+„Final Export“ which references the project files > links back to building blocks
+Source code > binaries
+
+
+
 The “rendered” image hides its software influences, obfuscates its creation and is therefore still seen as a “separate“ medium.
 the final rendering should only happen when “watching” but not when “working” with the material
 new modes and possibilities for the video essay, that can embrace visuality of the discussed material itself
@@ -151,9 +169,12 @@ Video file formats are their own silos!
 From silos and containers to (performant, interoperable) file-system repositories
 video to sketch file
 “Zipped and playable” or “unzipped and editable”
+hidden in plain sight!
 
 
-### The Move to the Ocean
+I thought the initial “research tool” was on the application layer, but actually it is one layer below, how files are structured and stored, prepared and edited. The “actual tool” is the self-describing structure itself which is then application independent and can be used by “open-tools”
+
+
 
 Microblogging to MircoBlocking
 
@@ -165,3 +186,8 @@ what are “browser-friendly” codecs to let the video assemble itself? > youtu
 
 
 Now I point to the source with the link instead of “pinning” and therefore archiving for myself while providing it to others.
+
+
+
+This is the only solution to keep up with the exponential pace of technology: sharing sources and templates, approaches and learnings.
+And never do the same thing twice, thanks Jörn.
