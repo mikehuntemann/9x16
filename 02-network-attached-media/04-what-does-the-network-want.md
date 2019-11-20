@@ -1,5 +1,6 @@
 ## What does the network want? (General)
-
+// Intro: What changed from the shift from desktop to mobile
+// Zuckerberg quote for engagement rates (2012)
 
 The internet has another fundamental problem: monetization. Most social media platforms that survived the initial start-up and venture capital phase have an ad-centric business model or were merged into one. The initial narration is always: scale the community, then introduce ads to generate revenue and support (full-time) content creators to continue and create a media business.
 
