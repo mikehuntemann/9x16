@@ -6,13 +6,13 @@ The internet has another fundamental problem: monetization. Most social media pl
 The ad business model is connected to the "time-on-site" metric. The more time you spend on the platform, the more ads you will see, the more money will be generated in the background.
 But this gives the network a "perverse incentive" that can cause unintentional consequences.
 
-But in terms of the business model and "user-engagement" I think the companies see it as a natural fit or process of merging marketing metrics, brand affiliations and content production, so I would say it is intentional. And why wouldn't they? They are just "sensing" what the creators and the users want and iterate upon that. This is what Chamath Palihapitiya calls ["not a Facebook problem"][1] but a consumer problem, because users ["have grown addicted to things that are free (...) it's just no expectation [to pay for things on the internet]."
+But in terms of the business model and "user-engagement" I think the companies see it as a natural fit or process of merging marketing metrics, brand affiliations and content production, so I would say it is intentional. And why wouldn't they? They are just "sensing" what the creators and the users want and iterate upon that. This is what Chamath Palihapitiya calls ["not a Facebook problem"](https://youtu.be/hZY986XSHxM?t=111) but a consumer problem, because users ["have grown addicted to things that are free (...) it's just no expectation [to pay for things on the internet]."
 
 This fundamental framework leads to habituation (or in its extreme form to addiction), by recurring visits to the platform and to certain creators that integrate the companies (and therefore the algorithms) incentives into their media production, which reinforces the expectations of the distribution system and therefore the expectation of the audience.
 
 With this focus on engagement came the emergence of the "social video" or "community-driven videos", as Facebook calls it.
 
-> "We are trying to imagine ways to make the experience of watching a video on Facebook inextricable from the experience of sharing or discussing it." – [Daniel Danker (Product Management Director, Facebook)][2]
+> "We are trying to imagine ways to make the experience of watching a video on Facebook inextricable from the experience of sharing or discussing it." – [Daniel Danker (Product Management Director, Facebook)](https://youtu.be/RPqVq9A4o_4?t=1829)
 
 Here it is useful to note that Facebook still separates audience from content creator. This paradigm blurs with the concept of TikTok, but I will get into that in the "TikTok Takeover" chapter.
 
@@ -40,7 +40,7 @@ So how different is YouTube without having a network of friends attached?
 back to facebook:
 
 > "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually  directly engaging because the fans make the stories for you."
-– [Fidji Simo][3]
+– [Fidji Simo (Vice President of Product, Facebook)](https://youtu.be/fb6QfpIsXJc?t=876)
 
 their basis seems similar!
 
@@ -79,14 +79,14 @@ Platform (Network) > Developers / Distribution Algorithm > Production and Commun
 
 ### Pivot to Meaningful
 
-> "One of our big focus areas for 2018 is making sure the time we all spend on Facebook is time well spent." - [Zuckerberg][6]
+> "One of our big focus areas for 2018 is making sure the time we all spend on Facebook is time well spent." - [Mark Zuckerberg](https://web.archive.org/web/20191005033943/https://www.facebook.com/zuck/posts/10104413015393571)
 
 
 paddle back, de-emphasizing videos again, promoting videos with higher production value
 - fighting viral videos, instead "meaningful, high quality engagement"
 
 > "With this update, we will also prioritize posts that spark conversations and meaningful interactions between people. To do this, we will predict which posts you might want to interact with your friends about, and show these posts higher in feed. These are posts that inspire back-and-forth discussion in the comments and posts that you might want to share and react to – whether that’s a post from a friend seeking advice, a friend asking for recommendations for a trip, or a news article or video prompting lots of discussion."
-– ["Bringing People Closer Together"][5] (Facebook Newsroom)
+– ["Bringing People Closer Together" (Facebook Newsroom)](https://web.archive.org/web/20191030231904/https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/)
 
 
 
@@ -129,7 +129,7 @@ videos build around a group of common interest > fanbase of HBO series
 https://www.youtube.com/watch?v=fb6QfpIsXJc
 
 > "(...) we fundamentally believe that video doesn't have to be a passive experience. In fact, we think that video is becoming way more engaging in the years to come as many formats of content can be reinvented for an experience where the audience can participate with the content."
-– [Fidji Simo (Vice President of Product, Facebook)][4]
+– [Fidji Simo (Vice President of Product, Facebook)](https://youtu.be/fb6QfpIsXJc?t=142)
 
 creating polling, challenges, etc as interactive tools / products
 
@@ -172,12 +172,11 @@ so how do networks behave that don't have Facebooks' social graph at its core?
 
 So what makes tiktok so different from the pre-existing networks?
 
-[1]:https://youtu.be/hZY986XSHxM?t=111
-[2]:https://youtu.be/RPqVq9A4o_4?t=1829
-[3]:https://youtu.be/fb6QfpIsXJc?t=876
-[4]:https://youtu.be/fb6QfpIsXJc?t=142
-[5]:https://web.archive.org/web/20191030231904/https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/
-[6]:https://web.archive.org/web/20191005033943/https://www.facebook.com/zuck/posts/10104413015393571
+
+
+
+
+
 
 
 
