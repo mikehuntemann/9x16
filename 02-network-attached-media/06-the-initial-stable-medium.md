@@ -1,5 +1,5 @@
 ## The Initial Stable Medium (Specific) (?)
-// Delete chapter?
+// Delete chapter? I think i missed the point of what is really stable here.. it is not the format, it is the network.
 
 - Facebook: "Profile" Page
 - Twitter: "Tweet", 140 char text

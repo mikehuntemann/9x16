@@ -1,4 +1,4 @@
-## What is "9x16"?
+## Doing "9x16"
 
 ### How to do Research in a dynamic, fast pace, complex, multi-media environment? (General)
 
