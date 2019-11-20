@@ -1,4 +1,4 @@
-# Framing the Frame
+# Reframing the Frame
 
 What problem are you addressing:
 Inspirations / previous projects:

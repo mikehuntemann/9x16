@@ -40,6 +40,7 @@ I thought the initial “research tool” was on the application layer, but actu
 ### Messy Process, Well Documented
 
 Cambridge Analytica,
+Facebook,
 list of sources,
 how to research,
 researching research tools,
@@ -51,7 +52,7 @@ paradigm shifts,
 more sources,
 more screen recordings,
 more screenshots,
-notion app,
+Notion app,
 post-its,
 timeline,
 networks,
