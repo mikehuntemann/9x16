@@ -11,6 +11,8 @@ Road to Functional Referencing
 – Lev Manovich (Software Takes Command (2013), p. 149)
 
 
+// Write about the experiences in "Real-Time Propaganda" and what I missed..
+
 „Final Export“ which references the project files > links back to building blocks
 Source code > binaries
 
@@ -30,6 +32,8 @@ hidden in plain sight!
 
 I thought the initial “research tool” was on the application layer, but actually it is one layer below, how files are structured and stored, prepared and edited. The “actual tool” is the self-describing structure itself which is then application independent and can be used by “open-tools”
 
+
+// What if you don't know if the project will become a video, a website, a PDF or a book? How do you then defer the decisions before it becomes a "product"? And what if it has to be cross-functional between those formats? How can this approach itself create "real collaboration" and not just a collection of "finished products", done separately?
 
 
 Microblogging to MircoBlocking
