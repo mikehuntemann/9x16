@@ -17,7 +17,7 @@ If would have to say how the two works differ the most, I would say that "Apple 
 ### Case-Study: "TikTok Takeover"
 // Write about the process and experiences of working with the "actual" material, and screen-recordings
 So I started to analyze the methods and approached within that genre and how much visual references are "necessary" for each source.
-
+self-recording, descriptive research, reconstructing the approach by explaining it out loud.
 // Link to Self-recorded ["proper framing"](bit.ly > youtube.com) and ["analyzing transformers the premake"](bit.ly > youtube.com)
 // replaceable links > containers
 
@@ -33,5 +33,4 @@ It also does not anticipate the internet, exclusively in their export presets fo
 
 I don't "own" any of the content I used in the last 4 years. And at that point it became obvious to me. The "video tool" that I would use for this case-study is not sufficient for my approach, because in the end, all references would be gone, only when they are visually encoded into the video itself, but not "machine-readable", interactive and accessible as they would be on the internet. And there I realized that "copying" or downloading was not going to be the solution, especially in combination with a "final export"! And only then – less than two weeks before the "deadline" of this document – I could really grasp, what was happing to all of my previous projects which used user-generated content.    
 
-And only now I can ask, are all of these works "open" or "good enough" to let other people "copy-our-works-right"? And I think the answer is clearly no. Only in its totality, only as the one compressed file, but not down to its core, its sources and source code.
-Let me explain why.
+And only now I can ask, are all of these works "open" or "good enough" to let other people "copy-our-works-right"? And I think the answer is clearly no. Only in its totality, only as the one compressed file, a work on its own, but not down to its core, its content sources and application source code. Let me explain why.
