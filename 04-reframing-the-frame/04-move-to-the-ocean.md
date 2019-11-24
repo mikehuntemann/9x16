@@ -10,7 +10,8 @@ Road to Functional Referencing
 > "Because all the new qualities of “digital media” are not situated “inside” the media objects. Rather, they all exist “outside”—as commands and techniques of media viewers, authoring software, animation, compositing, and editing software, game engine software, wiki software, and all other software 'species.'"
 – Lev Manovich (Software Takes Command (2013), p. 149)
 
-
+// Archiving, Time-Stamping, Hashing, Referencing, Building Recipes..
+// project file is descriptive, how the material is used, and i had to recreate or consciously 
 // Write about the experiences in "Real-Time Propaganda" and what I missed..
 
 „Final Export“ which references the project files > links back to building blocks
