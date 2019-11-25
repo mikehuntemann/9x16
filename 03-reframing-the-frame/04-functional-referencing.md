@@ -3,7 +3,7 @@
 
 In this chapter I want to layout the problems of current functional referencing and how media archeology or internet-based research has to deal with it. But first of all, we have to make one important realization:
 
-**Video is software, therefore treat video as software.**
+**Video is software.**
 
 To not realize this fact is probably the single biggest misconception we have in "new media" today, focussing more on what happens inside the the frame, on the final rendered content itself, but not how the software actually shapes it. And I think that Lev Manovich identifies this problem very well and this is the point I was trying to make in "filesharing approaches" and "what the network wants": content on the platform is not merely hosted, it is actively shaped and formed specifically for and by the software for each platform.
 
