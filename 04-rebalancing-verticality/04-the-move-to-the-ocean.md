@@ -2,18 +2,18 @@
 
 > “You must be shapeless, formless, like water.” - Bruce Lee
 
+Back to: Video is Software
+
+A principle I have been following in my past projects:  
+
 Grab the project recipe.
 Download all of the necessary content from the network.
-Perform the recipe within the browser.
+Perform the recipe (now within the browser).
 
-The result of this information architecture will be a responsive performance. Designs can be defined as relatives in terms of its aspect ratios and sizes, we have already seen it in the evolution of responsive websites.
+The result of this information architecture will be some form of "responsive performance". Designs can be defined relative in terms of its aspect ratios and sizes, we have already seen it in the evolution of responsive websites. The missing part of this framework is only: how to handle the timing of each content? That's it. That is the only piece missing in the puzzle.
 
-The missing part of the framework is how to handle the timing.
-That's it, all the ingredients are there.
+This way, you can implement files into your project and become part of preserving the data over time. Or, if I find something valuable on the web or for example in my prototype for media archeology, collaborators or other people can help to keep the project itself, or maybe only assets of it, alive.
 
+In the end, we don't need local storage, final exports, finished products or huge databases as a single point of authority or failure to mange and distribute the data. We can help each other and do this collectively.
 
-
-
-his way you can implement files into your project and become part of preserving the data over time. This way, if I find something valuable on the web or in my media archeological project, collaborators or other people can help to keep the project itself, or assets of it alive. > you can not duplicate the files the network! There are no identical duplicates.
-
-In the end, we dont need huge databases as a single point of authority or failure to mange and distribute the data. We can do It on our own.
+There will be files that will organically spread across the web and others you have to hold for your own, maybe because it is not the right time for it, yet.
