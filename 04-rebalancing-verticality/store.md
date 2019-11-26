@@ -38,11 +38,7 @@ When a “post” or a “tweet” would be self-describing, other communities c
 http used location based addressing > domain to ip
 centralized location = single point of failure
 404 Error - Not found
-**IPFS (2015)**
-content addressing = stable
-“You must be shapeless, formless, like water”
-Information architecture to be responsive to final rendering
-we see notions of this in the movement and adoption of responsive websites as well as media content productions for several social media networks.
+
 
 
 hosting & identity need to be application / platform independent
@@ -58,3 +54,60 @@ email is very stable because there is not one company in charge. you can be an a
 
 Too many problems that can't be solved now, and not by activism on its own.
 it is voice vs exit. My take is to understand the "physics", or the mechanisms below to look at the infrastructure that creates these symptoms and not trying to solve the symptoms we are confronted with on a daily basis.  
+
+
+## The Roadmap
+
+
+
+
+Enabling the distributed web
+https://medium.com/textileio/enabling-the-distributed-web-abf7ab33b638
+Whoever controls the location serves what the people are going to see.
+
+Websites became less important on mobile, instead we get these little packages of pre-structured data that fill the design preset within the app, e.g. a tweet, or a post. > and this is all json, a data format which is commonly used within server-client communication.
+
+Most of the internet dies within a 100 days, except the seemingly stable internet platforms.
+
+This whole process abstracts the filesystem from the user.
+“We traded convenience for control.”
+
+Content addressing changes the “where” to “what”.
+So how does it work? You create a unique, content-based fingerprint of your file. And this concept isn’t new. I used it as a child, 15 years ago, while I was participating in peer-to-peer file sharing.
+Different protocol now but functions similar: you ask the network for the content ID and the network will find other people that have that identical piece of content. Now, you are downloading the file from multiple people in parallel instead of one single distributor of the content and authority.
+
+peer-to-peer is inevitable because it will be the most cost-efficient variant of information exchange:
+p2p: costs = (filesize / customer) x cost-per-byte
+CDNs: costs = filesize x customer x cost-per-byte   
+
+But there will be hybrids for sure.
+
+
+CIDs are stable and don’t change over time. (Persistent data structure https://en.wikipedia.org/wiki/Persistent_data_structure)
+T
+
+https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f
+
+
+1 picture to chunks of raw data, which get through a hash function, which then turn into a collection of CIDs that are then hashed together for the “base CID”, which is the file with all of its components.
+
+You can also link your data (IPLD)
+DAGs are simple link-based graphs > like a tree, a erected acyclic graph (like my knowledge graph)
+https://en.wikipedia.org/wiki/Directed_acyclic_graph
+
+Every 12 hours you have to tell the network, that you can provide the CID or you are out of the peer list
+
+https://youtu.be/fLUq0RkiTBA?t=3440
+“Pinning is local, I pin to my machine”
+“Deleting is local”, “once you send it, its gone.”
+
+
+## timeless media
+
+Time expansion > short productions in cycles, series
+Time compression > production for one, self-describing piece.
+
+Or the hybrid because of the fast speed:
+Production of shorter products which are self-describing but modular
+> the curation of our own products > atomization
+> the continuous search, the bigger underlying theme, your values and personal interest
