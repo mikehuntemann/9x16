@@ -31,6 +31,8 @@ How can for example the decentralized Bitcoin network – as one of the first am
 > "The only way Bitcoin fails is from the inside. It has to fail because of a critical vulnerability that can not be fixed or that people don’t want to fix. It has to fail because of a failure of community, trust or culture. And that is very difficult to do with a technology that has so many participants, who have so many different motivations, different cultures, different languages, different operating systems, different software platforms, all collaborating around one core basic set of ideas. They have all be disappointed for different reasons, simultaneously.” – [Andreas M. Antonopoulos](https://youtu.be/p0ftZgCEZos?t=1837)
 
 But the same thing is true for Facebook and any other massive network or platform. Direct competition is not the way to go. You can not compete under the same "technical conditions" with companies that are employing almost all of the most capable programmers. Especially not in an environment that is driven by exponential growth and network effects.
-They can only fail by their own actions, loss of trust and a cultural or a bigger technological shift.
+They can only fail by their own creations and actions, the loss of trust and a cultural or technological shift.
+
+It is all a matter of ["bundling and unbundling"](https://web.archive.org/web/20190904214835/https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling), bundled music albums became unbundled songs and re-bundled into a playlist. The same will be true for verticality into modularity.
 
 And if everything is naturally a cycle, then all empires must fall eventually, because history is repeating itself. They are waves.
