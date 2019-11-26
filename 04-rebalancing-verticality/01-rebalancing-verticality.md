@@ -3,7 +3,7 @@
 So now you probably ask: How do both paths or branches of this research come together and what is the consequence or the result of that?  
 After exploring both the micro and the macro of research, the specific research subjects and the process of doing the research itself, I see two major problems, which I call "the hosting problem" and "the referencing problem".
 
-The hosting problem is a critique of the "location" of data and who is in actually in charge of preserving the information and the referencing problem is the direct result of the current stack of information technologies.
+The hosting problem is a critique of the "location" of (centralized) data and who is in actually in charge of preserving the information and the referencing problem is the direct result of the current stack of information technologies.
 
 When we look at any of the previously mentioned mobile-first networks, we see a vertical stack of influence and control:
 - the identity management of user accounts
@@ -16,4 +16,4 @@ And here we can see the value those companies add to the way how they manage dat
 Tim Burners-Lee Quote: Hyperlink Problem
 
 And this is were this whole construct breaks. The internet needs a different way to link, host and distribute the data. And this paradigm shift is what we will experience in the transition to the Web 3.0.
-But before that, where did it all come from in the frist place?
+But before that, where did it all come from in the first place?

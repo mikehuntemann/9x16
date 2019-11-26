@@ -1,7 +1,5 @@
+Why wasn't email interrupted by innovation? Mostly because it is a protocol that is not owned by anyone, is hard to change and is therefore a stable communication medium for everyone.
 
-> "Variability shrinks with modernism, statism and top-down control.
-You want to control everything, and you start compressing variation."
-– [Nassim Taleb ("Small is Beautiful - but Also Less Fragile")](https://youtu.be/xyXwrpmt0zk?t=3569)
 
 
 We won't get rid of verticals, but we can change their capacities, reduce their extend of influence.
@@ -22,17 +20,8 @@ only with payment comes expectations, rights and privileges (voice), we expect t
 tradeoff: "free software with ads to make up the difference" > "undefined grey area between who is the consumer, the customer and how much of a product are you a part of" > payment and subscription
 "there is nothing as free lunch" - @naval
 
-Balaji Srinivasan
-Cyclic nature
-unbundling and bundling
-Packets (verticals) will be split, and then reconfigured (new vertical)
-40:00 mp3 unbundled albums and bundled them into a Playlist
-Vertical integration to modularization and back
 
 
-peer-to-peer is inevitable because it will be the most cost-efficient variant of information exchange:
-p2p: costs = (filesize / customer) x cost-per-byte
-CDNs: costs = filesize x customer x cost-per-byte   
 
 
 
