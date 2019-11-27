@@ -77,8 +77,7 @@ So how does it work? You create a unique, content-based fingerprint of your file
 Different protocol now but functions similar: you ask the network for the content ID and the network will find other people that have that identical piece of content. Now, you are downloading the file from multiple people in parallel instead of one single distributor of the content and authority.
 
 peer-to-peer is inevitable because it will be the most cost-efficient variant of information exchange:
-p2p: costs = (filesize / customer) x cost-per-byte
-CDNs: costs = filesize x customer x cost-per-byte   
+
 
 But there will be hybrids for sure.
 
@@ -111,3 +110,40 @@ Or the hybrid because of the fast speed:
 Production of shorter products which are self-describing but modular
 > the curation of our own products > atomization
 > the continuous search, the bigger underlying theme, your values and personal interest
+
+
+## move to the Ocean
+
+
+As a sidenote: I am aware that I have a high unifying function, personally. I want everything to be seamlessly integrated, which feels somehow vertical, more efficient. But there is a difference in so far because it is only on the lower layers that can generate a lot of different forms on top of that sources, which makes it horizontal again.   
+
+
+Block collections become some sort of referencing /outlining tool for the long format
+
+The solution I would like to propose – together with the network and storage capabilities by IPFS – leads us to a state where there is no separation between online and offline storage anymore. (?)
+
+
+what are “browser-friendly” codecs to let the video assemble itself? > youtube: webm (VP8/9 + opus) > all streaming optimized (DASH) + wikipedia (VP9/8)
+“Composition-friendly codecs for assets”
+
+
+Now I point to the source with the link instead of “pinning” and therefore archiving for myself while providing it to others.
+
+
+
+
+A principle I have been following in my past projects:  
+
+Grab the project recipe.
+Download all of the necessary content from the network.
+Perform the recipe (now within the browser).
+
+
+
+This way, you can implement files into your project and become part of preserving the data over time. Or, if I find something valuable on the web or for example in my prototype for media archeology, collaborators or other people can help to keep the project itself, or maybe only assets of it, alive.
+
+In the end, we don't need persistent local storage or final exports, the will be just versions and subversion, and here and there an "exported release" for convenience reasons.
+
+Forget huge databases as a single point of authority or failure to mange and distribute the data. We can help each other and do this collectively.
+
+There will be files that will organically spread across the web and others you have to hold for your own, maybe because it is not the right time for it, yet.
