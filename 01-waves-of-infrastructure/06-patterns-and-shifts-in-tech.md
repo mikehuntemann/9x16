@@ -5,7 +5,7 @@ The bootstrapping list could go on forever, but it should be enough to see some 
 ### 2004 - 2006
 - Social / Scale / Storage
 - Building Hardware Infrastructure
-- application-based (desktop) to web-based (browser, ajax)
+- application-based (desktop) to web-based (browser)
 
 In the early 2000s, the focus of the companies are service-based platforms around specific interest groups and media formats. This is the time of actually building and expanding infrastructure to support such economies of scale. This timeframe marks the shift from desktop application-based services to more advanced interactive and dynamic web-applications within the browser. Most of the platforms are "free-of-charge", which further increased the speed of scaling of all of these networks.
 
