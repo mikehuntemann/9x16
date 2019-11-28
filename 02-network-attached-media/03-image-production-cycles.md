@@ -3,6 +3,7 @@
 > “The most basic decision-making skill is adapting to the tempo of your environment, and setting your own pace within it. It is significantly harder to become a pace-setter or pace-disruptor: somebody who can actually influence the tempo of the environment.”
 – Venkatesh Rao (Tempo)
 
+As we could see in the early P2P file-sharing and the influence upon the production of music through the increased speed in the distribution process.
 
 What I am observing is an increase in the speed of communication and a focus on the now. Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.
 There is more content created then ever. (add some numbers here) you won't have the time to consume it or further, act on it.
@@ -14,7 +15,7 @@ So when everyone is incentivized to create, what is news and what is really news
 
 > "complexity science" as "the study of the phenomena which emerge from a collection of interacting objects"
 
-In terms of media production we can look at the metric of "time-to-publish" which changed dramatically in the last 10 or so years. It started with text, was extended with photos, now we have video and live-video broadcasts. The bandwidth of possible forms of communication styles increased exponentially.
+In terms of media production we can look at the metric of "time-to-publish" which changed dramatically in the last 10 or so years. It started with text, was extended with photos, now we have video and live-video broadcasts. The bandwidth capacities of data exchange and with that the possible forms of communication styles have increased exponentially.
 
 Time to create, produce and release video content
 and where we can see for example a shift from filmmakers to content creators.
