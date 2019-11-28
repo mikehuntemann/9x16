@@ -69,7 +69,7 @@ Referencing vs creating
 Lightness of being: curating, thought process, dynamic vs linear  
 Video grid, video referencing network  
 Science as referencing network on the meta level  
-YouTube as one playlist vs recommendations
+
 
 How to „write“ documents? How to „document“ the process? How to archive what happens in the browser or apps? How to create a "database" or network of (personal) knowledge? How to manage the "evidence"?
 
@@ -88,9 +88,7 @@ In August 2018, I started the [“xResearch”](https://web.archive.org/web/2019
 Throughout the next 6 weeks, I tracked every topic, every video, that would cross my screen, what I was intuitively "drifting" towards.
 I compressed them into the major themes and topics as well as into “personal”, "technical", "methodical" and “institutional” categories. The bottomline is: I am somehow obsessed with databases, knowledge management, archiving and documenting.
 
-This was also overwhelming in itself, so I read "The Craft of Research" (19.09.2018) and looked for methods in the field of academic research and learn about their approaches. I closed the book after the sentence "Don't use the internet for your research." Error 404, Answers Not Found.
-One could argue that academic research doesn't like internet references.
-This is interesting, but more to that later.
+This was also overwhelming in itself, so I read "The Craft of Research" (19.09.2018) and looked for methods in the field of academic research and learn about their approaches. I closed the book after the sentence "Don't use the internet for your research." Error 404, Answers Not Found. One could argue that academic research doesn't like internet references or any references that are not "stable". This is interesting.
 
 > I am studying the methods and processes of data collection and management because I want to find out if there are basic underlying principles in order to help other researchers to handle digital complexity with a set of tools.
 
@@ -99,7 +97,7 @@ This was somehow my mission statement, but quickly came back to some of my initi
 > What if there were no documents anymore, just fragments?
 How would research work when behaving more like email for quick incoming chunks? Rearranging, evolving.
 
-This was also the time, somewhere around mid of October, that I would take my content from the temporary Wordpress blog and converting every entry to a Markdown file and putting it into single, self-reliant files locally on my computer and synced it to a Github repository. There was no need for a database and a backend anymore. I used Tower to push my new commits to keep the history of each file over time. For writing I used "Atom", an open source, extendable code editor developed by Github.
+This was also the time, somewhere around mid of October, that I would take my content from the temporary Wordpress blog and converting every entry to a Markdown file and putting it into single, self-reliant files locally on my computer and synced it to a Github repository. There was no need for a database and a backend anymore. I used Tower to push my new commits to keep the history of each file over time. For writing I used [Atom](https://atom.io/), an open source, extendable code editor developed by Github.
 This way I could see the rendered Markdown file with a default styling and see all the changes made between the different commits.
 I stopped shortly after but came back to it for the document you are reading right now.
 
@@ -115,12 +113,12 @@ Strangely, or maybe out of pure necessity, I then got partly analog in March 201
 
 In this way, I documented everything in "little blocks" of assets in form of knowledge and references on post-its. The interfaces of the applications were just not good enough for this messy, personal, organic process with a lot of fragmented information!
 
-Then I found the "Notion" app in April 2019, which was great and "block-based". So I converted all my notes into the applications database, were I would now be able to create structured databases for different kinds of topics. It is a pretty neat management tool, but I didn't really stick over the complete process of writing, "Notes" was always faster and leaner, more focused, easier to dump thoughts into it.
+Then I found the [Notion](https://www.notion.so/) app in April 2019, which was great and "block-based". So I converted all my notes into the applications database, were I would now be able to create structured databases for different kinds of topics. It is a pretty neat management tool, but I didn't really stick over the complete process of writing, "Notes" was always faster and leaner, more focused, easier to dump thoughts into it.
 But "Notion" would stay as a management tool for catalogs of digital and analog resources and as a directory where I took the notes to each source. In addition to that, the "block system" is not interoperable with my "filesystem tools" because "Notion" works as a cloud platform and internalizes its own application specific file management. But that is also the reason, why it is for "normal use-cases" good enough.
 
-But besides all of that, there was another problem: I couldn't reference the visuals, not with "Notion" and especially not with my post-its.
+But besides all of that, there was another problem: I couldn't reference the visuals, not with Notion and especially not with my post-its.
 
-So I build a prototype with "KirbyCMS" in May 2019 – right after we had a workshop about it. Kirby only uses the filesystem for the backend of websites instead of databases like Wordpress.
+So I build a prototype with KirbyCMS in May 2019 – right after we had a workshop about it. Kirby only uses the filesystem for the backend of websites instead of databases like Wordpress.
 From there I could manage, categorize and prepare my video snippets in the interface of Kirby, which would then add the files in the specific directory. This way I could also see, which videos or snippets I still need to download, and got immediate feedback and an overview what tasks were still open. It was also good for adding further meta data for each video or snippet and generating download commands for specific sections.
 
 So Kirby was now for indexing my video-based, reference preserving research content, but this tool is not meant to be the tool for the actual performance. And this is what brought me back to the possibility of doing a desktop documentary.
