@@ -1,21 +1,16 @@
-// Note: See "VERTICAL/Paradigm-Shifts-Files.psd" for collection of trends
+## File-sharing Approaches, Music Distribution, Content Management
 
-## File-sharing Approaches, Music Distribution, Content Management (Specific)
-
-Before we are going into the specifics of mobile image production, I first want to make the case for the "natural states" of technological developments, the markets and the legal system. This can be seen as a small case-study of "frameless media" which can help us to identify a general patterns of distribution without the influence of "visual interoperability". IMHO, this patterns becomes even more clear due to the relatively small file sizes, costs and the general interest in music, as well as the speed in which the music industry got disrupted by these internet technologies.
+But before we are going into the specifics of mobile image production, I first want to make the case for the "natural states" of technological developments, the markets and the legal system. This can be seen as a small case-study of "frameless media" (in this case the MP3, as compressed music file) which can help us to identify general patterns of "musical data" distribution without the influences of "visual interoperability" within interfaces. IMHO, this patterns becomes even more clear due to the relatively small file sizes, costs and the general interest in music, as well as the speed in which the music industry got disrupted by these internet technologies.
 
 This will lead to an explanation why we inevitably had to experience this extreme form of verticality. I now want to sketch out the underlying mechanics and limitations of the three waves of infrastructural shifts that power, manage and control instances of the internet and what trade-offs where made by the users and where digital files are stores and managed over time.
 
-![Three Waves](../assets/three-waves.png)
 
-### Wave One: P2P File-sharing (distributed)
-// Edit: distributed or semi-decentralized?
+### Wave One: P2P File-sharing
 
-As part of and a parallel approach / development of the early web 2.0, peer-to-peer protocols enabled participants to exchange files without having a dedicated server but only the personal computer which acts as server and client at the same time. P2P became popular especially for music sharing with the emergence of Napster, the first generation of these exchange services. Parts of the infrastructure still included centralized indexing servers or directories of available files, which can be seen as  "single point of failure" for these networks because of the legal frameworks they are operating in as a company.
+As part of and a parallel development of the early web 2.0, peer-to-peer protocols enabled participants of a network to exchange files without having a dedicated server but only the personal computer which acts as server and client at the same time. P2P became popular especially for music sharing with the emergence of Napster, the first generation of these exchange services. Parts of the infrastructure still included centralized indexing servers or directories of available files, which can be seen in hindsight as "single point of failure" for these networks because of the legal frameworks they are operating in locally as a company.
 
 
-### Protocols and applications (1999-2008)
-// Edit: Separate Protocols and applications?
+#### Protocols and applications (1999 – 2005)
 
 - Napster (Centralized File Directory + P2P, TCP Protocol, Jun 1999)
 - iMesh (Client, centralized IM2Net, Nov 1999)
@@ -32,25 +27,24 @@ As part of and a parallel approach / development of the early web 2.0, peer-to-p
 - uTorrent (Client for BitTorrent, Sep 2005)
 - Transmission (Client for BitTorrent, Sep 2005)
 
-![Wave One](../assets/file-sharing.png)
 
-- no accounts / identity / verification needed
-- file management is completely in the hands of the participants
-- protocol as transport layer, distributing the files with different approaches, "download cooperation" that is not limited to one specific participant in the network
-- influencing the content of the music itself, availability of references / samples, speed of production and speed of release + potential circulation, "production value" / "polished products"
+To participate in those networks there was no need for accounts or personal verification needed because the network sees every peer as an equal participant within it. These protocols and desktop clients act as a transport mechanism between the peers. They handle the "download cooperation" through a fixed set of rules how data gets transmitted and distribution. This approach is highly collaborative in its nature.
+The participants have the following file management completely in the hands and are out of external control.
 
-Peer-to-Peer file-sharing had the missing incentive structure for offering the content permanently or 24h a day because the personal computers were not meant to be "always-on" devices. This led to a marketplace on the basis of altruism, therefore paving the way for the "free-rider problem". The problem describes the state of a market which becomes dysfunctional due to lack of transactional value or free access to products where the users end up by only taking and not contributing back.
-In combination with a limited upload capacity which was asymmetrical to the download (56k, ISDN, ADSL), which can be seen as a Web 1.0 read-only artifact, compromises more bandwidth for the download within the physical connection, which technically further incentives to "just use" services or to be a "end-user" – a client or end-user instead of a server. In addition to all the technical limitations, the location-based regulatory frameworks  suppressed the usage of file-sharing by the narration of piracy (stresses existing or legacy copyright and intellectual property laws) (especially in terms of movies: "You wouldn't steal a car!") and threats of potential legal action.
-// multiple shutdowns of centralized services / networks
 
-### Wave One: File-sharing Services (decentralized)
-// Edit: centralized but general purpose?
+But the speed and low-cost of this distribution mechanism was also influencing the content of the music itself: through availability of potential new references or inspirations in form of samples and the increased speed of (re-)production and release-cycles through complete digital production process on the desktop. This also effected the "production quality" because it is now handled by self-taught individuals instead of the industry leading sound engineers as an experts who were previously in charge of "production value" and therefore "polished high-end products".
 
-Decentralized services (here used as "multiplicity of platforms with the same function") displaced the problems of on-demand availability through the network-attached storage, provided by the service operators. Now, files for distribution only had to be uploaded once from the user who was still limited by the internet providers upload capacity. The user transfers the responsibility and the management of availability (always-on or promise) to the service who would handle all the download traffic from all downloading users.
+But now I want to look at the "technical tradeoffs" this form of distribution mechanisms at that time had to deal with.
+Peer-to-Peer file-sharing had the missing incentive structure for offering the content permanently or 24h a day because the personal computers were not meant to be "always-on" devices as the "dedicated server". This led to a marketplace on the basis of altruism, therefore paving the way for the "free-rider problem". The problem describes the state of a market which becomes dysfunctional due to lack of transactional value or free access to products where the users end up by only taking and not contributing back.
 
-// no accounts / identity / verification needed  
-// "single point of failure" or "self-regulation"
+In combination with a limited upload capacity which was asymmetrical to the download rate (56k, ISDN, ADSL), which can be seen as a Web 1.0 read-only artifact, compromises more bandwidth for the download within the physical connection, which technically further incentives to "just use" services or to be a "end-user" – back to a client-only instead of a server-client combination as equal participant. In addition to all the technical limitations, the location-based regulatory frameworks  suppressed the usage of file-sharing by the narration of piracy (stresses existing or "legacy" copyright and "intellectual property" laws) that would later be even more extended my the Hollywood and the film industry ("You wouldn't steal a car!") which resulted in more threats of potential legal action against the service providers but further to each individual who was actively participating.
+These threads led to the shutdown of multiple, centralized services that could be held reliable against copyright infringements in the first place as a single-point of failure from a infrastructural perspective. But decentralized approaches and protocols would be "out-of-control", from a legal perspective.
 
+### Wave One: File-sharing Services
+
+Decentralized services (here used as "multiplicity of platforms with the same function") displaced the problems of on-demand availability through the network-attached storage, provided by the service operators. Now, files for distribution only had to be uploaded once from the often anonymous user who was still limited by the internet providers upload capacity. The user transferred their responsibility and the management of availability (always-on or the promise to transmit) to the services who would handle all the download traffic from all downloading users.
+
+#### Services (2002 – 2010)
 
 - Rapidshare (May, 2002)
 - YouSendIt (Early 2004)
@@ -62,65 +56,63 @@ Decentralized services (here used as "multiplicity of platforms with the same fu
 - Hotfile ("400MB Uploads", Mar 2009)
 - Fileserve (Apr 2010*)
 
-![Wave Two](../assets/file-sharing.png)
+
+With the scale of users and the costs for available storage and bandwidth forced service providers to limit the amounts of possible downloads or the speed of download bandwidth to implement "freemium" business models, where the premium users would pay for the actual costs of hosting in favor of immediate, unlimited and simultaneous downloads – regaining the partial "benefits" of the previous P2P alternative.
+For the users, the browser was the only tool needed and (temporary) download links could be shared easily in forums, chats or could be found with Google search queries. "One-click file hosting" didn't require specific technical knowledge and was more convenient and accessible for end-users.
+
+After downloading the files, the management of the music library on the local file system was still in the hands of the user and had to be done mostly by hand for each download.
+
+Also in this case, there was a series of company shutdowns of these centralized sharing services or companies had to pivot under the legal pressure of copyright infringements to "private storage solutions" like **Dropbox (2007)**.
+
+### Wave Two: Apple, Trust and the Music Industry
+
+Apple is probably the most influential player in the formation of centralized control mechanisms of todays mobile devices with their take on integrated software and hardware solutions. In this time-period, they function as the trust-giving authority to the music industry that heavily fought against the distribution of any digital music on the internet. So what were the steps?
+
+Apple's vertical integration process started with the acquisition of **SoundJam MP (1998)** in the year 2000, which was a MacOS 8 and 9 compatible MP3-player that was reengineered, rebranded as **iTunes (2001)** and used as default interface for the music library in MacOS since then.
 
 
-The scale of users and the costs for available storage forced service providers to limit the amounts of possible downloads or the speed of download bandwidth to implement freemium business models, where the premium users would pay for the actual costs of hosting in favor of immediate, unlimited and simultaneous downloads – regaining all of the "benefits" of the original P2P vision / version.
-For the users, the browser was the only tool needed and (temporary) download links could be shared easily in forums, chats or could be found with Google search queries. "One-click file hosting" didn't require specific technical knowledge and was more convenient and accessible for end-users. After downloading the file, the management of the music library on the local file system is still in the hands of the user and had to be done mostly by hand for each download.
-// multiple shutdowns of centralized services or pivots to "private storage solutions" dropbox (2007)
+This strategic move led to the separation of the file's location in the file system and the application interface, which acts now as a medium specific file organization tool that was not provided by their general purpose file-explorer Finder. With this application, the user had to conform to this closed system, their structural implications and limited customization or personalization because it is all handled by the software to make the process of file management nearly "invisible", "easy to use" and convenient.
 
+> "So what are we gonna focus on next? Audio. There is a music revolution happening right now. That music revolution is digital music on computers. So for those of you who are not participating in this, let me describe it to you: you want to rip your audio CDs on your computer disk. (...) The format of choice is MP3, it is a very dense format, very high quality and it's open. And then it allows you to create playlists from your favorite songs (...) rearrange the order and listen to them in any order i want. The music compiled the way I want and not the way some record company wants."
+– Steve Jobs, Macworld SF 2001
 
+Apple is bootstrapping from the personal music libraries ripped from CDs or downloaded from P2P file-sharing. They are themselves riding the waves of technological disruption and align the company towards new potential use-cases that only Apple as a vertical integrated company is capable of.
 
-### Wave Two: Apple, Trust and the Music Industry (centralized)
-// Edit: centralized and specific purpose (+ community)?
+> "The Mac can become the "digital hub" of our emerging digital lifestyle, adding tremendous value to our other digital devices. (...)
+We realized that Apple is uniquely suited to do this because we are the last company in this business that has all these components [Hardware, Operating System, Application, Internet, Marketing] under one roof."  
 
-Apple is probably the most influential player in the formation of centralized control mechanisms of todays mobile devices with their take on integrated software and hardware solutions. They function as the trust-giving authority to the music industry that heavily fought against the distribution of digital music files.
-Apple's integration process started with the acquisition of SoundJam MP (1998) in the year 2000, which was a MacOS 8 and 9 compatible MP3 player that was reengineered, rebranded as iTunes and used as default music player in MacOS since then.
-This strategic move led to the separation of the file's location in the file system and the application interface, which acts now as a medium specific file organization tool that was not provided by the general purpose file-explorer "Finder". The user has to conform to this closed system, their structural implications and limited customization or personalization because it is all handled by the software to make the process of file management nearly invisible and "easy to use".
+While Jobs was talking about the Mac as the "digital hub" in 2001, he wasn't anticipating what the next successes in hand-held hardware would do to the company and the industry in general.
 
+The previously open and application-independent files were now managed and pre-structured to be then one-way synced with Apple's proprietary, specific purpose music hardware – the **iPod (2001)**. And so, the controlled ecosystem was growing and further integrating.
 
-These  application dependent files were managed and prepared to be then one-way synced with proprietary, specific purpose hardware – the iPod. And so was the ecosystem growing and integrated.
-
-Apple is bootstrapping from the music libraries from P2P file-sharing and ripping CDs
-
-
-
-> "The Mac can become the "digital hub" of our emerging digital lifestyle, adding tremendous value to our other digital devices."
-
-> "We realized that Apple is uniquely suited to do this because we are the last company in this business that has all these components [Hardware, Operating System, Application, Internet, Marketing] under one roof."  
-
-> "So what are we gonna focus on next? Audio. There is a music revolution happening right now. That music revolution is digital music on computers. So for those of you who are not participating in this, let me describe it to you: you want to rip your audio CDs on your computer disk. (...) The format of choice is MP3, it is a very dense format, very high quality and it's open. And then it allows you to create playlists from your favorite songs (...) rearrange the order and listen to them in any order i want. the music compiled the way I want and not the way some record company wants."
-
-– Jobs, Macworld SF 2001
-
-"Burn your playlists on your custom CDs"
-"All-in-one integrated application"
-
-Apple then became general purpose again with the iPhone 3G (2008) with the App Store (making iOS app development available as platform) which inherits the same control mechanisms of filesystem abstraction
-
-- file management in filesystem to application-based management in iTunes  
-- iPods used a closed, one-way syncing system. This concept would increased the trust of the music labels to tap into the digital realm. This one-way mechanism prevented the possibility of device-to-device file-sharing
-
-while the industry is fighting everyone who makes file-sharing available
-through networks or services apple uses its highly controlled and centralized music application and extends it with a market with the cooperation of five major labels.   
-- with the introduction of the iTunes Store (2003) songs were copy-protected with DRM (Digital Rights Management), which was the perfect vendor lock-in, because it prevented music to be on non-Apple devices
+And this device turned out to be the "game changer" in terms of trust for the industry. With the emergence of the **iTunes Store (2003)**, Apple was now the trusted authority regarding the digital marketplace.
+Songs you could buy in the iTunes Store were copy-protected with DRM (Digital Rights Management), which was also the perfect vendor lock-in, because it prevented music to be on non-Apple devices and further protected by the read-only or listen-only iPods. This one-way mechanism prevented the possibility of device-to-device file-sharing we experienced on the desktop.
+The DRMs would later causes lawsuits against Apple and were removed in 2007 but it played its part in the history of its vertical integration and the market dynamics.
 
 
 
+Apple then released the **iPhone 2G (2007)** and one year later its general purpose hardware device with the **iPhone 3G (2008)** in combination with the **App Store (2008)** which would make iOS app development available to the developer community. This way, the iPhone itself created its own platform and services as a new medium which inherited the same control mechanisms of filesystem management and abstraction for the end-user.
 
-- company shifts from general purpose hardware (PCs) to media distribution as a service + media specific handheld hardware to media and application distribution as a service + general(?) purpose handheld hardware
-- the mobile devices are not self-sustaining (for now), but their initial syncing bridge could be dropped due to over-the-air updates which don't require a computer to install.
-
-
-
-> "How can the PC add such value? Why? Well, for a few reasons. One, because it can run complex applications, these devices can't. They don't have enough horsepower. Two, because the PC's got a big screen on it. That doesn't mean that you can just see more information, we can make much better user-interfaces. Most of these digital devices have pretty brain-dead UIs. We can burn disks as we have seen CDs and now DVDs. The digital devices can't do that. And we got large, inexpensive storage. You pay a fortune for those flashcards for your camera (...)."
-
-
-### Wave Three: Streaming Services & Demonetization (vertical)
-streaming services made file-sharing almost unnecessary for mainstream music, "all in one place", easy to navigate, no individual payments for a song, easy to mange, personal playlists, shared playlists
-- file management through platform
-also changes of industry through publishing on Soundcloud e.g.
-- artists want their music to be "free" and used to generate network effects to indirect earn money through other forms of products (events, premium content, etc.)
+Summary of changes:
+- from general purpose hardware (Desktop PCs)
+- to media specific handheld hardware
+- to media distribution as a service
+- to general purpose handheld hardware
+- to media and application distribution as a service
 
 
-- Grooveshark ()?
+
+// And as a little side-note I would like to mention that the mobile devices are not self-sustaining (for now), but their initial syncing bridge could be dropped due to over-the-air updates which don't require a computer for registration, initialization or syncing anymore. This is all now handled by the iCloud.
+
+
+### Wave Three: Streaming Services & Demonetization
+
+With iOS and Android as the main driver of this shift to smartphone technology, these software platform solidified the way where the media should come from. The dualism of the local or on-device music library on the one hand, and the access to other streaming platforms via 3rd-party apps on the other hand.
+
+The parallel development of streaming services of **Spotify (2006)** or **Soundcloud (2007)** for example made the early file-sharing seem almost unnecessary. Content inside of these platforms were either "all in one place", easier to navigate or to discover, didn't need individual payments or "ownership" and could be collaboratively managed or handled with platform specific functions.
+
+With this constellation, we have a second-order control mechanism through the platforms: the file management now happens in the data center of the platform provider, while we can collectively interact with the content with the same set of tools – pre-structured, pre-defined and in "pre-dictable" ways.
+
+And under this circumstances, there is also a shift in the expectation of the musicians. Streaming is not about making money, it is about exposure and attention. They want their music to be "free" to remove the boundaries for maximum reach, to generate network effects, so that they are able to earn the money through other forms of "scarce" products (events, premium content, etc.) in an indirect and unpredictable manner.
+
+As a conclusion I would say, we gradually traded control, self-management (of files) and diversity (of sources) for convenience, single-entity distribution systems and with that the inconvenient consequences of predetermined decisions made for you – as the end-user – that have to align with the companies business model.
