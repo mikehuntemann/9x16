@@ -1,9 +1,11 @@
 # Network-Attached Media
 
-- intro: bridge the pattern of apple and open standards to specific media-network production
+This chapter will focus on the histories of products and platforms, sharing mechanisms and centralization of access.
+I will propose perspectives to understand the current context of media production and consumption, and what driving forces are at play.
 
-- bidirectional relationships, the device and the software are the medium, network itself becomes the genre (viewing habits or habits and tools of production) within that specific sub-genres, prediction vs expectation (vs information itself that is universal but has to be shaped, formed, produced for a specific purpose)
+The main distinction I would like to emphasis is between network-attached storage and network-attached media.
+This separates the functions of sheer storage and distribution of a file to a medium that is actively shaped by the transmission and broadcasting mechanisms itself.
 
-- comparison to Network-Attached Storage as unidirectional, the archive or the database that wants to conserve the information for referencing in the future to provide value in hindsight, because you can not know what might be relevant or valuable in the future.   
+The second state, which inherits a bidirectional relationships between network and media, I will further describe in "what does the network want". As a general hypothesis I would propose that especially Apple's mobile operating system iOS and the interplay of their software and hardware are "the new medium", media networks themselves becomes the genres (with their specific viewing habits or habits of interaction and tools of production) which then trigger network- or genre-specific iterations in form of sub-genres.
 
-- media that embraces referencing / sharing  / copying / iterating / communicating
+And this can be seen as the counter-party to infrastructures of Network-Attached Storage as unidirectional system, where the archive or the database itself is non-invasive, meaning that the media was not influenced within the flow or form of production by any of the possible storage formats.(?!)
