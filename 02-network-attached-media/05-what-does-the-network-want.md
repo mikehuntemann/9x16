@@ -1,6 +1,8 @@
 ## What does the network want? (General)
 // Intro: What changed from the shift from desktop to mobile
 // Zuckerberg quote for engagement rates (2012)
+> “First there are more users, right, obviously. The second is that per person who is using Facebook on mobile there is more engagement and they are spending more time. And third is that per amount of time people spend on mobile we think we can make a lot more money than we do on desktop, too.” – [Mark Zuckerberg](https://youtu.be/o2wPzjH2xwA?t=141) 
+
 
 The internet has another fundamental problem: monetization. Most social media platforms that survived the initial start-up and venture capital phase have an ad-centric business model or were merged into one. The initial narration is always: scale the community, then introduce ads to generate revenue and support (full-time) content creators to continue and create a media business.
 
@@ -30,17 +32,33 @@ community will be the core of video that it affects the content in itself. new c
 Based on their metrics, Facebook senses that "communal watching" amplifies the experience of watching video content, shared videos from friends are watched 40% longer, live videos together with friends result in longer watch times and have in general up to 6x the engagement.
 
 So one could say that you watch videos because your friends have watched it, you watch longer because you watch it with your friends, and in the end you chat more about it, because you are talking to you friends.
-As a conclusion it seems that for time efficiency reasons you shouldn't have friends on the internet. Or as Wendy Chun stated: "Friends are a leaky technology."
+As a conclusion it seems that for time efficiency reasons you probably shouldn't have friends on the internet. Or as Wendy Chun stated: "(...) online friends are an extremely leaky technology."
 
 So how different is YouTube without having a network of friends attached?
 
 2 years earlier, youtube releases the 10 youtube fundamentals
-> insert text here
+
+### Youtube: 10 Fundamentals
+A YouTube video does not want to be a one-hit-wonder. YouTube wants them to be repetitive, continuous and branded (recognizable, identifiable, familiar). They want them to be concise in length but also in time to understand, so it favors the easy idea.
+Through the network comes interactivity, which leads to a faster feedback loop (producer > community > producer) and a change in language. Direct communication is the ideal form of narration. Speaking directly into the camera, and therefore to the audience. You are also speaking to a specific community, a group of people with a collective interest in something, so be sure that you create content that specifically targets this audience. Your audience wants to see you in a predictable and for you sustainable timeframe, so make sure that you lower your production value to a minimum. To attract new viewers you can always talk about popular topics ("evergreens") or create content with a sense of usefulness ("how-to's").
+Another way to a bigger audience is to make collaborations with already popular content creators which share a mutual, community-based interest.
+
+### Loyalty, Community Management and Viewing Habits
+While Youtube is a place to host any kind of video content, the tendencies of the network lead to a specific formation of the video content itself (genres, production) and its channel (timeframe). The sequence of uploaded videos becomes the tool of community creation and management (subscribers), which is connected to Youtube as the platform and not to the creator in the first place. A cross-platform community is therefore only possible with additional work and reinforcement. The audience of the channel builds their loyalty and their viewing habits to the platform first and the creator second, due to the multiplicity and therefore replaceability of content creators around the world.
+
+### Platform Stability, Content Discovery and "Organic Reach"
+Changing algorithms for content discovery on the homepage and the trending section were problematic for content creators in the past, who experienced massive drops in their views.
+On October 8, 2019 YouTube [leaked several metrics](https://www.youtube.com/watch?v=-KUJVhgHUXk) of their system, revealing the "P-Score" (Preference Score) which measures and filters every video on the platform for the most engaging and brand-appropriate content to put advertising in front of it. One of the internal indicator was "throttling" which limits the videos distribution and its amount of ads.
+
+And also UI/UX changes of the upload notifications interfere with the video content. By now, the audience has to manually activate channel-specific video uploads.
+Platform changes are made by the company and often poorly communicated beforehand. There is no voice from the user-base, neither from the content creators nor the audience.
+
+algorithm changes for content discovery or newsfeeds also happen regularly on facebook and instagram. Facebook especially reduces the amount of people you can reach within your Facebook Pages community. This limit is called "organic reach" and it is declining from year-to-year, effectively incentivizing brands to use paid reach. This metric also favors mobile-first video content, because it has the highest engagement rates throughout all of the media types. (Hoodsuite)
 
 
 back to facebook:
 
-> "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually  directly engaging because the fans make the stories for you."
+> "The key is always: start with great content. Number one is actually know your audience and use your insights to understand which content is resonating and (...) we are clearly rewarding content that brings people back, which creates this loyalty. (...) And then it's really about nurturing it and for that I would say that Live remains as the best tool we have (...) and then we are seeing that Groups is actually a way to extent your presence as a creator beyond the times were you are actually directly engaging because the fans make the stories for you."
 – [Fidji Simo (Vice President of Product, Facebook)](https://youtu.be/fb6QfpIsXJc?t=876)
 
 their basis seems similar!
@@ -51,6 +69,7 @@ The content only seems to act as a catalyst for engagement, which is creating th
 
 
 But what happens when distribution systems change?
+and this leads me to the thesis that we would be better off if facebooks communication formats would actually be protocols itself instead of an ever changing, closed and private tool for communication.
 
 ### Limits to Openness
 building communities, pay-to-reach, gatekeeper creates, manages and modulates the connections within the feed. the Pages "organic reach" acts as bandwidth limitation (which you can 1:1 translate from the principles of the "freemium" file-hosting services), definitions of what is "relevant content" changes (values, trajectory, "mission“)
@@ -188,22 +207,6 @@ So what makes TikTok so different from the pre-existing networks?
 
 
 
-### Youtube: 10 Fundamentals
-Network-attached video (NAV) does not want to be a one-hit-wonder. NAV wants to be repetitive, continuous and branded (recognizable, identifiable, familiar). It wants to be concise in length but also in time to understand, so it favors the easy idea.
-Through the network comes interactivity, which leads to a faster feedback loop (producer > community > producer) and a change in language. Direct communication is the ideal form of narration. Speaking directly into the camera, and therefore to the audience. You are also speaking to a specific community, a group of people with a collective interest in something, so be sure that you create content that specifically targets this audience. Your audience wants to see you in a predictable and for you sustainable timeframe, so make sure that you lower your production value to a minimum. To attract new viewers you can always talk about popular topics ("evergreens") or create content with a sense of usefulness ("how-to's").
-Another way to a bigger audience is to make collaborations with already popular content creators which share a mutual, community-based interest.
-
-### Loyalty, Community Management and Viewing Habits
-While Youtube is a place to host any kind of video content, the tendencies of the network lead to a specific formation of the video content itself (genres, production) and its channel (timeframe). The sequence of uploaded videos becomes the tool of community creation and management (subscribers), which is connected to Youtube as the platform and not to the creator in the first place. A cross-platform community is therefore only possible with additional work and reinforcement. The audience of the channel builds their loyalty and their viewing habits to the platform first and the creator second, due to the multiplicity of content creators around the world.
-
-### Platform Stability, Content Discovery and "Organic Reach"
-Changing algorithms for content discovery on the homepage and the trending section were problematic for content creators in the past, who experienced massive drops in their views.
-On October 8, 2019 YouTube leaked several metrics of their system, revealing the "P-Score" (Preference Score) which measures and filters every video on the platform for the most engaging and brand-appropriate content to put advertising in front of it. Another internal indicator was "throttling" which limits the videos distribution and its amount of ads.    
-And also UI/UX changes of the upload notifications interfere with the video content. By now, the audience has to manually activate channel-specific video uploads.
-Platform changes are made by the company and often poorly communicated beforehand. There is no voice from the user-base, neither from the content creators nor the audience.
-
-algorithm changes for content discovery or newsfeeds also happen regularly on facebook and instagram. Facebook especially reduces the amount of people you can reach within your Facebook Pages community. This limit is called "organic reach" and it is declining from year-to-year, effectively incentivizing brands to use paid reach. This metric also favors mobile-first video content, because it has the highest engagement rates throughout all of the media types. (Hoodsuite)
-
 
 ### Permanence, Availability & Censorship
 
@@ -213,7 +216,7 @@ algorithm changes for content discovery or newsfeeds also happen regularly on fa
 ### Flow-Opimization: Data, Perception, Production
 How Flow and Habit are liked:
 
-When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, maybe storage not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
+When social media networks extend their capabilities to video, this is an expensive tradeoff in the first place (processing power and bandwidth, storage maybe not so much). So was is the motivation behind it? What metrics make it a good investment for the company? This again, goes back to the engagement rates of the content:
 
 - "flow" through scrolling photos vs the "flow" of viewing media content within the flow of scrolling
 - fighting the meme / viral video > meaningful interaction vs reinforcing engagement
@@ -227,12 +230,6 @@ Short video formats are going to die or will survive through iterative alteratio
 - fluidity as a medium (apple)
 
 
-### video hosting is expensive (bandwidth + cpu-time)
-
-### Is YouTube already a legacy service?
-> acts as archive for the fast-paced productions within other networks
-> but we see additional format which favor the efficiency within production: screen-recordings w/ voiceovers to reduce time-to-publish
-> also live-streaming etc.
 
 time-preferences, survival, longevity > relevance
 value in the body of work, archive is the store of value , not the content itself > habituation and ephemeral content, addiction, crisis
