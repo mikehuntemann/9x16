@@ -2,49 +2,67 @@
 
 > “The most basic decision-making skill is adapting to the tempo of your environment, and setting your own pace within it. It is significantly harder to become a pace-setter or pace-disruptor: somebody who can actually influence the tempo of the environment.”
 – Venkatesh Rao (Tempo)
+//                    ^ Page Number missing
 
-As we could see in the early P2P file-sharing and the influence upon the production of music through the increased speed in the distribution process.
+As we could see in the early P2P file-sharing, the increased speed in the distribution process itself influences the production of music through faster feedback loops between production and publishing. But this is of course not only true for music, but ultimately any form of communication via the internet.
 
-What I am observing is an increase in the speed of communication and a focus on the now. Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.
-There is more content created then ever. (add some numbers here) you won't have the time to consume it or further, act on it.
-So when everyone is incentivized to create, what is news and what is really news-worthy? only time will tell, and this effect is called the "Lindy" and Lindy follows the Pareto distribution.
+In terms of mobile media production within networks, it started with simple text, was extended with photos, now we have video and live-video broadcasts. The increasing capacities of mobile processing power and data transmissions and with that the possible forms and the bandwidth of communication have expanded exponentially. The same sequence and evolution was true with the desktop computer and its capabilities over time, but took much longer in comparison.
 
-> "If a book has been in print for forty years, I can expect it to be in print for another forty years. But, and that is the main difference, if it survives another decade, then it will be expected to be in print another fifty years. This, simply, as a rule, tells you why things that have been around for a long time are not "aging" like persons, but "aging" in reverse. Every year that passes without extinction doubles the additional life expectancy." – Nassim Taleb (Antifragile)
 
-> "So things that have been in existence for a long period of time can be considered more robust/antifragile, i.e., more likely to continue to survive, than new things that haven't passed the test of time"
+### General Trends within the Industry
 
-> "complexity science" as "the study of the phenomena which emerge from a collection of interacting objects"
+- Frameworks & developer tools + unified device make it easier create apps on the iPhone + user-base tends to pay more (verticality, efficiency, usability)
+- Increasing the processing capacities of mobile devices (Moore's law)
+- Increasing image quality of mobile devices (second / third order Moore's law)
+- Increasing upload / download bandwidth via cellular network (data plans + speed)
+- Increasing bandwidth of communication (compression > expansion)
+- Increasing user-base of social media platforms (scale)
+- Low cost android smartphones + apps to get mass-adoption (scale)
 
-In terms of media production we can look at the metric of "time-to-publish" which changed dramatically in the last 10 or so years. It started with text, was extended with photos, now we have video and live-video broadcasts. The bandwidth capacities of data exchange and with that the possible forms of communication styles have increased exponentially.
 
-Time to create, produce and release video content
-and where we can see for example a shift from filmmakers to content creators.
+What I am observing is an increase in the speed of communication and with that a focus on the "now" and the "new", "hot topics" and "trends". And I am asking if this is really the path that "New Media" has to go, too? Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.
+There is more content created then ever before and you won't have the time to consume it or maybe further – act on it.
 
-- slow time-to-publish (TTP) for image production > digital cameras to desktop (to editing) to browser upload
-
-Here, I want to propose and make a distinction between the different modes of production and consumption:
+So what are the underlying changes? For that, we can look at different metrics which changed dramatically in the last decade.
+I want to categorize these different modes of production we have seen historically under the aspects of "time-to-produce", "time-to-create",  or "time-to-publish" in relation to the moving image.
+Through technological and procedural changes, we can see the shifts from filmmakers to video producers to content creators.
 
 
 ### Analog Film Production
-(Slow Feedback Process + Medium Scarcity) > High Risk / Limited in Distribution
-Paradigm that inhabits the standard of "you make the film three times":
-first when you shape the idea, second when film it and third when you edit it. with each step the "original idea" is shaped by the reality and the constrains of each part in the process.
+This mode has the slowest feedback process within its production, but has to be shot with a lot of experience or knowledge and carefulness or awareness. The delay between shooting the film and seeing the result of it make probably the most demanding mode of production within this categories. In addition, the medium itself is scare and expensive. This makes this endeavor potentially a high risk due to a lot of uncertainties within the long process of production.
+
+This mode inhabits the standard of "you make the film three times":
+first when you shape the idea, second when filming it and third when you are editing. With each step the "original idea" is shaped by the reality and the constrains of each part in the process.
+
+Furthermore, the distribution is limited, especially when it stays in its native production format for the audience. This includes the information asymmetry of the filmmaker who does not have a direct feedback loop or relationship to the audience. Only proxies with film critics and box offices as "success metrics".  
+
 
 ### Digital Film Production
-(Faster Feedback Process (Watch and Reshoot) + Storage Abundance) > TV Pilot for Testing (Risk Management) - Static Sequence
-Digital production extends the first paradigm and creates further iterations of the idea within the process of shooting.
+The shift to the digital production of the previous mode creates more and faster feedback loops in the creation process.
+Now the filmmaker is able to re-watch and re-shoot on the set, within the production itself. Digital storage solutions make attempts of a particular scene abundant and more playful in the way of finding the right performance in the frame.
+
+Digital extends the first mode and creates possibilities of further iterations and on-set explorations of an idea within the process of production. This can be less "scripted" or "planed" and be therefore more process-orientated and organic.
+
+The distribution model can be faster, but mostly uses the "traditional" ways of releasing the end-product through the cinema to enter the market.
+
+As a side-note: network specific film productions from **Netflix (1997)**, **Amazon (1994)**, **Apple (1976)** and others are breaking or at least disrupting this product release cycle now, as well.
 
 
-### YouTube Video Production
-(Even Faster Feedback Process (Shoot, Release, Community) + Hosting Abundance - Responsive Sequence
-In the case of videos produced directly for youtube, not just for hosting, we see that the paradigm shifts to a continuous creation mode, we are familiar with from television. But it is not a closed loop in itself, but more continuous loop that can be iterated and changed along the production of each episode.
+### Digital Web Video Production
+The mode of digital video production increases the feedback loops even further. The products are smaller, easier to produce, fast to edit and can be influenced by the software capabilities and context of their release platform. The hosting on those platforms is potentially abundant - cost-free and almost unlimited in the case of **YouTube ()**, limited and with paid-subscriptions for higher quality streams and video on-demand solutions in the case of **Vimeo ()**.
+
+But content created for Youtube specifically incentives the producers to create forms of "responsive sequences": video becomes a tool for community management because there is now the one-to-many, direct relationship or feedback mechanisms between the producer and the audience. I will go deeper into that in the chapter "what does the network want".
+
+We can see that the mode of the network-favored production becomes continuous, we are familiar with from the television. But it is not a closed loop in itself, but more of a continuous loop that can be iterated and changed along the production and feedback of each of the released episodes, based on their "performance".
 
 
-### Post / Story / Meme Production
-(Immediate Feedback Process (All-In-One: Shoot, Release, Community, Hosting)) - Hyper-Responsive Fragment
-The more conversational a piece of media becomes, the shorter it gets.
-Also the relationship between audience and producer changes because their "distance" becomes closer and closer. You don't produce for "your" audience, the producer and the audience become interchangeable for the contributions to the conversation.  
+### Digital Content Production
+Speaking of performance-based content: if you compress the complete process of production, editing and publishing into a single or very small moment, we are looking at the "Post", the "Story" and the "Meme".  
 
+I would like to call them "hyper-responsive fragments" which are mostly defined by the applications and content standards and formats of the distribution network. The production process is based on immediate feedback and "visual action".
 
-It is the atomization of content, which I will further discuss in the chapter "what does the network want?" and how the "now" increases the noise to understand..
-– the environment that has engagement as a premiss
+These "vertical production pipelines" include (in "optimal" conditions) an all-in-one solution for shooting, editing and releasing the video content as well as community management tools for interaction or referencing.
+
+The more conversational the piece of content becomes, the shorter it gets, when we are speaking of "across content communication exchanges" and not within the medium of content itself.
+
+Also the relationship between audience and producer changes because their "distance" becomes closer. You don't produce for "your" audience anymore, the producer and the audience become interchangeable for the contributions to the conversation.
