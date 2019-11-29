@@ -17,7 +17,7 @@
 ### Goldilocks Principle (1837)
 - just the right amount, best place for learning, motivation and challenge
 
-### Zuckerberg's Law (2012)
+### "Zuckerberg's Law" (2012)
 Zuckerbergs's law is the observation that the bandwidth of communication in a social network doubles about every year.
 
 ### Conway's Law (1967)

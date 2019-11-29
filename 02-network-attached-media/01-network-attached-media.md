@@ -7,5 +7,3 @@ The main distinction I would like to emphasis is between network-attached storag
 This separates the functions of sheer storage and distribution of a file to a medium that is actively shaped by the transmission and broadcasting mechanisms itself.
 
 The second state, which inherits a bidirectional relationships between network and media, I will further describe in "what does the network want". As a general hypothesis I would propose that especially Apple's mobile operating system iOS and the interplay of their software and hardware are "the new medium", media networks themselves becomes the genres (with their specific viewing habits or habits of interaction and tools of production) which then trigger network- or genre-specific iterations in form of sub-genres.
-
-And this can be seen as the counter-party to infrastructures of Network-Attached Storage as unidirectional system, where the archive or the database itself is non-invasive, meaning that the media was not influenced within the flow or form of production by any of the possible storage formats.(?!)
