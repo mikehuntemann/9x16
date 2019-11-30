@@ -9,15 +9,15 @@ As we could see in the early P2P file-sharing, the increased speed in the distri
 In terms of mobile media production within networks, it started with simple text, was extended with photos, now we have video and live-video broadcasts. The increasing capacities of mobile processing power and data transmissions and with that the possible forms and the bandwidth of communication have expanded exponentially. The same sequence and evolution was true with the desktop computer and its capabilities over time, but took much longer in comparison.
 
 
-### General Trends within the Industry
+### General Trends within the Mobile Industry
 
-- Frameworks & developer tools + unified device make it easier create apps on the iPhone + user-base tends to pay more (verticality, efficiency, usability)
+- Frameworks, developer tools and unified devices make it easier create apps on the iPhone (verticality, efficiency, usability)
 - Increasing the processing capacities of mobile devices (Moore's law)
-- Increasing image quality of mobile devices (second / third order Moore's law)
-- Increasing upload / download bandwidth via cellular network (data plans + speed)
-- Increasing bandwidth of communication (compression > expansion)
-- Increasing user-base of social media platforms (scale)
-- Low cost android smartphones + apps to get mass-adoption (scale)
+- Increasing image quality of mobile devices (second or third order consequences of Moore's law)
+- Increasing upload and download bandwidth via enhanced cellular / wireless broadband communication standards (3G, 4G and 5G)
+- Increasing bandwidth of communication formats (less compression needed, text to photo to video to live-video)
+- Increasing user-base of mobile-first social media platforms (scale of services)
+- Low cost Android smartphones and apps bring mass-adoption (scale of available devices)
 
 
 What I am observing is an increase in the speed of communication and with that a focus on the "now" and the "new", "hot topics" and "trends". And I am asking if this is really the path that "New Media" has to go, too? Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.
@@ -49,7 +49,7 @@ As a side-note: network specific film productions from **Netflix (1997)**, **Ama
 
 
 ### Digital Web Video Production
-The mode of digital video production increases the feedback loops even further. The products are smaller, easier to produce, fast to edit and can be influenced by the software capabilities and context of their release platform. The hosting on those platforms is potentially abundant - cost-free and almost unlimited in the case of **YouTube ()**, limited and with paid-subscriptions for higher quality streams and video on-demand solutions in the case of **Vimeo ()**.
+The mode of digital video production increases the feedback loops even further. The products are smaller, easier to produce, fast to edit and can be influenced by the software capabilities and context of their release platform. The hosting on those platforms is potentially abundant - cost-free and almost unlimited in the case of **YouTube (2005)**, limited and with paid-subscriptions for higher quality streams and video on-demand solutions in the case of **Vimeo (2004)**.
 
 But content created for Youtube specifically incentives the producers to create forms of "responsive sequences": video becomes a tool for community management because there is now the one-to-many, direct relationship or feedback mechanisms between the producer and the audience. I will go deeper into that in the chapter "what does the network want".
 
