@@ -15,5 +15,7 @@ And here we can see the value those companies add to the way how they manage dat
 
 Tim Burners-Lee Quote: Hyperlink Problem
 
+// ^ quote missing
+
 And this is were this whole construct breaks. The internet needs a different way to link, host and distribute the data. And this paradigm shift is what we will experience in the transition to the Web 3.0.
 But before that, where did it all come from in the first place?
