@@ -10,6 +10,10 @@ After Musically solved the [initial problem](https://web.archive.org/web/2017110
 
 A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilities, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific soundtrack. TikTok works as a Meme-Machine. And it works "better than language".
 
+> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – The Selfish Gene (1976)
+
+//                        ^ Page missing
+
 TikTok is not trying to be "meaningful", instead it is highly playful. An emotionally-driven, collective experience – on the smartphone.
 What Twitter is for expressing and iterating thoughts in 280 characters, TikTok is for expressing and iterating on performances in short, 15 second timeframes.
 
@@ -40,10 +44,10 @@ As I already mentioned, the platform focuses on the users visual "re-action" or 
 
 But TikTok's internal media reactions tool is not the only feature that makes it so referential. All assets that are used (music and filters) are transparent and available in the interface, giving each user the same possibilities and tools of creation. This can be seen as an evolution and increased capability of the instagram filters which were encoded into the image as such, hiding its references, but changed with the way how they approach "Stories", where the input or tool is also mentioned within the interface.
 
-// With this "openness", we can see "micro-creativity" at it's best. An atomized, "democratized" way of producing, bundled with a platform-specific referencing system that
+// With this "openness", we can see "micro-creativity" at it's best. An atomized, "democratized" way of producing, bundled with a platform-specific referencing system that increases reproduction.
 
 
-In my case-study, I investigated the "#karmaisabitchchallenge" that got viral within the Chinese version of TikTok in early 2018, which then got cross-platform viral and internationally known after more and more people picked it up reacted to and reported on it. I mostly focused on the different timings and chain of events of the related assets and influences within the trend.
+In my visual case-study "TikTok Takeover", I investigated the "#karmaisabitchchallenge" that got viral within the Chinese version of TikTok in early 2018, which then got cross-platform viral and internationally known after more and more people picked it up reacted to and reported on it. I mostly focused on the different timings and chain of events of the related assets and influences within the trend.
 
 To describe the format at least briefly, each video starts with a short lip-sync sequence of "Oh well, karma is a bitch!" which is reenacted by the participants. This is the "inspirational quote" of the "iconic character" Veronica Lodge of the US TV series "Riverdale". These are the necessary ingredients for the so-called "Instagram Edits". The trend is not "born" within the TikTok community but adopted and repurposed by the TikTok community. "Instagram Edits" are made by a loyal fanbase which produces and publishes their videos within [#omgpage](https://www.instagram.com/explore/tags/omgpage/).
 
@@ -53,55 +57,43 @@ Like I mentioned above, the challenges are based on a "binary state", the before
 
 
 
-- Virality: The You as Transport Layer and the Survival of the Idea itself.
-- "Original" vs "Imitation" vs "Iteration"
+Looking at the processes happening it TikTok can make you question the concept of "intellectual property" pretty fast. No-one "owns" the meme, it is the result of an organic, cultural process that creates multiple artifacts and patterns, which may only differ in popularity. The transmitted information has a live on its own. Virality in this context means: you become the temporary host and transport layer that extends the time and assures the survival of the idea itself.
 
-- formation of group identity, peer-production
+Those emerging viral happenings are a temporary form of synchronization, or so-called ["micro-singularities"](https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity). They a rhythm-based, in repetitive production processes in relation to the content creators production and viewing habits. So what is the purpose? The survival of the information itself, the idea, the pattern, and through that the network in which it appears, grows and spreads. The meme can act as the fuel and amplifier of user-generated content. Its creation is decentralized in its nature and therefore hard to control.
 
-
-
-
-
-
-
-
-Looking at the processes happening it TikTok can make you question the concept of "intellectual property" pretty fast. No-one owns the meme, it is the result of an organic, cultural process that creates multiple artifact, which may only differ in popularity. The transmitted information has a live on its own.
-
-Those emerging viral happenings are a temporary form of synchronization, or so-called ["micro-singularities"](https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity). They a rhythm-based, in repetitive production processes in relation to the content creators production and viewing habits. So what is the purpose? The survival of the information itself, the idea, the pattern, and through that the network in which it appears, grows and spreads. The meme can act as the fuel and amplifier of user generated content. Its creation is decentralized in its nature and therefore hard to control.
-
-These creations are appreciated, supported and guided by the engagement- and performance-based AI systems, which don't control the creation itself but what gets seen and what content seems to be performative enough.
+These creations are appreciated, supported and guided by the engagement- and performance-based AI systems, which don't control the creation itself but what gets seen and consequently gets replicated for content that seems to be "performative" enough.
 
 TikTok (as well as any other AI-driven social media platform) monitors and responds to the unfolding creations, mutations and interactions, managing the ["content lifecycle"](https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/). Interestingly, this also implies the cycling, repetitive nature of patterns within the content.
 
-AI system can sense what resonates the most with our limbic system. We do it unconsciously, without being able to describe why it "kicks" us. The meme itself also has a “psychological appeal”. This is now the fundamental problem of "information asymmetry", were technology becomes "more conscious" of behavior patterns than the users within the system.
-
+AI system can sense what resonates the most with our limbic system. We do it unconsciously, without being able to describe why it "kicks" us. Bundled with the functions of the meme, which also has a “psychological appeal” to us. This is probably now the fundamental problem of "information asymmetry", were technology becomes "more conscious" of behavior patterns than the users within the system.
 
 > "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – The Evolving Self (1993), Mihaly Csikszentmihalyi, Memes vs Genes, p. 126
 
-Memes need "a fertile medium of growth" but also symbiotic relationship with the host, which is a necessary in the beginning, otherwise we would not integrate them. This relates for "mimetic media" itself but also for technology and knowledge creation in general.
+Memes need "a fertile medium of growth" but also symbiotic relationship with the host, which is a necessary in the beginning, otherwise we would not integrate them. This relates for "mimetic media" itself but also for technology and knowledge creation in general. Both sides need to have an aligned goal or "transactional" relationship, a win-win situation.
 
 With this organic replication, we see a loss of centralized "artistic control". Production becomes decentralized and therefore unpredictable.
-The produced content for brands and their marketing strategy were previously managed by the art director. But now, marketing wants to be  organic, meme-based, user-generated, viral.
+The produced content for brands and their marketing strategy were previously managed by the art director. But now, what appears more and more is that marketing wants to be organic, meme-based, user-generated, viral. This can be seen as an iteration of the very effective word-of-mouth advertising from the people you trust in you social circles.
 
 Nevertheless, this network will and inevitably has to integrate advertising and initiate "commercialized challenges" or other forms of "paid or enforced virality" because this service is also stuck in the ad-business model paradigm.
 
-> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – The Selfish Gene (1976)
+In the end, I want to focus on the technologies that come together in this analysis of this mobile-first meme-based platform.
+In general personal habit and the enhanced user experience of the devices aim to the same thing: reduce the cognitive load to a minimum to operate. In the constellation how TikTok implements their network specific functions, the challenges and the resulting memes also need as little thought as possible to be able to at least imitate the content. This makes it accessible to the masses.  
 
-habit + UX > as little thought as possible to be able to imitate  
+So what are all the ingredients at play? For this I sketched out an equation to be able to frame TikTok as ultimate tool for "vertical media" and my conclusion that this is the "end-game":
 
+**Vertical Media = (Mobile Device + Video + UI/UX) x Scale of Network x AI**  
+or more specifically:  
+**Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification**
 
-tiktok as ultimate vertical media and therefore the "end-game":
-"(Mobile Device + Video + UI/UX) x Scale of Network x AI = Vertical Media"  
-
-"(Always On + Image Flow + Interaction Flow) x Reach x Amplification (or Modulation) = Flow as Lock-in Mechanism or "Prison for the Mind"
-
-this is the parasite, sadly. when seamlessness strikes back.
-
-These "mirco-viralities" are the heartbeat of the media network, they keep each other alive.
+And with these flows of constantly appearing "mirco-viralities", these rhythms and impulses for creation become the heartbeat of the network and they keep each other alive.
 
 so what does this all mean for "new media"?
 > “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.” - The Selfish Gene (1976)
 
+//                        ^ Page missing
+
 if we can look what might remain valuable in the future, we can escape the "nowness" of these platforms and aim for a bigger purpose or goal.
 
 > "“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
+
+//                        ^ Quote missing
