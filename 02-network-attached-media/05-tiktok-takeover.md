@@ -7,9 +7,7 @@ After Musically solved the [initial problem](https://web.archive.org/web/2017110
 
 A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilities, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific soundtrack. TikTok works as a Meme-Machine. And it works "better than language".
 
-> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – The Selfish Gene (1976)
-
-//                        ^ Page missing
+> “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – Richard Dawkins, The Selfish Gene (1976), Memes: the new replicators, p. 200
 
 TikTok is not trying to be "meaningful", instead it is highly playful. An emotionally-driven, collective experience – on the smartphone.
 What Twitter is for expressing and iterating thoughts in 280 characters, TikTok is for expressing and iterating on performances in short, 15 second timeframes.
@@ -41,7 +39,6 @@ As I already mentioned, the platform focuses on the users visual "re-action" or 
 
 But TikTok's internal media reactions tool is not the only feature that makes it so referential. All assets that are used (music and filters) are transparent and available in the interface, giving each user the same possibilities and tools of creation. This can be seen as an evolution and increased capability of the instagram filters which were encoded into the image as such, hiding its references, but changed with the way how they approach "Stories", where the input or tool is also mentioned within the interface.
 
-// With this "openness", we can see "micro-creativity" at it's best. An atomized, "democratized" way of producing, bundled with a platform-specific referencing system that increases reproduction.
 
 ![TikTok Takeover](/Users/xr/Documents/VERTICAL/Vertical-One/assets/tiktok-takeover.png)
 
@@ -54,8 +51,6 @@ What we can see within that community is that they primarily build their videos 
 
 Like I mentioned above, the challenges are based on a "binary state", the before and after. In this case the moment of surprise is in the "transformational shot", when the participants are first dressed "casually" or "ordinary" but then transform or reveal themselves in a "stylish", "glamorous", "cool" or "exotic" way by using an editing technique of cutting between the throw of a towel and a slow-motion effect.
 
-
-
 Looking at the processes happening it TikTok can make you question the concept of "intellectual property" pretty fast. No-one "owns" the meme, it is the result of an organic, cultural process that creates multiple artifacts and patterns, which may only differ in popularity. The transmitted information has a live on its own. Virality in this context means: you become the temporary host and transport layer that extends the time and assures the survival of the idea itself.
 
 Those emerging viral happenings are a temporary form of synchronization, or so-called ["micro-singularities"](https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity). They a rhythm-based, in repetitive production processes in relation to the content creators production and viewing habits. So what is the purpose? The survival of the information itself, the idea, the pattern, and through that the network in which it appears, grows and spreads. The meme can act as the fuel and amplifier of user-generated content. Its creation is decentralized in its nature and therefore hard to control.
@@ -66,7 +61,7 @@ TikTok (as well as any other AI-driven social media platform) monitors and respo
 
 AI system can sense what resonates the most with our limbic system. We do it unconsciously, without being able to describe why it "kicks" us. Bundled with the functions of the meme, which also has a “psychological appeal” to us. This is probably now the fundamental problem of "information asymmetry", were technology becomes "more conscious" of behavior patterns than the users within the system.
 
-> "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – The Evolving Self (1993), Mihaly Csikszentmihalyi, Memes vs Genes, p. 126
+> "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – Mihaly Csikszentmihalyi, The Evolving Self (1993), Memes vs Genes, p. 126
 
 Memes need "a fertile medium of growth" but also symbiotic relationship with the host, which is a necessary in the beginning, otherwise we would not integrate them. This relates for "mimetic media" itself but also for technology and knowledge creation in general. Both sides need to have an aligned goal or "transactional" relationship, a win-win situation.
 
@@ -88,17 +83,6 @@ or more specifically:
 > **Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification**
 
 
-And with these flows of constantly appearing "mirco-viralities", these rhythms and impulses for creation become the heartbeat of the network and they keep each other alive.
-
-so what does this all mean for "new media"?
-> “The point I am making now is that, even if we look on the dark side and assume that individual man is fundamentally selfish, our conscious foresight—our capacity to simulate the future in imagination—could save us from the worst selfish excesses of the blind replicators.” - The Selfish Gene (1976)
-
-//                        ^ Page missing
-
-if we can look what might remain valuable in the future, we can escape the "nowness" of these platforms and aim for a bigger purpose or goal.
-
-> "“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
-
-//                        ^ Quote missing
+And with these flows of constantly appearing and repeating "mirco-viralities", these rhythms and trigger for creation become the heartbeat of the network and they keep each other alive.
 
 \newpage

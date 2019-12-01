@@ -1,6 +1,6 @@
 ## Patterns and Shifts in Tech
 
-The bootstrapping list could go on forever, but it should be enough to see some of the the evolutionary patterns. We can further generalize the greater shifts within the platformization in the era of the **Web 2.0**:
+The bootstrapping list could go on forever, but it should be enough to see some of the the evolutionary patterns. We can further generalize the shifts within the platformization in the era of the **Web 2.0**:
 
 **2004 - 2006**  
 - Social / Scale / Storage  

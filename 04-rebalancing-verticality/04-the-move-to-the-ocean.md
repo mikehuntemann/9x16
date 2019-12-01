@@ -6,13 +6,15 @@ With the new technologies in mind, back to "Video is Software" and the problems 
 
 I experienced a lot of copying throughout the process. From the web, to "Notes", to "Notion", to post-its, to cards, to "After Effects", to "InDesign", to "Premiere" and to this document here. And once the notes or quotes were in there, I have to keep track of changes within each text element, document and project file. And this is insane!
 
-// My notes are not compatible with the tools and the tools are not compatible with the notes and the internet.
+> My notes are not compatible with the tools and the tools are not compatible with the notes and the internet.
 
 But maybe it is now a good time to ask: How does web-archiving work currently? And interestingly, it functions very similar to the processes how IPFS works. If [archive.org](https://archive.org/) for example crawls the web for new versions a website, they don't compare the words. They use the hashing algorithm for example for the whole site and within that for example each paragraph to check if the hash is consistent with the last saved version in their archive. This way they don't need to compute the specific content but only "sensing" the differences and where they appear. If that is the case, a new version of the website exist and the archive can be updated.
 
 So now both sides seem to match up: if web-archiving works this way and new content creation and identification in IPFS works this way, doesn't that mean that if we change our approach just a little bit, we will end up constructing files that are already meant to be archivable and uniquely referential in the first place? Now everything starts to flow.
 
 Back to my first Twitter prototype in April 2018 and what this experiment might mean now. As I described earlier, I deconstructed and with that "archived" interesting parts of bigger articles within the available browser interface. But in the end, it is a comparable approach to the methods web-archiving would use: One Tweet contained one snippet of information that would be now extendable to add further notes via the reply or comment function as well as addressable because the Tweet has now been indexed, and not hashed, with its own "content address" with Twitter as the "content manager" and "address book" because the service is location-based and not content-based addressing.
+
+![Content Deconstruction with Twitter Interface](/Users/xr/Documents/VERTICAL/Vertical-One/assets/twitter-blocks.png)
 
 If I now look at Twitter's core functions of micro-blogging, tweet-threading and its network-specific referencing system we can iterate upon that concept and generalize it:
 Micro-blogging then becomes "mirco-blocking", independent blocks that you can arrange in sequences, but are specifically general purpose and not application or network dependent, only on the protocol level.

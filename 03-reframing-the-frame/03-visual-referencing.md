@@ -18,29 +18,31 @@ If would have to say how the two works differ the most, I would say that "Apple 
 
 
 ### Case-Study: "TikTok Takeover"
-// Write about the process and experiences of working with the "actual" material, and screen-recordings
 So I started to analyze the methods and approached within that genre and how much visual references are "necessary" for each source.
-self-recording, descriptive research, reconstructing the approach by explaining it out loud.
-// Link to Self-recorded ["proper framing"](bit.ly > youtube.com) and ["analyzing transformers the premake"](bit.ly > youtube.com)
-// replaceable links > containers
+
+I did some parts of self-recording, as a form of descriptive research, trying to deconstructing the approaches by explaining it out loud.
+I also recreated and imitated some of the techniques in my early research of desktop documentaries and used it for a prototype and a presentation format for my early approaches within this topic.
 
 ![Recordings of Descriptive Research](/Users/xr/Documents/VERTICAL/Vertical-One/assets/self-recording-1.png)
 
-
 In addition to that, I looked into the works of Forensic Architecture, which is in terms of its visuality the biggest influence for my case-study. One could say that it is less "artistic", more evidence-based research with crowdsourced media content, with a strong focus on the evidence itself, combined with other approaches of graphs concerning timing and relationships of the different sources.
+
 For my case-study, I have chosen not to use the visual references of the desktop operating system it was build in, because now i also have to switch between mobile operating systems and the browser and it is not the context the "story" takes place. But also in terms of "controllability" of timing and transitions for the montage.
 So I developed this case-study completely in After Effects, re-building multiple compositions to one big collection of material that propagated throughout different networks in a specific sequence of events (as far as it possible to identify and recreate "the history").
 
 But I have to emphasize that this research and its development didn't happen in After Effects at first. The process was as follows:
-Due to the uncertainty and lack of knowledge in the beginning, you don't start your research in the "right order". This goes back to the approach of atomization and fragmentation of content itself. I have a linear document to begin with, which gets – over time – non-linear in terms of added content (in form of links and notes). There already happens some level of structuring and sense-making simply by the place and time the new piece of information gets added. After I have done some of the initial research, I went back to my card system which I created by converting my timeline (of the previous case-study of interface iterations throughout time) to a graph by adding multiple references and influences by connecting them.
+Due to the uncertainty and lack of knowledge in the beginning, you don't start your research in the "right order". This goes back to the approach of atomization and fragmentation of content itself. I have a linear document to begin with, which gets – over time – non-linear in terms of added content (in form of links and notes). There already happens some level of structuring and sense-making simply by the place and time the new piece of information gets added.
+
+After I have done some of the initial research, I went back to my card system which I created by converting my timeline (of the previous case-study of interface iterations throughout time) to a graph by adding multiple references and influences by connecting them.
+
+
+![Research Process of Sources](/Users/xr/Documents/VERTICAL/Vertical-One/assets/tiktok-notes.png)
+
 
 ![Card System for Asset Collection](/Users/xr/Documents/VERTICAL/Vertical-One/assets/tiktok-takeover-cards.png)
 
 
-
-
-
-The card system for "TikTok Takeover" worked for me as a pre-visualization, a proxy for the available assets, which I would extend and rearrange while I was still researching. It is an "agile storyboard". But this exactly is the problem of After Effects or any other video editing software right now: it is a legacy tool for "traditional" video production. It does not anticipate multiple sources on a bigger "workspace", it forces you to "look through the virtual camera", defined by your initial, fixed project settings.
+The card system for "TikTok Takeover" worked for me as a "pre-visualization", a proxy for the available assets, which I would extend and rearrange while I was still researching. It is an "agile storyboard". But this exactly is the problem of After Effects or any other video editing software right now: it is a legacy tool for "traditional" video production. It does not anticipate multiple sources on a bigger "workspace", it forces you to "look through the virtual camera", defined by your initial, fixed project settings.
 It also does not anticipate the internet, exclusively in their export presets for media platforms. But their premise is, that the content you edit "lives" on your computer and that you probably "own" it.
 
 I don't "own" any of the content I used in the last 4 years. And at that point it became obvious to me. The "video tool" that I would use for this case-study is not sufficient for my approach, because in the end, all references would be gone, only when they are visually encoded into the video itself, but not "machine-readable", interactive and accessible as they would be on the internet. And there I realized that "copying" or downloading was not going to be the solution, especially in combination with a "final export"! And only then – less than two weeks before the "deadline" of this document – I could really grasp, what was happing to all of my previous projects which used user-generated content.    

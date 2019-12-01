@@ -1,8 +1,8 @@
 ## Image Production Cycles, Time Compression and Feedback Systems
 
 > “The most basic decision-making skill is adapting to the tempo of your environment, and setting your own pace within it. It is significantly harder to become a pace-setter or pace-disruptor: somebody who can actually influence the tempo of the environment.”
-– Venkatesh Rao (Tempo)
-//                    ^ Page Number missing
+– Venkatesh Rao (Tempo, A Sense of Timing)
+
 
 As we could see in the early P2P file-sharing, the increased speed in the distribution process itself influences the production of music through faster feedback loops between production and publishing. But this is of course not only true for music, but ultimately any form of communication via the internet.
 

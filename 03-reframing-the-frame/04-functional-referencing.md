@@ -6,12 +6,12 @@ In this chapter I want to layout the problems of current functional referencing 
 To not realize this fact is probably the single biggest misconception we have in "new media" today, focussing more on what happens inside the the frame, on the final rendered content itself, but not how the software actually shapes it. And I think that Lev Manovich identifies this problem very well and this is the point I was trying to make in "filesharing approaches" and "what the network wants": content on the platform is not merely hosted, it is actively shaped and formed specifically for and by the software for each platform.
 
 > "Because all the new qualities of “digital media” are not situated “inside” the media objects. Rather, they all exist “outside” — as commands and techniques of media viewers, authoring software, animation, compositing, and editing software, game engine software, wiki software, and all other software 'species.'"
-– Lev Manovich (Software Takes Command (2013), p. 149)
+– Lev Manovich, Software Takes Command (2013), p. 149
 
 The “rendered” image hides its software influences, obfuscates its creation process and is therefore still seen as a “separate“ medium.
 
 > "There is no such thing as “digital media.” There is only software — as applied to media (or “content”). Or, to put this differently: for users who only interact with media content through application software, the “properties” of digital media are defined by the particular software as opposed to solely being contained in the actual content (i.e., inside digital files)."
-– Lev Manovich (Software Takes Command (2013), p. 152)
+– Lev Manovich, Software Takes Command (2013), p. 152
 
 
 Throughout my case-study of mobile platform research (in the network attached media chapter) I could see very clear how much the video content is dependent on the software environment. But I took my video editing software for granted and couldn't make the switch to see the same pattern there. But I was already there, four years ago, when I started this whole journey.
@@ -25,7 +25,7 @@ And I would only realize it again when I build my first content-specific knowled
 And it is important to understand that this "computability" not a video-specific property:
 
 > "Visualization, searchability, findability — these and many other new “media-independent techniques” (i.e. concepts implemented to work across many data types)" clearly stand out in the map of the computer metamedium we have drawn because they go against our habitual understanding of media as plural (i.e. as consisting of a number of separate mediums). If we can use the same techniques across different media types, what happens to these distinctions between mediums?
-– Lev Manovich (Software Takes Command (2013), p. 119)
+– Lev Manovich, Software Takes Command (2013), p. 119
 
 When I look back to my approach to understand the methods of visual referencing, it looks primitive compared to the possibilities of software and enough computing power.
 

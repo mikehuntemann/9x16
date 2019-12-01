@@ -29,7 +29,7 @@ But now it is time to leave behind the ill branch and start a new branch with a 
 From there, we can rebuild, architect, compose, create new constructs and then we design within that new framework.
 
 And this practice I see as the only real solution to keep up with the exponential pace of technology in general:
-Reduce your "machine distance", stop being just an end-user.
+Reduce your "machine distance" – stop being just an end-user.
 Or as [Naval Ravikant pointed out](https://youtu.be/kvGFldxwjhY?t=135): become digital literate and know how to be good with computers.
 
 Share your sources and references, templates and approaches.

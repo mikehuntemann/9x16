@@ -14,9 +14,5 @@ When we look at any of the previously mentioned mobile-first networks, we see a 
 
 And here we can see the value those companies add to the way how they manage data at scale. The databases in itself are "knowledge-graphs" and therefore consist of fragmented but specifically standardized and pre-structured, multi-directional data points, while the rest of the web has to rely on links that are only one-directional – pointing to the location of where the content might live.
 
-Tim Burners-Lee Quote: Hyperlink Problem
-
-// ^ quote missing
-
-And this is were this whole construct breaks. The internet needs a different way to link, host and distribute the data. And this paradigm shift is what we will experience in the transition to the Web 3.0: splitting the hosting from the services in combination with default encryption on this base-layer.
+**And this is were this whole construct breaks. The internet needs a different way to link, host and distribute the data.** And this paradigm shift is what we will experience in the transition to the Web 3.0: splitting the hosting from the services in combination with default encryption on this base-layer.
 But before that, where did this architecture come from in the first place?

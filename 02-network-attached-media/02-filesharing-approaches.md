@@ -74,9 +74,9 @@ Apple's vertical integration process started with the acquisition of **SoundJam 
 This strategic move led to the separation of the file's location in the file system and the application interface, which acts now as a medium specific file organization tool that was not provided by their general purpose file-explorer Finder. With this application, the user had to conform to this closed system, their structural implications and limited customization or personalization because it is all handled by the software to make the process of file management nearly "invisible", "easy to use" and convenient.
 
 > "So what are we gonna focus on next? Audio. There is a music revolution happening right now. That music revolution is digital music on computers. So for those of you who are not participating in this, let me describe it to you: you want to rip your audio CDs on your computer disk. (...) The format of choice is MP3, it is a very dense format, very high quality and it's open. And then it allows you to create playlists from your favorite songs (...) rearrange the order and listen to them in any order i want. The music compiled the way I want and not the way some record company wants."
-– Steve Jobs, Macworld SF 2001
+– [Steve Jobs, Macworld SF 2001](https://www.youtube.com/watch?v=pICctkS12fY)
 
-Apple is bootstrapping from the personal music libraries ripped from CDs or downloaded from P2P file-sharing. They are themselves riding the waves of technological disruption and align the company towards new potential use-cases that only Apple as a vertical integrated company is capable of.
+Apple is bootstrapping from the personal music libraries ripped from CDs or downloaded from P2P file-sharing. They are themselves riding the waves of technological disruption and align the company towards new potential use-cases that only Apple as a vertical integrated company is capable of. Jobs explains further:
 
 > "The Mac can become the "digital hub" of our emerging digital lifestyle, adding tremendous value to our other digital devices. (...)
 We realized that Apple is uniquely suited to do this because we are the last company in this business that has all these components [Hardware, Operating System, Application, Internet, Marketing] under one roof."  
@@ -99,10 +99,6 @@ Summary of changes:
 - to media distribution as a service
 - to general purpose handheld hardware
 - to media and application distribution as a service
-
-
-
-// And as a little side-note I would like to mention that the mobile devices are not self-sustaining (for now), but their initial syncing bridge could be dropped due to over-the-air updates which don't require a computer for registration, initialization or syncing anymore. This is all now handled by the iCloud.
 
 
 ### Wave Three: Streaming Services & Demonetization

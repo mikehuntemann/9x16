@@ -85,7 +85,7 @@ This was also overwhelming in itself, so I read "The Craft of Research" (19.09.2
 
 > I am studying the methods and processes of data collection and management because I want to find out if there are basic underlying principles in order to help other researchers to handle digital complexity with a set of tools.
 
-This was somehow my mission statement, but quickly came back to some of my initial thoughts and questions:
+This was somehow my "mission statement", but quickly came back to some of my initial thoughts and questions:
 
 > What if there were no documents anymore, just fragments?
 How would research work when behaving more like email for quick incoming chunks? Rearranging, evolving.
@@ -112,7 +112,7 @@ In this way, I documented everything in "little blocks" of assets in form of kno
 Then I found the [Notion](https://www.notion.so/) app in April 2019, which was great and "block-based". So I converted all my notes into the applications database, were I would now be able to create structured databases for different kinds of topics. It is a pretty neat management tool, but I didn't really stick over the complete process of writing, "Notes" was always faster and leaner, more focused, easier to dump thoughts into it.
 But "Notion" would stay as a management tool for catalogs of digital and analog resources and as a directory where I took the notes to each source. In addition to that, the "block system" is not interoperable with my "filesystem tools" because "Notion" works as a cloud platform and internalizes its own application specific file management. But that is also the reason, why it is for "normal use-cases" good enough.
 
-![Timeline Segments for Timing and Context](/Users/xr/Documents/VERTICAL/Vertical-One/assets/notion-timeline.png)
+![Block Editor and Timeline Segments for Timing and Context](/Users/xr/Documents/VERTICAL/Vertical-One/assets/notion-app.png)
 
 But besides all of that, there was another problem: I couldn't reference the visuals, not with Notion and especially not with my post-its.
 
