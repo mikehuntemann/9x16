@@ -2,7 +2,7 @@
 
 What can we replace on the bottom of the infrastructure to change the whole stack on top? And the following tool might be one of the possible solutions to the "current mess":
 
-**IPFS (2015)** or the "Interplanetary Filesystem" is a peer-to-peer, decentralized network and protocol for storing and sharing data in a distributed file system.
+**IPFS (2015)** or the ["Interplanetary Filesystem"](https://web.archive.org/web/20191127095214/https://ipfs.io/) is a peer-to-peer, decentralized network and protocol for storing and sharing data in a distributed file system.
 
 IPFS turns the predominant model of millions of clients connected to a single entity with giant content distribution and redundancy server structure to a model of equally participating nodes within the same network.
 
@@ -37,4 +37,4 @@ But what can happen is "deducing": Let's say you make a copy of the file and app
 > “Imagine, if I store this article on IPFS, and it’s each letter in chunked and has a unique CID, then this whole article can be constructed by just a combination of alphabets(capital and small), number and some special characters. We will only store every alphabet, number, and character only ONCE and rearrange it according to the Links in the data structure. This is powerful stuff…” – [Vaibhav Saini](https://web.archive.org/web/20190816194557/https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a)
 
 This is the real atomization and fragmentation I am talking about which almost sounds like the [Library of Babel](https://web.archive.org/web/20190826061822/https://en.m.wikipedia.org/wiki/The_Library_of_Babel).
-Ultimately, this is the "Move to the Ocean".  
+But ultimately, this is the "Move to the Ocean".  

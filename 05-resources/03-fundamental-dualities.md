@@ -18,3 +18,5 @@ The pendulum always swings.
 - convergence vs divergence
 - state vs market
 - short-term vs long-term
+
+\newpage

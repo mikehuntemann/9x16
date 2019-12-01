@@ -1,21 +1,14 @@
 ## Doing "9x16"
-// Doing “9x16”: reflections over the process. What am I actually doing? // How to research!
-// New chapter: Rethinking practices + the archive + Timelessness of “new media” work
-// Move to the Ocean Manifesto?
-// Reconfiguration & Detachment!
-// everything is a remix, you meme and sample, what is really original?
-// the whole vs the sum of parts -> also skimming, fragmentation
-// Frame as Canvas -> collected material
 
 If I had to put the whole process of "9x16" and the previous "Move to the Ocean" into one question, it would probably be something like this:
 How to do research in a dynamic, fast pace, complex, limitless, "multi-media" environment?
-And this under the premiss of and anticipation with:
+And this under the premiss of and in anticipation with:
 If you can not predict the future and don't know what you are going to learn, how can my process be open to any kind of output or "product"?
 
 > "Good architectures allow major architectural decisions to be deferred. The job of an architect is not to make decisions, (...) it is to defer decision as long as possible to allow the program to be build in the absence of decisions, so that the decisions can be made later, with the most possible information." – [Uncle Bob Martin ("The Principles of Clean Architecture")](https://youtu.be/o_TH-Y78tt4?t=3993)
 
 "9x16" is about the "know-how", explored in a mostly undirected research.
-This work itself is a process, a series of experiments or case-studies, an expedition and a search for our current technological context and its history.
+This work itself is a process, a series of experiments and case-studies, an expedition and a search for our current technological context and its histories.
 It is a documentation and reflection of my personal experience how I work with – and sometime against – the Internet, social networks and platforms.
 
 
@@ -50,7 +43,7 @@ exchange formats,
 reference systems,  
 the hosting problem.
 
-
+\newpage
 
 
 ### Init / Derivée / Log
@@ -62,14 +55,13 @@ When I first tried to define my project under code name "Move to the Ocean" I wr
 > Thesis in fragments  
 File format structuring  
 Browser / application, online / offline usage  
-„I can’t read whole texts anymore“
+„I can’t read whole texts anymore“  
 Why are you writing texts then?  
 Bias towards linear / storytelling  
 Referencing vs creating  
 Lightness of being: curating, thought process, dynamic vs linear  
 Video grid, video referencing network  
 Science as referencing network on the meta level  
-
 
 How to „write“ documents? How to „document“ the process? How to archive what happens in the browser or apps? How to create a "database" or network of (personal) knowledge? How to manage the "evidence"?
 

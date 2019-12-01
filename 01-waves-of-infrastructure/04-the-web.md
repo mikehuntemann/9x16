@@ -1,4 +1,4 @@
-## The Web (Waves)
+## The Web
 The user-facing web, with graphical interfaces in the browser, was the kickstarter for the mass adoption of the internet we know today.   
 Easy to execute, point-to-click gestures with the mouse allowed users to "just use" the services on the web, without learning more about the underlying technologies. They were literally only surfing on the surface.
 

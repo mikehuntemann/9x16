@@ -3,7 +3,7 @@
 > “Signals that are not repeated or repeatable 'die'.”
 – Wendy Chun (Updating the Remain the Same: Habitual New Media) p. 52
 
-In the end, I want to ask: How do we get the notion of “timelessness” into our practice? When in the past New Media always died first, what do we have to change or focus on in order to persist time or to (partially) remain?
+In the end, I want to ask: How do we get the notion of “timelessness” into our practice? When in the past new media always died first, what do we have to change or focus on in order to persist time or to (partially) remain?
 
 And the key to that is fragmentation, atomization. To make it useful and reusable, referential for your peers and your future self, by default.
 
@@ -33,4 +33,6 @@ Reduce your "machine distance", stop being just an end-user.
 Or as [Naval Ravikant pointed out](https://youtu.be/kvGFldxwjhY?t=135): become digital literate and know how to be good with computers.
 
 Share your sources and references, templates and approaches.
-Ultimately, to never do the same thing twice and keep on learning.
+Ultimately, to never do the same thing twice and keep on learning and exploring.
+
+\newpage

@@ -1,6 +1,4 @@
-### Functional Referencing
-// Archiving, Time-Stamping, Hashing, Referencing, Building Recipes..
-
+## Functional Referencing
 In this chapter I want to layout the problems of current functional referencing and how media archeology or internet-based research has to deal with it. But first of all, we have to make one important realization:
 
 **Video is software.**

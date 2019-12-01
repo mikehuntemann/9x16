@@ -1,8 +1,5 @@
-// Write it for you! What do you want to solidify?
-
 ## TikTok Takeover
 
-#### Origins and current state
 TikTok is a weird creature. Before being merged together, **TikTok (2017)** was a 1:1 clone of **Musically (2014)** which was meant to perform and record lip-sync videos within the mobile device. It integrated music samples from their service which no other app was capable of at that time. The app took off with the "#dontjudgechallenge" which appeared 2015 as a reaction to the YouTube video ["You look disgusting"](https://www.youtube.com/watch?v=WWTRwj9t-vU) by "My Pale Skin", which then became viral on several social media sites. The three most used apps for this "challenge" were **Vine (2013)**, Flipagram and Musically itself. Vine could only solve the "mobile-only" image editing while only having  recorded audio from the phones microphone. Flipagram let you compose videos to the music library you had on your phone and Musically provided their music library to the user-base to which you could perform, making the selection of songs more available and frictionless.
 Interestingly, the cross-platform challenge didn't had a "unified soundtrack", only the way the videos were timed and performed matched up.
 
@@ -19,7 +16,7 @@ What Twitter is for expressing and iterating thoughts in 280 characters, TikTok 
 
 With over [1.5B downloads](https://web.archive.org/web/20191116161829/https://www.cnet.com/news/tiktok-hits-1-5-billion-downloads-report-says/) today, TikTok reaches an international audience, mobilizing masses to contribute to ongoing challenges. In terms of the performance-based characteristics, TikTok seems as the "end-game" to what is the most engaging, most entertaining and easiest to (re-)produce app on the market today.
 
-#### Content Creation
+### Content Creation
 An interesting shift can be seen within the app. Compared to Facebook and Instagram, were all the content is highly identity- or brand-based, TikTok makes the challenges itself to the epicenter. It is an event, a happening, trying to get you active and participate. (In this sense, it is maybe more related to Twitter than anything else.) With that, each of the content creators become the transport layer of an idea, which seem to create either a copy of existing patterns, an iteration upon existing content or a pattern breaking "anti-genre", which resists to conform and tries to disrupt the users expectation or "micro viewing habit" (for each challenge or "branch" of challenges).
 
 This little moment of a surprising element plays with the expectations of previously seen footage within the challenge. This type of media creates the incentive for creating even funnier versions and alterations.
@@ -39,7 +36,7 @@ The underlying music supports this "plot twisting" even by their initial structu
 - plot-twisting (binary states) directed by "drop"
 - more complex sequences directed by rhythm
 
-#### Referencing System
+### Referencing System
 As I already mentioned, the platform focuses on the users visual "re-action" or "react-ability", implementing features to easily react to other content in split-screen square format, or when performed in groups as a staircase formation of ever smaller 9x16 content. These formats become "chain reactions" of asynchronous-produced group performances to the same source.
 
 But TikTok's internal media reactions tool is not the only feature that makes it so referential. All assets that are used (music and filters) are transparent and available in the interface, giving each user the same possibilities and tools of creation. This can be seen as an evolution and increased capability of the instagram filters which were encoded into the image as such, hiding its references, but changed with the way how they approach "Stories", where the input or tool is also mentioned within the interface.
@@ -81,9 +78,11 @@ In general personal habit and the enhanced user experience of the devices aim to
 
 So what are all the ingredients at play? For this I sketched out an equation to be able to frame TikTok as ultimate tool for "vertical media" and my conclusion that this is the "end-game":
 
-**Vertical Media = (Mobile Device + Video + UI/UX) x Scale of Network x AI**  
+```
+Vertical Media = (Mobile Device + Video + UI/UX) x Scale of Network x AI**  
 or more specifically:  
-**Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification**
+**Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification
+```
 
 And with these flows of constantly appearing "mirco-viralities", these rhythms and impulses for creation become the heartbeat of the network and they keep each other alive.
 
@@ -97,3 +96,5 @@ if we can look what might remain valuable in the future, we can escape the "nown
 > "“We are built as gene machines and cultured as meme machines, but we have the power to turn against our creators. We, alone on earth, can rebel against the tyranny of the selfish replicators.”
 
 //                        ^ Quote missing
+
+\newpage

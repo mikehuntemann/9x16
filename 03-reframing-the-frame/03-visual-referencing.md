@@ -1,4 +1,4 @@
-### Desktop Documentaries and "Visual Referencing"
+## Desktop Documentaries and "Visual Referencing"
 
 Desktop Documentaries can be described as a collection of media content which are performed in the software environment. In this case, the environment is Apple's desktop operating system "macOS".
 

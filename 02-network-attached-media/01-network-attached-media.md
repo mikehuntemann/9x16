@@ -1,4 +1,5 @@
-# Network-Attached Media
+Network-Attached Media
+======================
 
 This chapter will focus on the histories of products and platforms, sharing mechanisms and centralization of access.
 I will propose perspectives to understand the current context of media production and consumption, and what driving forces are at play.

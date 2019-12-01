@@ -46,5 +46,3 @@ Researcher > Developer > Administrator > Power-User > End-User
 
 ### Flow Optimization
 - workflow, optimal experience, continuity, circulation, throughput, bandwidth, density
-
-### Interplanetary Filesystem (IPFS)
