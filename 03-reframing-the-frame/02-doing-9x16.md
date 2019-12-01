@@ -11,8 +11,9 @@ If you can not predict the future and don't know what you are going to learn, ho
 This work itself is a process, a series of experiments and case-studies, an expedition and a search for our current technological context and its histories.
 It is a documentation and reflection of my personal experience how I work with – and sometime against – the Internet, social networks and platforms.
 
+\newpage
 
-### Messy Process, Well Documented (Outline)
+### Messy Process, Well Documented
 
 Cambridge Analytica,  
 Facebook,  
@@ -98,19 +99,27 @@ Basically, all my notes were now made in the default "Notes" app, just for conve
 
 The new semester introduced me to the works of Kevin B. Lee, his video essays and visual approaches how to analyze and dissect visual content within video formats. I loved his work, but in hindsight it gave me the notion, that "my solution" should not be "text-based" because I am a "visual" researcher, studying "visual" communications. That is probably the biggest misconception throughout my studies, and gave me always misleading signals what my "job" as a student within the new media department should be. But more to that also later!
 
-This input reminded me of how I used an automated browser for a performance in my ["#AlgorithmicWarfare"](bit.ly > https://vimeo.com/259128711) (2017) project and I looked for possibilities, how to build a multi-window browser performance, to write "recipes" for an automated internet content collage.
+This input reminded me of how I used an automated browser for a performance in my ["#AlgorithmicWarfare"](https://web.archive.org/web/20181021224250/https://newmediakassel.com/mike-huntemann-algorithmic-warfare) (2017) project and I looked for possibilities, how to build a multi-window browser performance, to write "recipes" for an automated internet content collage.
 In my research, I found some of the early Google Chrome experiments, that would demonstrate, how "film-making" in browser tabs could look like and how capable browser technology is with HTML5. The project is called ["The Wilderness Downtown"](https://web.archive.org/web/20100914191200/www.chromeexperiments.com/arcadefire) (2010). But my context specific problem with that was, that I would have to use content on mobile platforms, that could not be represented in the browser windows, so I dropped the idea.  
 
 Strangely, or maybe out of pure necessity, I then got partly analog in March 2019. Writing and referencing interesting snippets of information and quotes from books, creating an overview of what I could permanently look at.
 
 In this way, I documented everything in "little blocks" of assets in form of knowledge and references on post-its. The interfaces of the applications were just not good enough for this messy, personal, organic process with a lot of fragmented information!
 
+![Gathering Material in "Building Blocks"](/Users/xr/Documents/VERTICAL/Vertical-One/assets/postit-wall.png)
+
+
 Then I found the [Notion](https://www.notion.so/) app in April 2019, which was great and "block-based". So I converted all my notes into the applications database, were I would now be able to create structured databases for different kinds of topics. It is a pretty neat management tool, but I didn't really stick over the complete process of writing, "Notes" was always faster and leaner, more focused, easier to dump thoughts into it.
 But "Notion" would stay as a management tool for catalogs of digital and analog resources and as a directory where I took the notes to each source. In addition to that, the "block system" is not interoperable with my "filesystem tools" because "Notion" works as a cloud platform and internalizes its own application specific file management. But that is also the reason, why it is for "normal use-cases" good enough.
+
+![Timeline Segments for Timing and Context](/Users/xr/Documents/VERTICAL/Vertical-One/assets/notion-timeline.png)
 
 But besides all of that, there was another problem: I couldn't reference the visuals, not with Notion and especially not with my post-its.
 
 So I build a prototype with KirbyCMS in May 2019 – right after we had a workshop about it. Kirby only uses the filesystem for the backend of websites instead of databases like Wordpress.
 From there I could manage, categorize and prepare my video snippets in the interface of Kirby, which would then add the files in the specific directory. This way I could also see, which videos or snippets I still need to download, and got immediate feedback and an overview what tasks were still open. It was also good for adding further meta data for each video or snippet and generating download commands for specific sections.
+
+![KirbyCMS Video Asset Management on Local Filesystem](/Users/xr/Documents/VERTICAL/Vertical-One/assets/kirby-board.png)
+
 
 So Kirby was now for indexing my video-based, reference preserving research content, but this tool is not meant to be the tool for the actual performance. And this is what brought me back to the possibility of doing a desktop documentary.

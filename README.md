@@ -9,8 +9,7 @@ Currently you have to manually include the YAML meta block into the header of th
 ---
 author: Mike Huntemann
 title: "9x16: Verticality and the Paradigm of Mobile Video"
-subtitle: "An Exploratory Research about the Internet, Platforms and Approaches"
-date: "2019"
+subtitle: "An Exploratory Research about Internet Infrastructres, Media Production and Reflections on Research Approaches and Methodologies."
 lang: "en"
 titlepage: true
 titlepage-rule-color: "FFFFFF"

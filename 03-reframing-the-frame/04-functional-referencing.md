@@ -16,7 +16,7 @@ The “rendered” image hides its software influences, obfuscates its creation 
 
 Throughout my case-study of mobile platform research (in the network attached media chapter) I could see very clear how much the video content is dependent on the software environment. But I took my video editing software for granted and couldn't make the switch to see the same pattern there. But I was already there, four years ago, when I started this whole journey.
 
-In 2015, I worked on the project "Real-Time Propaganda", which was the first project of mine, that wasn't created within my "traditional" video editing tools. Its content lives within software, it was downloaded by software, it was analyzed by software, it was edited and orchestrated by software and performed by software. The whole process was highly software dependent.  
+In 2015, I worked on the project ["Real-Time Propaganda"](https://web.archive.org/web/20181021224906/https://newmediakassel.com/real-time-propaganda), which was the first project of mine, that wasn't created within my "traditional" video editing tools. Its content lives within software, it was downloaded by software, it was analyzed by software, it was edited and orchestrated by software and performed by software. The whole process was highly software dependent.  
 
 This project did only exist because I used YouTube as a database, which would process the videos in such a degree that they would generate subtitles with speech-to-text software to make content discovery more precise.
 Youtube still protects this „data-asset“ and it is still not part of the official API to request the "spoken content". With a workaround, I was now capable of accessing and gaining knowledge about the content without watching it and this links back to videos that are now machine readable!
@@ -51,3 +51,5 @@ I thought the initial “research tool” was on the application layer, but actu
 
 And we can go beyond that and ask:
 What if you don't even know if the project will become a video, a website, a PDF or a book – from a researcher perspective who is not directly bound to a specific medium in the first place but rather be the context of the research subject? As I described in the process of "TikTok Takeover", you don't even know what kind of content you potentially have to deal with. How do you then defer the decisions before it becomes a "product"? And further, what if it has to be cross-functional between multiple media formats and collaborators? How can this approach itself create "real collaboration" and not just a collection of "finished products", done separately?
+
+\newpage

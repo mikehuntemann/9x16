@@ -26,15 +26,15 @@ The memes are music-driven. It sets the mood and directs the pace. In my researc
 
 The underlying music supports this "plot twisting" even by their initial structure itself, for example by an uplifting build into a bass-drop or by further editing the music by heavily overused bass-amplifiers or other editing techniques. And sometimes a combination of multiple editing styles for even more extreme versions. Those kind of sounds are often user uploads, originating from Soundcloud or bass-boosted versions from YouTube. If that is the case, the users name is referenced as the "original uploader" of the soundtrack. In other cases, the platform-provided songs features the original musician and title at the bottom.
 
-**General Evolutionary Patterns**
-- genre / "genre-iteration" / anti-genre
-- conform or copy / enhance or reimagine / fight
-- expected / surprised / broken
+**General Evolutionary Patterns**  
+- genre / "genre-iteration" / anti-genre  
+- conform or copy / enhance or reimagine / fight  
+- expected / surprised / broken  
 
-**General Editing Patterns**
-- one-take
-- plot-twisting (binary states) directed by "drop"
-- more complex sequences directed by rhythm
+**General Editing Patterns**  
+- one-take  
+- plot-twisting (binary states) directed by "drop"  
+- more complex sequences directed by rhythm  
 
 ### Referencing System
 As I already mentioned, the platform focuses on the users visual "re-action" or "react-ability", implementing features to easily react to other content in split-screen square format, or when performed in groups as a staircase formation of ever smaller 9x16 content. These formats become "chain reactions" of asynchronous-produced group performances to the same source.
@@ -42,6 +42,8 @@ As I already mentioned, the platform focuses on the users visual "re-action" or 
 But TikTok's internal media reactions tool is not the only feature that makes it so referential. All assets that are used (music and filters) are transparent and available in the interface, giving each user the same possibilities and tools of creation. This can be seen as an evolution and increased capability of the instagram filters which were encoded into the image as such, hiding its references, but changed with the way how they approach "Stories", where the input or tool is also mentioned within the interface.
 
 // With this "openness", we can see "micro-creativity" at it's best. An atomized, "democratized" way of producing, bundled with a platform-specific referencing system that increases reproduction.
+
+![TikTok Takeover](/Users/xr/Documents/VERTICAL/Vertical-One/assets/tiktok-takeover.png)
 
 
 In my visual case-study "TikTok Takeover", I investigated the "#karmaisabitchchallenge" that got viral within the Chinese version of TikTok in early 2018, which then got cross-platform viral and internationally known after more and more people picked it up reacted to and reported on it. I mostly focused on the different timings and chain of events of the related assets and influences within the trend.
@@ -78,11 +80,13 @@ In general personal habit and the enhanced user experience of the devices aim to
 
 So what are all the ingredients at play? For this I sketched out an equation to be able to frame TikTok as ultimate tool for "vertical media" and my conclusion that this is the "end-game":
 
-```
-Vertical Media = (Mobile Device + Video + UI/UX) x Scale of Network x AI**  
+
+> **Vertical Media = (Mobile Device + Video + UI/UX) x Scale of Network x AI**  
+
 or more specifically:  
-**Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification
-```
+
+> **Flow as Lock-in Mechanism = (Always On + Image Flow + Flow of Interaction or Workflow) x Maximum Possible Reach x Amplification**
+
 
 And with these flows of constantly appearing "mirco-viralities", these rhythms and impulses for creation become the heartbeat of the network and they keep each other alive.
 

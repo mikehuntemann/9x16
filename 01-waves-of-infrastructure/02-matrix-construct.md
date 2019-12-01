@@ -11,4 +11,4 @@ The iPhone's interface could have been completely different. The screen was just
 But what the designers of the iPhone – as a combination of different technologies into a "new" unified product - did was presenting the users a surface they already knew, internally, intuitively.
 This mechanism is called *skeuomorphism*, which memes textures from the physical environment into the digital frame, that therefore signals the sense of familiarity, usability and orientation.
 
-![The Matrix / The iPhone](/Users/xr/Documents/VERTICAL/Vertical-One/assets/contruct-matrix-1.png)
+![The iPhone / The Construct](/Users/xr/Documents/VERTICAL/Vertical-One/assets/matrix-contruct-iphone.png)

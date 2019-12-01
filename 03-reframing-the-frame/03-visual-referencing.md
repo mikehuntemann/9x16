@@ -4,6 +4,9 @@ Desktop Documentaries can be described as a collection of media content which ar
 
 Kevin B. Lee, which I noted earlier, as well as Nick Briz are both Chicago-based media artists and have the same "school of thought". In their works they both reference the mid-70s "COPY-IT-RIGHT" approach by Phil Morton (and later jonCates) which ["encouraged people to make faithful copies, caring for and distributing Media Artworks as widely as possible"](https://web.archive.org/web/20180321192529/http://mediaart.historiesresearch.org/files/COPYITRIGHT_jonCates_May2009.pdf), who would later teach at the School of the Art Institute of Chicago.
 
+![Visual Referencing](/Users/xr/Documents/VERTICAL/Vertical-One/assets/visual-referencing.png)
+
+
 In ["Apple Computers"](https://www.youtube.com/watch?v=1GyvH3LApDI) (2013), Briz sets the story in the software environment which he would then criticize for Apple's „pro-active decision-making“ for the consumers. Newer software updates would limit the systems backward compatebilites, functions and capabilities as a tradeoff to increase the "user experience and security" for the end user. But these decisions interfere with the artists, researchers and developers that wanted to experiment within these software environment. Within the work, Briz emphasis that [„copying is how creativity works“](https://youtu.be/1GyvH3LApDI?t=1170) and contrasts Apple's software policies and changes to the statements of Steve Job's early statements that they bootstrapped out of existing ideas and that [„Apple has always been shameless about stealing great ideas“](https://youtu.be/1GyvH3LApDI?t=1150).
 
 Briz uses the desktop environment to compose different layers of video footage and recordings from the local filesystem as well as online sources containing websites, videos and songs. This way and also in harmony with the "COPY-IT-RIGHT" approach, Briz integrates the visual references to each source and does not try to hide its origins.   
@@ -21,12 +24,21 @@ self-recording, descriptive research, reconstructing the approach by explaining 
 // Link to Self-recorded ["proper framing"](bit.ly > youtube.com) and ["analyzing transformers the premake"](bit.ly > youtube.com)
 // replaceable links > containers
 
+![Recordings of Descriptive Research](/Users/xr/Documents/VERTICAL/Vertical-One/assets/self-recording-1.png)
+
+
 In addition to that, I looked into the works of Forensic Architecture, which is in terms of its visuality the biggest influence for my case-study. One could say that it is less "artistic", more evidence-based research with crowdsourced media content, with a strong focus on the evidence itself, combined with other approaches of graphs concerning timing and relationships of the different sources.
 For my case-study, I have chosen not to use the visual references of the desktop operating system it was build in, because now i also have to switch between mobile operating systems and the browser and it is not the context the "story" takes place. But also in terms of "controllability" of timing and transitions for the montage.
 So I developed this case-study completely in After Effects, re-building multiple compositions to one big collection of material that propagated throughout different networks in a specific sequence of events (as far as it possible to identify and recreate "the history").
 
 But I have to emphasize that this research and its development didn't happen in After Effects at first. The process was as follows:
 Due to the uncertainty and lack of knowledge in the beginning, you don't start your research in the "right order". This goes back to the approach of atomization and fragmentation of content itself. I have a linear document to begin with, which gets – over time – non-linear in terms of added content (in form of links and notes). There already happens some level of structuring and sense-making simply by the place and time the new piece of information gets added. After I have done some of the initial research, I went back to my card system which I created by converting my timeline (of the previous case-study of interface iterations throughout time) to a graph by adding multiple references and influences by connecting them.
+
+![Card System for Asset Collection](/Users/xr/Documents/VERTICAL/Vertical-One/assets/tiktok-takeover-cards.png)
+
+
+
+
 
 The card system for "TikTok Takeover" worked for me as a pre-visualization, a proxy for the available assets, which I would extend and rearrange while I was still researching. It is an "agile storyboard". But this exactly is the problem of After Effects or any other video editing software right now: it is a legacy tool for "traditional" video production. It does not anticipate multiple sources on a bigger "workspace", it forces you to "look through the virtual camera", defined by your initial, fixed project settings.
 It also does not anticipate the internet, exclusively in their export presets for media platforms. But their premise is, that the content you edit "lives" on your computer and that you probably "own" it.

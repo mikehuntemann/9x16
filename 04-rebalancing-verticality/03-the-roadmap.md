@@ -28,7 +28,7 @@ A neat side-effect is that the network doesn't have to handle redundant copies a
 
 If that is the case, the network splits the file into its chunks and links the different parts of the file together like this:
 
-// Add IPFS Screenshot here from Video File Upload (Nov 26, 18:16)
+![Video File in IPFS Data Tree](/Users/xr/Documents/VERTICAL/Vertical-One/assets/ipfs-file.png)
 
 The result is then again, one single content identifier build out of multiple identifiers, a simple tree, like a folder on our local filesystem.
 
