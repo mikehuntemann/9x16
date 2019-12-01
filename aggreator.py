@@ -22,7 +22,7 @@ f.close()
 for folder in sorted(md_folders):
     files = sorted(os.listdir(folder))
     for file in files:
-        if file.endswith('.md'):
+        if file.endswith('.md') and not file.startswith('store'):
             line = folder+"/"+file+" "
             print(line)
             f = open("exports/export-command.txt", "a")
