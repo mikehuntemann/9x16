@@ -14,10 +14,11 @@ In terms of mobile media production within networks, it started with simple text
 - Frameworks, developer tools and unified devices make it easier create apps on the iPhone (verticality, efficiency, usability)
 - Increasing the processing capacities of mobile devices (Moore's law)
 - Increasing image quality of mobile devices (second or third order consequences of Moore's law)
-- Increasing upload and download bandwidth via enhanced cellular / wireless broadband communication standards (3G, 4G and 5G)
+- Increasing upload and download bandwidth via enhanced cellular / wireless broadband communication standards (3G, 4G and now 5G)
 - Increasing bandwidth of communication formats (less compression needed, text to photo to video to live-video)
+- Low-cost Android smartphones and apps bring mass-adoption (scale of available devices)
 - Increasing user-base of mobile-first social media platforms (scale of services)
-- Low cost Android smartphones and apps bring mass-adoption (scale of available devices)
+
 
 
 What I am observing is an increase in the speed of communication and with that a focus on the "now" and the "new", "hot topics" and "trends". And I am asking if this is really the path that "New Media" has to go, too? Trying to understand the fast and complex reality of today seems almost impossible with the amount of information out there.

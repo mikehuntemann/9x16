@@ -8,7 +8,7 @@
   - Patterns and Shifts in Tech
 
 #### Network-Attached Media
-  - File-sharing Approaches, Music Distribution, Content Management
+  - File-Sharing Approaches, Music Distribution, Content Management
   - Image Production Cycles, Time Compression and Feedback Systems
   - What does the Network want?
   - TikTok Takeover

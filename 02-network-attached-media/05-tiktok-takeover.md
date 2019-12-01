@@ -5,7 +5,7 @@ Interestingly, the cross-platform challenge didn't had a "unified soundtrack", o
 
 After Musically solved the [initial problem](https://web.archive.org/web/20171107015536/https://www.businessinsider.com/what-is-musically-2016-5?international=true&r=US&IR=T) of cropped videos – they were 9x16 natively, but the shared platforms were back then still focusing on the 1:1, square format, they repositioned their branding to the center after each clip – which got them to the top of the app stores shortly after.
 
-A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilities, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific soundtrack. TikTok works as a Meme-Machine. And it works "better than language".
+A few years later, TikTok emerges in the western culture, giving the app a different spin. It included more advanced in-app editing capabilities, mostly a combination of video filters and augmented reality features. With that, the focus was not only the performance to music, but content that would "challenge" the user to (re-)produce a certain editing style and performance to a specific soundtrack. TikTok works as a "Meme-Machine". And it works "better than language".
 
 > “All that is necessary is that the brain should be capable of imitation: memes will then evolve that exploit the capability to the full.” – Richard Dawkins, The Selfish Gene (1976), Memes: the new replicators, p. 200
 
@@ -15,7 +15,7 @@ What Twitter is for expressing and iterating thoughts in 280 characters, TikTok 
 With over [1.5B downloads](https://web.archive.org/web/20191116161829/https://www.cnet.com/news/tiktok-hits-1-5-billion-downloads-report-says/) today, TikTok reaches an international audience, mobilizing masses to contribute to ongoing challenges. In terms of the performance-based characteristics, TikTok seems as the "end-game" to what is the most engaging, most entertaining and easiest to (re-)produce app on the market today.
 
 ### Content Creation
-An interesting shift can be seen within the app. Compared to Facebook and Instagram, were all the content is highly identity- or brand-based, TikTok makes the challenges itself to the epicenter. It is an event, a happening, trying to get you active and participate. (In this sense, it is maybe more related to Twitter than anything else.) With that, each of the content creators become the transport layer of an idea, which seem to create either a copy of existing patterns, an iteration upon existing content or a pattern breaking "anti-genre", which resists to conform and tries to disrupt the users expectation or "micro viewing habit" (for each challenge or "branch" of challenges).
+An interesting shift can be seen within the app. Compared to Facebook and Instagram, were all the content is highly identity- or brand-based, TikTok makes the challenges itself to the epicenter. It is an event, a happening, trying to get you active and participate. With that, each of the content creators become the transport layer of an idea, which seem to create either a copy of existing patterns, an iteration upon existing content or a pattern breaking "anti-genre", which resists to conform and tries to disrupt the users expectation or "micro viewing habit" (for each challenge or "branch" of challenges).
 
 This little moment of a surprising element plays with the expectations of previously seen footage within the challenge. This type of media creates the incentive for creating even funnier versions and alterations.
 
@@ -25,7 +25,7 @@ The memes are music-driven. It sets the mood and directs the pace. In my researc
 The underlying music supports this "plot twisting" even by their initial structure itself, for example by an uplifting build into a bass-drop or by further editing the music by heavily overused bass-amplifiers or other editing techniques. And sometimes a combination of multiple editing styles for even more extreme versions. Those kind of sounds are often user uploads, originating from Soundcloud or bass-boosted versions from YouTube. If that is the case, the users name is referenced as the "original uploader" of the soundtrack. In other cases, the platform-provided songs features the original musician and title at the bottom.
 
 **General Evolutionary Patterns**  
-- genre / "genre-iteration" / anti-genre  
+- genre / genre-iteration / anti-genre  
 - conform or copy / enhance or reimagine / fight  
 - expected / surprised / broken  
 
@@ -55,11 +55,11 @@ Looking at the processes happening it TikTok can make you question the concept o
 
 Those emerging viral happenings are a temporary form of synchronization, or so-called ["micro-singularities"](https://web.archive.org/web/20190407203813/https://www.fastcompany.com/3047798/welcome-to-the-age-of-the-micro-singularity). They a rhythm-based, in repetitive production processes in relation to the content creators production and viewing habits. So what is the purpose? The survival of the information itself, the idea, the pattern, and through that the network in which it appears, grows and spreads. The meme can act as the fuel and amplifier of user-generated content. Its creation is decentralized in its nature and therefore hard to control.
 
-These creations are appreciated, supported and guided by the engagement- and performance-based AI systems, which don't control the creation itself but what gets seen and consequently gets replicated for content that seems to be "performative" enough.
+These creations are appreciated, supported and guided by the engagement- and performance-based AI systems, which don't control the creation itself but what gets seen and consequently gets replicated for content that seems to be "performative".
 
 TikTok (as well as any other AI-driven social media platform) monitors and responds to the unfolding creations, mutations and interactions, managing the ["content lifecycle"](https://web.archive.org/web/20180722215334/http://www.bytedance.com/ai/). Interestingly, this also implies the cycling, repetitive nature of patterns within the content.
 
-AI system can sense what resonates the most with our limbic system. We do it unconsciously, without being able to describe why it "kicks" us. Bundled with the functions of the meme, which also has a “psychological appeal” to us. This is probably now the fundamental problem of "information asymmetry", were technology becomes "more conscious" of behavior patterns than the users within the system.
+The AI system can "sense" what resonates the most with our limbic system. We do it unconsciously, without being able to describe why it "kicks" us. Bundled with the functions of the meme, which also has a “psychological appeal” to us. This is probably now the fundamental problem of "information asymmetry", were technology becomes "more conscious" of behavior patterns than the users within the system.
 
 > "[Memes] force us to react to them by trying to perfect an even better generation of armaments, thus assuring their own replication and survival. And in doing so they exact a price from those who let their minds be colonized by them, a price reckoned in psychic energy, labor, resources, and money." – Mihaly Csikszentmihalyi, The Evolving Self (1993), Memes vs Genes, p. 126
 
@@ -71,7 +71,7 @@ The produced content for brands and their marketing strategy were previously man
 Nevertheless, this network will and inevitably has to integrate advertising and initiate "commercialized challenges" or other forms of "paid or enforced virality" because this service is also stuck in the ad-business model paradigm.
 
 In the end, I want to focus on the technologies that come together in this analysis of this mobile-first meme-based platform.
-In general personal habit and the enhanced user experience of the devices aim to the same thing: reduce the cognitive load to a minimum to operate. In the constellation how TikTok implements their network specific functions, the challenges and the resulting memes also need as little thought as possible to be able to at least imitate the content. This makes it accessible to the masses.  
+Generally speaking, personal habit and the enhanced user experience of the devices aim to the same thing: reduction of the cognitive load to a minimum to be able to operate. In the constellation how TikTok implements their network specific functions, the challenges and the resulting memes also need as little thought as possible to be able to at least imitate the content. This makes it very appealing and accessible.
 
 So what are all the ingredients at play? For this I sketched out an equation to be able to frame TikTok as ultimate tool for "vertical media" and my conclusion that this is the "end-game":
 

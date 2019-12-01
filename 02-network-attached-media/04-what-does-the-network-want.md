@@ -27,7 +27,7 @@ Facebook wants to integrate everything, therefore content has to be Facebook spe
 
 > "Ultimately, our goal is to make the video experience on Facebook more social and to build more intention and habit around video"
 what does it mean for publishers and creators with Facebook audiences?
-community will be the core of video that it affects the content in itself. new content formats and best practices are emerging in this world of community-driven video." – [Daniel Danker (Product Management Director, Facebook)](https://youtu.be/RPqVq9A4o_4?t=1959)
+Community will be the core of video that it affects the content in itself. New content formats and best practices are emerging in this world of community-driven video." – [Daniel Danker (Product Management Director, Facebook)](https://youtu.be/RPqVq9A4o_4?t=1959)
 
 Based on their internal metrics, Facebook senses that "communal watching" amplifies the experience of watching video content, shared videos from friends are watched 40% longer, live videos together with friends result in longer watch times and have in general up to 6x the engagement.
 
@@ -51,9 +51,9 @@ In October 2019, YouTube [leaked several metrics](https://www.youtube.com/watch?
 
 And also unexpected UI/UX changes interfere with the accessibility of  video content. Platform changes are made by the company and often poorly communicated beforehand. There is no voice from the user-base, neither from the content creators nor the audience.
 
-What I also experienced in my own practice when working with genre specific research YouTube: when I want to use YouTube as an archive, they don't really let me do it. More accurately, YouTube doesn’t want to be an archive. It hides its history in the interface. In my case, I had to use a workaround with the google video search. Only there I was able to filter the content for example by specific dates.
+What I also experienced in my own practice when working with genre specific research YouTube: when I want to use YouTube as an archive, they don't really let me do it. More accurately, YouTube doesn’t want to be an archive. It hides its history in the interface. In my case, I had to use a workaround with the Google Video search. Only there I was able to filter the content for example by specific dates.
 
-To just quickly summarize: you can almost upload anything to their database, but their provided (visual) interface is always the bottleneck of access from the outside, paired with functional restrictions and the "spacial scarcity" of the vertical list of pre-sorted content. But this a general problem of "findability" and "discovery" and not specific to YouTube. This is a "curation problem", scarce screen space meets scarce time meets abundant content.
+To quickly summarize: you can almost upload anything to their database, but their provided (visual) interface is always the bottleneck of access from the outside, paired with functional restrictions and the "spacial scarcity" of the vertical list of pre-sorted content. But this a general problem of "findability" and "discovery" and not specific to YouTube. This is a "curation problem", scarce screen space meets scarce time meets abundant content.
 
 So back to Facebook:  
 As we could see, the basic mechanisms stay the same and are not "friend-dependent". This is just the dynamic with between producers of web videos and "their" communities, in which YouTube seems to be more passive or conservative with the functionalities of audience to channel communication, because the conversations or comments are always related to this one video and not generalized, like Facebook is providing with Groups.   
@@ -67,9 +67,9 @@ The video content only seems to act as a catalyst for engagement – a trigger �
 ### Distribution Algorithms Change
 But what happens when distribution systems of those platforms change?
 As I already mentioned with the case of YouTube, these changes happen frequently and unexpected.
-Facebook especially is a perfect example of what this means for the people on the platform: they are consistently reducing the amount of people you can reach "natively" within your Facebook Pages community. This limit of communication is called "organic reach" and it is declining from year-to-year, effectively incentivizing brands to use "paid reach" to keep the communication to your potential customers alive. Here it becomes clear, that you don't "own" your community, even though you might see how many followers you have. This is not peer-to-peer, the connection is not guaranteed when you have to use facebook as a proxy or have to have it as a gatekeeper to the community.
+Facebook especially is a perfect example of what this means for the people on the platform: they are consistently reducing the amount of people you can reach "natively" within your Facebook Pages community. This limit of communication is called "organic reach" and it is declining from year-to-year, effectively incentivizing brands to use "paid reach" to keep the communication to your potential customers alive. Here it becomes clear, that you don't "own" your community, even though you might see how many followers you have. This is not peer-to-peer, the connection is not guaranteed when you have to use Facebook as a proxy and gatekeeper to the community.
 
-But this mechanism is exactly the same as we have seen in the "file-sharing approaches" chapter. "organic reach" acts in this case as the  bandwidth limitation we saw with the file-hosting services that offered a "freemium" business model: free but limited communications with the server or paid, premium access with certain privileges. Pay-to-win!
+But this mechanism is exactly the same as we have seen in the "file-sharing approaches" chapter. "Organic reach" acts in this case as the  bandwidth limitation we saw with the file-hosting services that offered a "freemium" business model: free but limited communications with the server or paid, premium access with certain privileges. Pay-to-win!
 
 Another example I want to bring up is the so-called "pivot to video".
 
@@ -82,7 +82,7 @@ This led to a series of job-cuts within the media landscape because of the prior
 
 Remarkably, three years later and after facing a lot of pressure, Facebook changes the algorithm again with a "pivot to meaningful":
 
-> "One of our big focus areas for 2018 is making sure the time we all spend on Facebook is time well spent. (...) But too often today, watching video, reading news or getting a page update is just a passive experience." - [Mark Zuckerberg](https://web.archive.org/web/20191005033943/https://www.facebook.com/zuck/posts/10104413015393571)
+> "One of our big focus areas for 2018 is making sure the time we all spend on Facebook is time well spent. (...) But too often today, watching video, reading news or getting a page update is just a passive experience." – [Mark Zuckerberg](https://web.archive.org/web/20191005033943/https://www.facebook.com/zuck/posts/10104413015393571)
 
 > "With this update, we will also prioritize posts that spark conversations and meaningful interactions between people. To do this, we will predict which posts you might want to interact with your friends about, and show these posts higher in feed. These are posts that inspire back-and-forth discussion in the comments and posts that you might want to share and react to – whether that’s a post from a friend seeking advice, a friend asking for recommendations for a trip, or a news article or video prompting lots of discussion."
 – ["Bringing People Closer Together" (Facebook Newsroom)](https://web.archive.org/web/20191030231904/https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together/)

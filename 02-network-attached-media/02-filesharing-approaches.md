@@ -1,13 +1,13 @@
 ## File-sharing Approaches, Music Distribution, Content Management
 
-But before we are going into the specifics of mobile image production, I first want to make the case for the "natural states" of technological developments, the markets and the legal system. This can be seen as a small case-study of "frameless media" (in this case the MP3, as compressed music file) which can help us to identify general patterns of "musical data" distribution without the influences of "visual interoperability" within interfaces. IMHO, this patterns becomes even more clear due to the relatively small file sizes, costs and the general interest in music, as well as the speed in which the music industry got disrupted by these internet technologies.
+But before we are going into the specifics of mobile image production, I first want to make the case for the "natural states" of technological developments, the markets and the legal system. This can be seen as a case-study of "frameless media" (in this case the MP3, as compressed music file) which can help us to identify general patterns of "musical data" distribution without the influences of "visual interoperability" within interfaces. IMHO, this patterns becomes even more clear due to the relatively small file sizes, costs and the general interest in music, as well as the speed in which the music industry got disrupted by these internet technologies.
 
 This will lead to an explanation why we inevitably had to experience this extreme form of verticality. I now want to sketch out the underlying mechanics and limitations of the three waves of infrastructural shifts that power, manage and control instances of the internet and what trade-offs where made by the users and where digital files are stores and managed over time.
 
 
-### Wave One: P2P File-sharing
+### Wave One: P2P File-Sharing
 
-As part of and a parallel development of the early web 2.0, peer-to-peer protocols enabled participants of a network to exchange files without having a dedicated server but only the personal computer which acts as server and client at the same time. P2P became popular especially for music sharing with the emergence of Napster, the first generation of these exchange services. Parts of the infrastructure still included centralized indexing servers or directories of available files, which can be seen in hindsight as "single point of failure" for these networks because of the legal frameworks they are operating in locally as a company.
+As a part and parallel development of the early web 2.0, peer-to-peer protocols enabled participants of a network to exchange files without having a dedicated server but only the personal computer which acts as server and client at the same time. P2P became popular especially for music sharing with the emergence of Napster, the first generation of these exchange services. Parts of the infrastructure still included centralized indexing servers or directories of available files, which can be seen in hindsight as "single point of failure" for these networks because of the legal frameworks they are operating in locally as a company.
 
 
 #### Protocols and applications (1999 – 2005)
@@ -38,7 +38,7 @@ But now I want to look at the "technical tradeoffs" this form of distribution me
 Peer-to-Peer file-sharing had the missing incentive structure for offering the content permanently or 24h a day because the personal computers were not meant to be "always-on" devices as the "dedicated server". This led to a marketplace on the basis of altruism, therefore paving the way for the "free-rider problem". The problem describes the state of a market which becomes dysfunctional due to lack of transactional value or free access to products where the users end up by only taking and not contributing back.
 
 In combination with a limited upload capacity which was asymmetrical to the download rate (56k, ISDN, ADSL), which can be seen as a Web 1.0 read-only artifact, compromises more bandwidth for the download within the physical connection, which technically further incentives to "just use" services or to be a "end-user" – back to a client-only instead of a server-client combination as equal participant. In addition to all the technical limitations, the location-based regulatory frameworks  suppressed the usage of file-sharing by the narration of piracy (stresses existing or "legacy" copyright and "intellectual property" laws) that would later be even more extended my the Hollywood and the film industry ("You wouldn't steal a car!") which resulted in more threats of potential legal action against the service providers but further to each individual who was actively participating.
-These threads led to the shutdown of multiple, centralized services that could be held reliable against copyright infringements in the first place as a single-point of failure from a infrastructural perspective. But decentralized approaches and protocols would be "out-of-control", from a legal perspective.
+These threads led to the shutdown of multiple, centralized services that could be held reliable against copyright infringements. But decentralized approaches and protocols would be "out-of-control", from a legal perspective.
 
 ### Wave One: File-sharing Services
 
@@ -93,17 +93,17 @@ The DRMs would later causes lawsuits against Apple and were removed in 2007 but 
 
 Apple then released the **iPhone 2G (2007)** and one year later its general purpose hardware device with the **iPhone 3G (2008)** in combination with the **App Store (2008)** which would make iOS app development available to the developer community. This way, the iPhone itself created its own platform and services as a new medium which inherited the same control mechanisms of filesystem management and abstraction for the end-user.
 
-Summary of changes:
-- from general purpose hardware (Desktop PCs)
-- to media specific handheld hardware
-- to media distribution as a service
-- to general purpose handheld hardware
-- to media and application distribution as a service
+Summary of changes:  
+- from general purpose hardware (Desktop PCs)  
+- to media specific handheld hardware  
+- to media distribution as a service  
+- to general purpose handheld hardware  
+- to media and application distribution as a service  
 
 
 ### Wave Three: Streaming Services & Demonetization
 
-With iOS and Android as the main driver of this shift to smartphone technology, these software platform solidified the way where the media should come from. The dualism of the local or on-device music library on the one hand, and the access to other streaming platforms via 3rd-party apps on the other hand.
+With iOS and Android as the main driver of this shift to smartphone technology, these software platforms solidified the way where the media should come from. The dualism of the local or on-device music library on the one hand, and the access to other streaming platforms via 3rd-party apps on the other hand.
 
 The parallel development of streaming services of **Spotify (2006)** or **Soundcloud (2007)** for example made the early file-sharing seem almost unnecessary. Content inside of these platforms were either "all in one place", easier to navigate or to discover, didn't need individual payments or "ownership" and could be collaboratively managed or handled with platform specific functions.
 
