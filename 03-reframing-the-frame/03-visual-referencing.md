@@ -23,7 +23,7 @@ So I started to analyze the methods and approached within that genre and how muc
 I did some parts of self-recording, as a form of descriptive research, trying to deconstructing the approaches by explaining it out loud.
 I also recreated and imitated some of the techniques in my early research of desktop documentaries and used it for a prototype and a presentation format for my early approaches within this topic.
 
-![Recordings of Descriptive Research](/Users/xr/Documents/VERTICAL/Vertical-One/assets/self-recording-1.png)
+![Recordings of Descriptive Research](/Users/xr/Documents/VERTICAL/Vertical-One/assets/self-recording.png)
 
 In addition to that, I looked into the works of Forensic Architecture, which is in terms of its visuality the biggest influence for my case-study. One could say that it is less "artistic", more evidence-based research with crowdsourced media content, with a strong focus on the evidence itself, combined with other approaches of graphs concerning timing and relationships of the different sources.
 
